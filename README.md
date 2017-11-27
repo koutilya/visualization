@@ -9,3 +9,5 @@
    -improved crawler to crawland scrap data from 63 pages from http://sudharma.epapertoday.com/category/news/page/1/ to                         http://sudharma.epapertoday.com/category/news/page/63/ and stored in a file.
    -read and travesring parse tree in beautifulsoup (about .children,.desendendts,.next_sibling,.next_elemnt etc) from                         crummy.com/software/BeautifulSoup/bs4/doc/#
    -read some more basics in panda dataframe , scrapping
+##26/11/17
+  - improved crawler to get seperted files , learnig corpus nltk python 
