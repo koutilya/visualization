@@ -12,3 +12,7 @@
    
 ##26/11/17
   - improved crawler to get seperted files , learnig corpus nltk python 
+
+##26/11/17
+   -read basics of toenize , plaincorpusreader ,tried reading hindi tokenizer but didn't understood .
+   -basic understand of new work given .
