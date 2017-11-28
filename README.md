@@ -13,6 +13,9 @@
 ##26/11/17
   - improved crawler to get seperted files , learnig corpus nltk python 
 
-##26/11/17
+##27/11/17
    -read basics of toenize , plaincorpusreader ,tried reading hindi tokenizer but didn't understood .
    -basic understand of new work given .
+
+##28/11/17
+   -writing a code to get tables  of data in sanskrit reader for one senctence .just got all tables of a level .now scrap each level to       get data objects 
