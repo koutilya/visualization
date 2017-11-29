@@ -19,3 +19,8 @@
 
 ##28/11/17
    -writing a code to get tables  of data in sanskrit reader for one senctence .just got all tables of a level .now scrap each level to       get data objects 
+   
+##29/11/17 
+   -written a crawler to get all data   of    ['id','level','color_class','position','chunk_no','word','lemma','morph','colspan','wordlenth' ] for a single word only after sentece given to get sanskrit reader .now should pharse some string to  get  more information like ['pre_verb','aux_inf'] .
+   
+   
