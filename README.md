@@ -24,4 +24,7 @@
    -written a crawler to get all data   of    ['id','level','color_class','position','chunk_no','word','lemma','morph','colspan','wordlenth' ] for a single word only after sentece given to get sanskrit reader .now should pharse some string to  get  more information like ['pre_verb','aux_inf'] .
    -got aux_inf
    
+ ##30/11/17
+ -debbungin g to get corect lemma ,auxi information
+   
    
