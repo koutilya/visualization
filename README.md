@@ -26,5 +26,8 @@
    
  ##30/11/17
  -debbungin g to get corect lemma ,auxi information
+ 
+ ##01/12/17
+ -got full pds data for all line in file and stored in text file .
    
    
