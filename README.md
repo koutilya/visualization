@@ -29,5 +29,8 @@
  
  ##01/12/17
  -got full pds data for all line in file and stored in text file .
+ 
+ ##02/12/17
+ -finished code for all lines in directory to get tables data for every line
    
    
