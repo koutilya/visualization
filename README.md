@@ -32,8 +32,13 @@
  
  ##02/12/17
  -finished code for all lines in directory to get tables data for every line
- 
+
  ##03/12/17
- -exucute code to get files whule ccoreecting mistakes .due to time.sleep() took nearly 8hrs still running 
+ -exucute code to get files whule ccoreecting mistakes .
+ 
+ ##04/12/17
+ -not done work today much .just checked line () and contents ,
+ 
+ 
    
    
