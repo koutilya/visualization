@@ -1,0 +1,1575 @@
+filename : 9std_sents_GOLD_complex.txt
+lineno : 21
+rAjapuruRaH SiSuM nqpasya samakRam BUmO nikRipya avaxaw mahArAja xve nAryO SiSoH kAraNena parasparam kalaham vivAxam ca kuruwaH (yaw)
+filename : 9std_sents_GOLD_complex.txt
+lineno : 22
+wam xqRtvA wayoH ekA nArI nqpasya samakRam BUmO pawiwvA avaxaw mahArAja kqpAluH Bava mAm rakRa (yaw) (ca)
+filename : 9std_sents_GOLD_complex.txt
+lineno : 23
+wasyAH roxanam AkarNya wasyAH xaSAm ca xqRtvA nqpaH avaxaw eRAH nArI SiSoH jananI (yaw)
+filename : 9std_sents_GOLD_complex.txt
+lineno : 79
+alpAw kAlAw paScAw saH nqpaH avaxaw he rAja-puruRa asinA SiSum xvayoH KaNdayoH kqwvA ekam ekam KaNdam nArIByAm yacCa (yaw)
+filename : apte_higher_skt_sents_GOLD_DATA.txt
+lineno : 1
+yA(i) (aswi) wapoviSeRapariSafkiwasya sukumAraM praharaNaM mahenxrasya prawyAxeSaH rUpagarviwAyAH SriyaH alafkAraH svargasya sA(i) naH priyasaKI urvaSI kuberaBavanAw prawinirvarwamAnA samApawwixqRtena keSinA xAnavena ciwraleKAxviwIyA banxIgrAhaM gqhIwA(aswi)
+filename : apte_higher_skt_sents_GOLD_DATA.txt
+lineno : 4
+kaH ewaw prawyewi sA(kOSalyA-1) eva iyam iwi (aswi)
+filename : apte_higher_skt_sents_GOLD_DATA.txt
+lineno : 5
+sArWavAhasya arWapaweH vimarxakAH bahiScarAH prANAH (sanwi)
+filename : apte_higher_skt_sents_GOLD_DATA.txt
+lineno : 7
+wvaM ca ahaM ca (ca) vqwrahanumAnO samprayujyAvahe
+filename : apte_higher_skt_sents_GOLD_DATA.txt
+lineno : 8
+pravqxXaM(aswi) yaw(i) vEraM mama Kalu SiSoH eva kuruBiH na wawra(i) AryaH (Bavawi) hewuH na Bavawi kirItI na ca yuvAm (Bavawi)
+filename : apte_higher_skt_sents_GOLD_DATA.txt
+lineno : 10
+amqwaM wvaM afge (asi)
+filename : apte_higher_skt_sents_GOLD_DATA.txt
+lineno : 11
+wvaM jIviwam (asi)
+filename : apte_higher_skt_sents_GOLD_DATA.txt
+lineno : 13
+balavAn api niHswejaH kasya aBiBavAspaxam (Bavawi)
+filename : apte_higher_skt_sents_GOLD_DATA.txt
+lineno : 14
+wIrWoxakam ca vahniH ca (ca) na anyawaH SuxXim arhawaH
+filename : apte_higher_skt_sents_GOLD_DATA.txt
+lineno : 15
+ikRvAkuvaMSyaH(puraFjayaH) kakuxaM nqpANAM kakuwsWaH iwi AhiwalakRaNaH aBUw
+filename : apte_higher_skt_sents_GOLD_DATA.txt
+lineno : 16
+aswi wAvaw ekaxA prasafgawaH kaWiwaH eva mayA mAXavABiXAnaH kumAraH yaH(i) wvaM iva mAmakInasya manasaH xviwIyaM nibanXanaM (aswi) (saH(i))
+filename : apte_higher_skt_sents_GOLD_DATA.txt
+lineno : 19
+sakalaBuvanawalasarvarawnAnAM uxaXiH iva ekaBAjanaM xevaH (aswi)
+filename : apte_higher_skt_sents_GOLD_DATA.txt
+lineno : 20
+vihafgaH ca ayam AScaryaBUwaH niKilaBuvanawalarawnam (aswi) iwi kqwvA xevapAxamUlam AxAya AgawA aham icCAmi xevaxarSanasuKam anuBaviwuM iwi (vijFApayawi)
+filename : apte_higher_skt_sents_GOLD_DATA.txt
+lineno : 22
+rahasyaBexaH yAFcA nERTuryaM calaciwwawA kroXaH nissawyawA xyUwaM ewaw (ca) miwrasya xURaNam (aswi)
+filename : apte_higher_skt_sents_GOLD_DATA.txt
+lineno : 23
+axeyam AsIw wrayam eva BUpaweH SaSipraBaM Cawram uBe cAmare (ca)
+filename : apte_higher_skt_sents_GOLD_DATA.txt
+lineno : 24
+nisargaBinnAspaxaM ekasaMsWaM asmin xvayaM SrIH ca sarasvawI ca (aswi) (ca)
+filename : apte_higher_skt_sents_GOLD_DATA.txt
+lineno : 28
+XanyA (aswi) sA(i) yA(i) AryapuwreNa bahu manyawe yA(i) AryapuwraM vinoxayanwI ASAnibanXanaM jAwA jIvalokasya
+filename : apte_higher_skt_sents_GOLD_DATA.txt
+lineno : 29
+manxOwsukyaH asmi (aham) nagaragamanaM prawi
+filename : apte_higher_skt_sents_GOLD_DATA.txt
+lineno : 39
+asyAM velAyAM kim nu Kalu mAm anwareNa cinwayawi (ca) vESampAyanaH kiM vA varAkI pawraleKA (cinwayawi) kiM vA rAjapuwralokaH (cinwayawi) iwi cinwayan eva saH nixrAM yayuH
+filename : apte_higher_skt_sents_GOLD_DATA.txt
+lineno : 40
+wasyAH xevIM vasumawIm anwareNa mahaw upAlamBanam gawaH asmi (aham)
+filename : apte_higher_skt_sents_GOLD_DATA.txt
+lineno : 41
+sakqw kqwpraNayaH ayaM janaH (aswi)
+filename : apte_higher_skt_sents_GOLD_DATA.txt
+lineno : 42
+kaWaya kaWam iyanwaM kAlam avasWiwA mayA vinA BavawI (iwi)
+filename : apte_higher_skt_sents_GOLD_DATA.txt
+lineno : 43
+BAva preRiwAH (we)(i) hi svagqhAn mahArAjena lafkAsamarasuhqxaH mahAwmAnaH plavafgarakRasAH saBAjana-upasWAyinaH ca (preRiwAH) nAnAxiganwapAvanAH brahmarRayaH rAjarRayaH ca yaw(i)-ArAXanayA iyawaH xivasAn uwsavaH AsIw
+filename : apte_higher_skt_sents_GOLD_DATA.txt
+lineno : 46
+AjFApwA_asmi (aham) xevyA XAriNyA acirapravqwwopaxeSaM caliwaM nAma nAtyam anwareNa kIxqSI mAlavikA (aswi) iwi nAtyAcAryam AryagaNaxAsaM praRtum
+filename : apte_higher_skt_sents_GOLD_DATA.txt
+lineno : 50
+waw ehi yAvaw(i) eva ayaM asuBiH na viyujyawe wAvaw(i) eva gqhANa imam (ca) avawAraya salilasamIpam
+filename : apte_higher_skt_sents_GOLD_DATA.txt
+lineno : 51
+iwi(=30) aBiXAya wena mAM saraswIram anAyayaw
+filename : apte_higher_skt_sents_GOLD_DATA.txt
+lineno : 59
+saH aham amunA haraxawwena praXAnapuruRasamakRam ayaM na me pAxarajasA wulyaH (aswi) iwi aXikRipwaH
+filename : apte_higher_skt_sents_GOLD_DATA.txt
+lineno : 60
+(warhi) SApiwA asi mama lavafgikAvalokiwayoH jIviwena yaxi vacA na kaWayasi.
+filename : apte_higher_skt_sents_GOLD_DATA.txt
+lineno : 61
+waw AganwukawayA aSruwapUrvaH AvAByAm eRaH vqwwAnwaH (aswi)
+filename : apte_higher_skt_sents_GOLD_DATA.txt
+lineno : 62
+Bagavawi wAmase ayaM karikalaBakaH wAvaw IxqSaH sampannaH (aswi) wO punaH na jAne kuSalavO ewAvawA kAlena kIxqSO iva saMvqwO (syAwAm)
+filename : apte_higher_skt_sents_GOLD_DATA.txt
+lineno : 64
+wasyAH ca xvAri SilAwale samupaviRtaH (saH) valkalaSayanaSiroBAgavinyaswavINAm wawaH parNaputena nirJarAw AgqhIwam arGasalilam AxAya wAm kanyakAm samupasWiwAm alam awiyaMwraNayA kqwam(alam) awiprasAxena Bagavawi prasIxa vimucyawAm ayam awyAxaraH wvaxIyam Alokam api sarvapApa-praSamanam aGamarRaNam iva paviwrIkaraNAya alam AsyawAm iwi abravIw
+filename : apte_higher_skt_sents_GOLD_DATA.txt
+lineno : 65
+uRasi ca uwWAya wasya jaraw-xravidaXArmikasya icCayA nisqRtEH XanavisarEH pUrayiwvA manoraWam aBimawam aBiramaNIyeRu praxeSeRu nivasan alpEH iva(uwprekRA) ahoBiH ujjayinIm AjagAma
+filename : apte_higher_skt_sents_GOLD_DATA.txt
+lineno : 66
+kim awra Aryasya (kAryam)
+filename : apte_higher_skt_sents_GOLD_DATA.txt
+lineno : 68
+sva-hqxayena api vixiwavqwwAnwena amunA jihremi kimuwa(warhi_kiM_vakwavyam) apara-hqxayena (vixiwavqwwAnwena)
+filename : apte_higher_skt_sents_GOLD_DATA.txt
+lineno : 69
+pravAwaSayane niRaNNA xevI rakwacanxanaXAriNA parijanahaswagqhIwena caraNena (yukwA) BagavawyA kaWABiH vinoxyamAnA wiRTawi
+filename : apte_higher_skt_sents_GOLD_DATA.txt
+lineno : 74
+sarvajFasya api ekAkinaH nirNayAByupagamaH xoRAya (kalpawe/sampaxyawe/Bavawi)
+filename : apte_higher_skt_sents_GOLD_DATA.txt
+lineno : 75
+na ewaw nyAyyam (aswi)
+filename : apte_higher_skt_sents_GOLD_DATA.txt
+lineno : 77
+capalaH ayaM bahu (aswi)
+filename : apte_higher_skt_sents_GOLD_DATA.txt
+lineno : 81
+aWavA na we xoRaH aswi yawaH sAXoH SikRA guNAya sampaxyawe na asAXoH (sampaxyawe) (SikRA)
+filename : apte_higher_skt_sents_GOLD_DATA.txt
+lineno : 82
+mUrKa SikRApiwaH(san) api na SikRiwaH wvam
+filename : apte_higher_skt_sents_GOLD_DATA.txt
+lineno : 90
+saKi vAsanwi xuHKAya eva suhqxAm ixAnIm rAmasya xarSanam (BaviRyawi)
+filename : apte_higher_skt_sents_GOLD_DATA.txt
+lineno : 91
+samAMsaH maXuparkaH (Bavawi) iwi AmnAyam bahumanyamAnAH SrowriyAya aByAgawAya vawmawarIm mahokRam vA nivapanwi gqhameXinaH
+filename : apte_higher_skt_sents_GOLD_DATA.txt
+lineno : 92
+anuRTiwanixeSaH api sawkriyAviSeRAw anupayukwam(pqWak) iva AwmAnam samarWaye (aham)
+filename : apte_higher_skt_sents_GOLD_DATA.txt
+lineno : 95
+ewe(i) hi hqxayamarmaBixaH (Bavanwi) saMsAraBAvAH yeByaH(i) biBawsamAnAH saMwyajya sarvAn kAmAn manIRiNaH araNye viSrAmyanwi
+filename : apte_higher_skt_sents_GOLD_DATA.txt
+lineno : 99
+vawse mAlawi janmanaH praBqwi vallaBA we lavafgikA (aswi)
+filename : apte_higher_skt_sents_GOLD_DATA.txt
+lineno : 100
+yaxi asmawwaH varIyAn rAkRasaH avagamyawe waw(warhi) ixam Saswram wasmE xIyawAm
+filename : apte_higher_skt_sents_GOLD_DATA.txt
+lineno : 106
+BAva wAvawpraWiwayaSasAm BAsasOmilakakavipuwrAxInAm prabanXAn awikramya varwamAnakaveH kAlixAsasya kriyAyAm kaWam pariRaxaH bahumAnaH (aswi)
+filename : apte_higher_skt_sents_GOLD_DATA.txt
+lineno : 107
+yaH(i) pOraveNa rAjFA XarmAXikAre niyukwaH saH(i) ahaM aviGnakriyA-upalamBAya XarmAraNyam ixam AyAwaH
+filename : apte_higher_skt_sents_GOLD_DATA.txt
+lineno : 109
+xqDaM Kalu wvayi baxXaBAvA UrvaSI (aswi)
+filename : apte_higher_skt_sents_GOLD_DATA.txt
+lineno : 110
+saH ca snihyawi AvayoH uwkaNTawe ca yuRmaw-saMnikarRasya*(nikarRasya)
+filename : apte_higher_skt_sents_GOLD_DATA.txt
+lineno : 111
+awra(eRaH*) xevaH raGupawiH wiRTawi
+filename : apte_higher_skt_sents_GOLD_DATA.txt
+lineno : 112
+xurjanawvam ca BavawaH vAkyAw eva jFAwam yaw anayoH BUpAlayoH vigrahe Bavaw-vacanam eva nixAnam (aswi)
+filename : apte_higher_skt_sents_GOLD_DATA.txt
+lineno : 115
+wasyAH paNdiwakOSikyA sahiwayAH samakRam eva nyAyyaH vyavahAraH (aswi)
+filename : apte_higher_skt_sents_GOLD_DATA.txt
+lineno : 117
+(warhi) wasmE kopiRyAmi yaxi waM prekRamANA (aham) AwmanaH praBaviRyAmi
+filename : apte_higher_skt_sents_GOLD_DATA.txt
+lineno : 121
+iwi aBiXAya kim iyam vakRyawi iwi (cinwayan) maw-muKAsakwaxqRtiH kapiFjalaH wURNIm_AsIw
+filename : apte_higher_skt_sents_GOLD_DATA.txt
+lineno : 122
+waw evam avasWiwe yaw(i) awra avasaraprApwam IxqSasya ca anurAgasya asmaxAgamanasya ca anurUpam AwmanaH vA samuciwam wawra(i) praBavawi BavawI (ca) (aswi)
+filename : apte_higher_skt_sents_GOLD_DATA.txt
+lineno : 123
+Xik mAm(i) xuRkqwakAriNI yasyAH(i) kqwe wava iyam IxqSI xaSA varwawe
+filename : apte_higher_skt_sents_GOLD_DATA.txt
+lineno : 126
+pawwane vixyamAne api grAme rawnaparIkRA (Bavawi)
+filename : apte_higher_skt_sents_GOLD_DATA.txt
+lineno : 128
+ixam avasWAnwaraM gawe wAxqSe anurAge (sawi) kimvA smAriwena (Bavawi)
+filename : apte_higher_skt_sents_GOLD_DATA.txt
+lineno : 129
+xevena prawisixXe vasanwowsave wvam AmrakalikABafgam kim(kimarWam) AraBase
+filename : apte_higher_skt_sents_GOLD_DATA.txt
+lineno : 133
+arunXawIvasiRTAXiRTiweRu raGukaxaMbakeRu jIvanwIRu ca pravqxXAsu rAjFIRu (sawsu) kaWam ixaM jAwam
+filename : apte_higher_skt_sents_GOLD_DATA.txt
+lineno : 137
+rAjA xevImuKena xuhiwaram uvAca puwri wvayi xuhiwari sWiwAyAM kim evaM yujyawe yaw sarve pArWivAH mayA saha vigrahaM kurvanwi(kuryuH)
+filename : apte_higher_skt_sents_GOLD_DATA.txt
+lineno : 138
+aWa kaxA ciw avasannAyAm rAwrO aswAcalacUdAvalambini Bagavawi kumuxinInAyake canxramasi (sawi) laGupawanakaH nAma vAyasaH prabuxXaH kqwAnwam iva xviwIyam vyAXam AyAnwam apaSyaw
+filename : apte_higher_skt_sents_GOLD_DATA.txt
+lineno : 139
+wasya ca mama ca (ca) vapuHvasunI nimiwwIkqwya vEram vEropajIviBiH pOraXUrwEH uxapAxyawa
+filename : apte_higher_skt_sents_GOLD_DATA.txt
+lineno : 144
+waw eva paFcavatI vanam (aswi)
+filename : apte_higher_skt_sents_GOLD_DATA.txt
+lineno : 145
+sA eva priya saKI vAsanwI (aswi)
+filename : apte_higher_skt_sents_GOLD_DATA.txt
+lineno : 146
+we eva viviXaviSramBasAkRiNaH goxAvarIkAnanoxveSAH (sanwi)
+filename : apte_higher_skt_sents_GOLD_DATA.txt
+lineno : 147
+we eva jAwanirviSeRAH mqgapakRipAxapAH (sanwi)
+filename : apte_higher_skt_sents_GOLD_DATA.txt
+lineno : 149
+saH eva AryapuwraH (aswi)
+filename : apte_higher_skt_sents_GOLD_DATA.txt
+lineno : 150
+AyuRmAn eRaH vAgviRayaBUwaH saH we vIraH (aswi)
+filename : apte_higher_skt_sents_GOLD_DATA.txt
+lineno : 151
+mama api bahu vyAKyeyam awra (aswi)
+filename : apte_higher_skt_sents_GOLD_DATA.txt
+lineno : 152
+sAhasakAriNyaH (Bavanwi) wAH(i) yAH(i) svayaM sanxiSanwi samupasarpanwi vA
+filename : apte_higher_skt_sents_GOLD_DATA.txt
+lineno : 153
+ayam asO(i) mama jyAyAn AryaH kOSaH nAma (aswi) BarawASramAw prawinivqwwaH (yaH)(i)
+filename : apte_higher_skt_sents_GOLD_DATA.txt
+lineno : 154
+waxavasWAH vyasanaSawa-SaravyawAm upagawAH valmIkawqNAgrAvasWiwAH (janAH) jalabinxavaH iva pawiwam api AwmAnam na avagacCanwi
+filename : apte_higher_skt_sents_GOLD_DATA.txt
+lineno : 167
+wayoH baxXayoH kiMnimiwwaH ayaM mokRaH (aswi)
+filename : apte_higher_skt_sents_GOLD_DATA.txt
+lineno : 176
+iwi ewe ca anye ca (ca) me viRaNNahqxayasaMkalpAH prAxurAsan
+filename : apte_higher_skt_sents_GOLD_DATA.txt
+lineno : 182
+iwi eRaH vaH XarmaH (aswi)
+filename : apte_higher_skt_sents_GOLD_DATA.txt
+lineno : 185
+vyakwam (ewaw) AhiwuNdikaCaxmanA virAXagupwena Baviwavyam
+filename : apte_higher_skt_sents_GOLD_DATA.txt
+lineno : 187
+Aha xuRtAwman kurukulapAMsula evam awikrAnwamaryAxe wvayi (sawi) nimiwwamAwreNa pANdavakroXena Baviwavyam
+filename : apte_higher_skt_sents_GOLD_DATA.txt
+lineno : 190
+ahaM yena(i) iRtipaSumAraM mAriwaH saH(i) anena svAgawena aBinanxyawe
+filename : apte_higher_skt_sents_GOLD_DATA.txt
+lineno : 194
+aWa sUwraXAraH xAruvarmA kaWam (aswi)
+filename : apte_higher_skt_sents_GOLD_DATA.txt
+lineno : 197
+na yukwaM nAma we waWA purA ASramapaxe svaBAvowwAnahqxayam imaM janaM samayapUrvaM prawArya ixqSEH akRarEH prawyAKyAwum(yukwaM)
+filename : apte_higher_skt_sents_GOLD_DATA.txt
+lineno : 198
+na arhawi wAwaH gajapufgavaXAriwAyAM Xuri xamyaM niyojayiwum(arhawi)
+filename : apte_higher_skt_sents_GOLD_DATA.txt
+lineno : 199
+na hi SakyaM xEvam anyaWA karwum(SakyaM) aBiyukwena api
+filename : apte_higher_skt_sents_GOLD_DATA.txt
+lineno : 200
+kA vA gaNanA saMcewaneRu (aswi)
+filename : apte_higher_skt_sents_GOLD_DATA.txt
+lineno : 201
+apagawacewanAni api (ayam)(i) saMGatayiwum alaM_(aswi) yaxi asmE(i) rocawe (warhi)
+filename : apte_higher_skt_sents_GOLD_DATA.txt
+lineno : 204
+aham api asamarWaH Srowum (asmi)
+filename : apte_higher_skt_sents_GOLD_DATA.txt
+lineno : 206
+waw na arhasi kaWaM kaWam api viXqwAn imAn asulaBAn asUn punaH punaH smaraNaSokAnala-inXanawAm upanewum(arhasi)
+filename : apte_higher_skt_sents_GOLD_DATA.txt
+lineno : 208
+cirAw praBqwi AryaH pariwyakwa-uciwa-saMskAraH (aswi)
+filename : apte_higher_skt_sents_GOLD_DATA.txt
+lineno : 210
+yaxyapi sahasA svAmiguNAH na Sakyanwe vismqwuM(Sakyanwe) waWApi maxvijFApanaM mAnayiwum(arhawi) arhawi AryaH
+filename : apte_higher_skt_sents_GOLD_DATA.txt
+lineno : 213
+na Kalu na Kalu amaMgalAni cinwayiwum(arhanwi) arhanwi BavanwaH kOravAnAm
+filename : apte_higher_skt_sents_GOLD_DATA.txt
+lineno : 214
+kva nu Kalu saMsWiwe karmaNi (sawi) saxasyEH anujFApwaH SramaklAnwaH AwmAnaM vinoxayAmi (aham)
+filename : apte_higher_skt_sents_GOLD_DATA.txt
+lineno : 221
+wawaH xineRu gacCawsu (sawsu) pakRiSAvakAn Akramya kotaram AnIya prawyahaM KAxawi
+filename : apte_higher_skt_sents_GOLD_DATA.txt
+lineno : 226
+aye uxiwaBUyiRTaH (aswi) eRaH BagavAn aSeRaBUvanaxvIpaxvIpaH wapanaH
+filename : apte_higher_skt_sents_GOLD_DATA.txt
+lineno : 228
+yaxi punaH IxqSIM wvAm EkRvAkaH rAjA rAmaH paSyew waxA(warhi) asya snehena hqxayam aBiRyanxew
+filename : apte_higher_skt_sents_GOLD_DATA.txt
+lineno : 229
+xeva yaxi canxramasi URmA xahane ca awiSIlawvam aMSumAlini vA wamaH wamasvinyAM vA xivasaH mahoxaXO vA SoSaH kRiweH aXAraNaM vA SeRe parArWa-anuxyamaH vA sAXoH apriyavacananirgamaH vA svajanamuKAw (ca) samBAvyawe wawaH yuvarAje api xoRaH (syAw)
+filename : RSVP_karNa_GOLD.txt
+lineno : 2
+kaWaya me kA wvam (Bavasi) iwi
+filename : RSVP_karNa_GOLD.txt
+lineno : 3
+wvayA arcyamAnena sUryeNa saha wava praWamaparicayam kqwavawI swrI aham (asmi)
+filename : RSVP_karNa_GOLD.txt
+lineno : 9
+yaxA(-i) xinaprakASasUkRmekRikayA anXakArasya piXAnam apAvqwam syAw waxA(+i) kaWayAmi
+filename : RSVP_karNa_GOLD.txt
+lineno : 11
+arjunasya mAwA kunwI! (aswi)
+filename : RSVP_karNa_GOLD.txt
+lineno : 12
+aWakim wava viroXinaH arjunasya mAwA! (asmi)
+filename : RSVP_karNa_GOLD.txt
+lineno : 15
+kA sA SokAkulA mahilA (aswi)
+filename : RSVP_karNa_GOLD.txt
+lineno : 17
+arjunasya mAwA Kalu sA (aswi)
+filename : RSVP_karNa_GOLD.txt
+lineno : 27
+arjunasya mAwuH hqxayam ixam (aswi)
+filename : RSVP_karNa_GOLD.txt
+lineno : 28
+ayi rAjamAwaH! kimarWam iha AgawA(asi)
+filename : RSVP_karNa_GOLD.txt
+lineno : 33
+kuwra? (nayawi)
+filename : RSVP_karNa_GOLD.txt
+lineno : 35
+parAkramiNAm paFca rAjapuwrANAm BAgyavawi mAwaH! akulInasya kevalam maNdalAXipaweH mama wava hqxaye kuwra sWAnam? (aswi)
+filename : RSVP_karNa_GOLD.txt
+lineno : 36
+mama ananwarapuwreByaH pUrvam eva wava me hqxi sWAnam (aswi)
+filename : RSVP_karNa_GOLD.txt
+lineno : 37
+kaH me aXikAraH imam sWAnam prApwum (aswi)
+filename : RSVP_karNa_GOLD.txt
+lineno : 40
+(ahaM) wava svareNa gUDe cEwanye nimagnAm bAlyAvasWAm nIwaH asmi
+filename : RSVP_karNa_GOLD.txt
+lineno : 49
+SvaH pravarwamAnasaMgrAmasya pUrvaxine axya yawra(-i) BUmO yuxXaH pravarwayiwavyaH wawra(+i) eva kimarWaM mama viroXinaH arjunasya mAwuH svareNa mayA vismqwaH mama mAwqBAvaH jFApanIyaH?
+filename : RSVP_karNa_GOLD.txt
+lineno : 51
+yena mama hqxayam arjunam (prawi) pANdavAn prawi ca AkqRtam syAw?
+filename : RSVP_karNa_GOLD.txt
+lineno : 56
+vijayAya saMramBaH yaSasaH ASA xveRAveSaH (ca) ewe sarve svapnaxqRtaviRayAH praBAwe iva miWyABUwAH (sanwi)
+filename : RSVP_karNa_GOLD.txt
+lineno : 58
+naxyAH aparam wIram nayAmi yawra(-i) BayajanakavAlukApraxeSeRu xIpAH prakASanwe
+filename : RSVP_karNa_GOLD.txt
+lineno : 60
+evam mama puwra (aswu)
+filename : RSVP_karNa_GOLD.txt
+lineno : 72
+yasmin(-i) xurxine mayA mAwqBAvaH xURiwaH wasmin(+i) xine na wvam ekam api vacanam vakwum asamarWaH AsIH
+filename : RSVP_karNa_GOLD.txt
+lineno : 73
+wava kRamAguNaH wasyAH hqxayam xahawu (kRamAguNaH) pApam ca BasmIkarowu
+filename : RSVP_karNa_GOLD.txt
+lineno : 81
+rAjyam wu prApnuhi yawra(-i) we aswi aXikAraH wawra(+i)
+filename : RSVP_karNa_GOLD.txt
+lineno : 96
+yasyAm(-i) rAwrO aham jAwaH wasyAm(+i) aham anAmaXeyaH nagnaH eva pariwyakwaH 
+filename : SA_130_stories_GOLD.txt
+lineno : 9
+ (jIvAwmA) aMSarUpeNa sWAwuM na icCawi iwi 
+filename : SA_130_stories_GOLD.txt
+lineno : 19
+ aho weRAm imAM kqwaGnawAM Xik Xik (aswu) 
+filename : SA_130_stories_GOLD.txt
+lineno : 22
+ asmin Bavax_ByaH kqwajFawAyAH prakASanasya kA vArwA (aswi) 
+filename : SA_130_stories_GOLD.txt
+lineno : 23
+ BavawAM svaBAvaH PalowpAxanam (aswi) 
+filename : SA_130_stories_GOLD.txt
+lineno : 25
+ iyaM BavaxIyA vivaSawA (aswi) 
+filename : SA_130_stories_GOLD.txt
+lineno : 30
+  weRAM vivaSawA kA (aswi) 
+filename : SA_130_stories_GOLD.txt
+lineno : 32
+ wasya vivaSawA kA (aswi) 
+filename : SA_130_stories_GOLD.txt
+lineno : 34
+ yAvaw(-i) prANAH SarIre asmin (Bavanwi) sambanXaH wAvaw(+i) eva hi (Bavawi)
+filename : SA_130_stories_GOLD.txt
+lineno : 35
+ niRprANaH na pawiH pawnI (ca) (swaH) 
+filename : SA_130_stories_GOLD.txt
+lineno : 36
+ puwraH mAwA piwA na ca (sanwi) 
+filename : SA_130_stories_GOLD.txt
+lineno : 41
+ kasya ixaM samAXisWalam (aswi) 
+filename : SA_130_stories_GOLD.txt
+lineno : 42
+ anena kIxqSaH we sambanXaH (aswi) 
+filename : SA_130_stories_GOLD.txt
+lineno : 43
+ yaxi gopyaM na (aswi) warhi mama jijFAsAm imAM samAXehi 
+filename : SA_130_stories_GOLD.txt
+lineno : 44
+ sA uxawaraw (yaw) sanyAsimahArAja awra me pawixevaH ciraM nixrAwi 
+filename : SA_130_stories_GOLD.txt
+lineno : 45
+ anena mawwaH vacanaM gqhIwam AsIw yaw samAXisWalaM yAvaw(-i) SuRkaM na BaviwA wAvaw(+i) ahaM punaH vivAhaM na kariRyAmi 
+filename : SA_130_stories_GOLD.txt
+lineno : 54
+ grIRmasya pracaNdaH wApaH (aswi) 
+filename : SA_130_stories_GOLD.txt
+lineno : 57
+ cikiwsAlayaH sammuKam AgawaH eva yaw(-i) waw(+i) sahasA mahawI BramiH AyAwA 
+filename : SA_130_stories_GOLD.txt
+lineno : 63
+ anwe cikiwsAlaye karmacAriNI ekA harijanaparicAlikA eva yaxA(-i) waM xqRtavawI waxA(+i) pArSvasya vipaNyAM karmacAriNaH sahAyawayA waM cikiwsAlayaM nIwvA wasya upacAraM kAriwavawI 
+filename : SA_130_stories_GOLD.txt
+lineno : 80
+ GqwaM wu asyAM (aswi) 
+filename : SA_130_stories_GOLD.txt
+lineno : 81
+ (BavAn) gqhNAwu 
+filename : SA_130_stories_GOLD.txt
+lineno : 82
+ rUkRarotI BavaxIyAM rasanAM vraNayiRyawi iwi (akaWayaw) 
+filename : SA_130_stories_GOLD.txt
+lineno : 93
+ aWa ekaxA kAlikopAsanAyAM rawe (sawi) ekasmin prawiveSini kAlikA prawyakRaM xarSanaM xawwvA waM varaM yAciwuM kaWiwavawI 
+filename : SA_130_stories_GOLD.txt
+lineno : 96
+ anena varaxAnena yawra(-i) wasmE kANawvaM miliwaM wawra(+i) anyaH prawiveSI anXaH eva saFjAwaH iwi 
+filename : SA_130_stories_GOLD.txt
+lineno : 116
+ varwamAne yaH(-i) AnanxaH (aswi) kiM BaviRye saH(+i) laByawAm? 
+filename : SA_130_stories_GOLD.txt
+lineno : 131
+ cawurANAM jagawi awra cawurAH svalpawamA nahi (Bavanwi)
+filename : SA_130_stories_GOLD.txt
+lineno : 136
+ yasyAM liKiwam AsIw (yaw) 25varRapurAwanI vipaNiH (aswi) (iwi) 
+filename : SA_130_stories_GOLD.txt
+lineno : 146
+ sulaBaM wacCAnwi-sAXanam (aswi) 
+filename : SA_130_stories_GOLD.txt
+lineno : 152
+ wqRAvyAkulaH saH yaxA(-i) uccEH uccEH kranxiwuM pravqwwaH, waxA(+i) sampUrNaH eva prakoRTasWaH janaH asuviXAm anvaBavaw 
+filename : SA_130_stories_GOLD.txt
+lineno : 158
+ ixaM xqRtvA aham eva kim? (asmi) 
+filename : SA_130_stories_GOLD.txt
+lineno : 195
+ yaxi wvaM SawrusEnikaH asi warhi anena kim? (aswi) 
+filename : SA_130_stories_GOLD.txt
+lineno : 196
+ (wvaM) asi wu sEnikaH eva 
+filename : SA_130_stories_GOLD.txt
+lineno : 197
+ mama banXuH (aswi) 
+filename : SA_130_stories_GOLD.txt
+lineno : 204
+ vaFcanaM hi mahApApaM mahArOravapAwakam (ca) (Bavawi)
+filename : SA_130_stories_GOLD.txt
+lineno : 232
+ calane BramaNe (ca) api saH asuviXAm anuBavawi sma 
+filename : SA_130_stories_GOLD.txt
+lineno : 242
+ sAMsArikapaxArWAH hi na eva sanwawasOKyaxAH (Bavanwi)
+filename : SA_130_stories_GOLD.txt
+lineno : 243
+ wawwyAge yAxqSaM(-i) sOKyaM (Bavawi) waxAsakwO na wAxqSam(+i) sOKyaM (Bavawi) 
+filename : SA_130_stories_GOLD.txt
+lineno : 252
+ avocaw ca (saH) 
+filename : SA_130_stories_GOLD.txt
+lineno : 255
+ sawyam eva (aswi) 
+filename : SA_130_stories_GOLD.txt
+lineno : 289
+ (BikRAM) niRexXuM vaXvE kaH aXikAraH (xawwaH) 
+filename : SA_130_stories_GOLD.txt
+lineno : 290
+ mayA saha (BavAn) calyawAm 
+filename : SA_130_stories_GOLD.txt
+lineno : 302
+ Awmavaw sarva-jIveRu jada-jafgama-vaswuRu (ca) vyavaharwA janaH jAwu wuxawe nEva kaFcana
+filename : SA_130_stories_GOLD.txt
+lineno : 304
+ are nAmaxeva! ewaw kim? (aswi) 
+filename : SA_130_stories_GOLD.txt
+lineno : 305
+ kuwaH ewaw (aswi) 
+filename : SA_130_stories_GOLD.txt
+lineno : 311
+ mAwA vqkReRu api puwrasya AwmIyawAM xqRtvA yawra(-i) prasannA (aBUw) wawra(+i) wasmE pIdA-xAnAya svAm eva kAraNaM mawvA awixuHKiwA aBUw 
+filename : SA_130_stories_GOLD.txt
+lineno : 332
+ na awra saMSayaH (aswi) 
+filename : SA_130_stories_GOLD.txt
+lineno : 342
+ mAwqvaw paraxAreRu varwamAne (sawi) na kaH piwA (aswi)
+filename : SA_130_stories_GOLD.txt
+lineno : 346
+ BavAn ca mama puwraH (BaviRyawi) 
+filename : SA_130_stories_GOLD.txt
+lineno : 348
+ kaWam ewaw (BaviRyawi) vawsa! 
+filename : SA_130_stories_GOLD.txt
+lineno : 350
+ mAwqvaw para-xAreRu (varwiwavyam) 
+filename : SA_130_stories_GOLD.txt
+lineno : 361
+ kiM na suKa-praxA (aswi) 
+filename : SA_130_stories_GOLD.txt
+lineno : 370
+ gudasya BAvaH gudawvaM gudawA ca (aswi) 
+filename : SA_130_stories_GOLD.txt
+lineno : 427
+ na SAnwiH (aswi) 
+filename : SA_130_stories_GOLD.txt
+lineno : 428
+ pUrvaM yaxA(-i) ahaM vaXUH Asam waxA(+i) SvaSrvA saha niwyaM kalahaH Bavawi sma 
+filename : SA_130_stories_GOLD.txt
+lineno : 429
+ yaxA(-i) ca aXunA ahaM SvaSrUH asmi, waxA(+i) api vaXvA saha kalahaH Bavawi 
+filename : SA_130_stories_GOLD.txt
+lineno : 435
+ SvaSrUH yaxA(-i) vaXUM sanwApayawi waxA(+i) vaXUH SvaSrUM kiM jAnAwi? 
+filename : SA_130_stories_GOLD.txt
+lineno : 440
+ paranwu iha wasya parivArasya anumawiH sahamawiH (ca) na AsIw 
+filename : SA_130_stories_GOLD.txt
+lineno : 441
+ kinwu yaxA(-i) wasya jananI eva wasyAH cikiwsayA mqwyoH muKawaH AwmAnaM mukwAM xqRtavawI waxA(+i) waw-guNAkqRta-hqxayA sA wAM vaXUrUpe svIkarwuM sampUrNam api parivAram anukUlaM kqwavawI 
+filename : SA_130_stories_GOLD.txt
+lineno : 449
+ eka-BAryA-vrawaM SreRTam (aswi)
+filename : SA_130_stories_GOLD.txt
+lineno : 450
+ ekA BAryA hi sOKyaxA (Bavawi) 
+filename : SA_130_stories_GOLD.txt
+lineno : 453
+ ekA waruNI xviwIyA vqxXA ca (AsIw) 
+filename : SA_130_stories_GOLD.txt
+lineno : 479
+ nixriwaH api prawi-SvAsaM BagavannAma yaH(-i) japew kiM saH(+i) Bakwa-uwwamaH nAswi?
+filename : SA_130_stories_GOLD.txt
+lineno : 485
+ wasya prawyeka-SvAsawaH nArAyaNa! nArAyaNa! (iwi) ayaM maXuraH XvaniH niranwaraM niHsaran AsIw 
+filename : SA_130_stories_GOLD.txt
+lineno : 496
+ kinwu (ahaM) nirXAriwa-samayAw pUrvaM prApwaH Asam 
+filename : SA_130_stories_GOLD.txt
+lineno : 512
+ pari-cArikA yaxA(-i) wena xawwAM sAmagrIM prApayiwuM kaWiwavawI waxA(+i) saH kim akaWayaw? 
+filename : SA_130_stories_GOLD.txt
+lineno : 516
+  wawra yAvaw(-i) saH vqkRam ekam karwayiwum pravqwwaH (AsIw) wAvaw(+i) vqkRaH wam nivArayan akaWayaw 
+filename : SA_130_stories_GOLD.txt
+lineno : 519
+  wvam vA evam mAm mama parivAram ca Cewwum awra AgamiRyaH? iwi (akaWayaw) 
+filename : SA_130_stories_GOLD.txt
+lineno : 523
+  AwmIyaH eva yaxA(-i) SawruNA milawi waxA(+i) wasya pariNAmaH kaH Bavawi 
+filename : SA_130_stories_GOLD.txt
+lineno : 532
+  sevakasya manaH rakRiwum yaWA(-i) sevakaH EcCaw saH waWA(+i) eva kqwavAn 
+filename : SA_130_stories_GOLD.txt
+lineno : 537
+  awra kim? (aswi) 
+filename : SA_130_stories_GOLD.txt
+lineno : 545
+ sapwamakakRAyAH CAwraH SyAmaH yaxA(-i) niyawasamaye vixyAlayawaH gqham na eva prawyAgawaH waxA(+i) bahusamayaparyanwam prawIkRAm kqwvA wasya iwaswawaH sahapATinAm gqheRu anveRaNam karwum prArabXam
+filename : SA_130_stories_GOLD.txt
+lineno : 549
+  saH AwmAnam cikiwsAlayasya karmacAriNam paricAyayan (ukwaH) 
+filename : SA_130_stories_GOLD.txt
+lineno : 552
+  cinwAyAH na kA api vArwA (aswi) iwi ukwvA wawkRaNam eva nirgawaH 
+filename : SA_130_stories_GOLD.txt
+lineno : 556
+  XanyO BavanwO (swaH) imam supuwram prApya iwi 
+filename : SA_130_stories_GOLD.txt
+lineno : 570
+ aham AwmIyAm vexanAm svakIye BARaNe vyakwAm kqwavAn yaw saH kIxqSaH sanAwanaXarmAvalambI hinxuH (aswi) 
+filename : SA_130_stories_GOLD.txt
+lineno : 573
+ yaH(-i) gAyawrImanwram niwyam na japawi kim saH(+i) api hinxuH (aswi) 
+filename : SA_130_stories_GOLD.txt
+lineno : 606
+ wam waWA upaviRtam xqRtvA wayoH ekaH svaBARAyAm mUrKam (ukwvA) anyaH ca ASiRtam ukwvA AkRipaw 
+filename : SA_130_stories_GOLD.txt
+lineno : 609
+ aham waWA na (asmi) 
+filename : SA_130_stories_GOLD.txt
+lineno : 644
+ puwri! wava kaWanam sawyam (aswi) 
+filename : SA_130_stories_GOLD.txt
+lineno : 651
+ avaXehi (wvam) 
+filename : SA_130_stories_GOLD.txt
+lineno : 659
+ SrUyawe (asmABiH)
+filename : SA_130_stories_GOLD.txt
+lineno : 663
+ ekavAram SikRakaH kakRAm praviSya eva yaxA(-i) iwaswawaH BakRiwamux_gaPalInAm AvaraNAni vikIrNAni apaSyaw waxA(+i) kena ixam xurAcariwam? iwi punaH punaH pqRtvA api (yaxA)(-i) kuwaSciw SikRArWinaH uwwaram na prApwavAn waxA(+i) xaNdabalena uwwaram prApwum icCayA saH prawyekam SikRArWinaH svahaswO prasArayiwum AxiSya haswayoH vewreNa AGAwam karwum pravqwwaH 
+filename : SA_130_stories_GOLD.txt
+lineno : 666
+ aham mux_gaPalIH na aKAxam (yaxi) warhi vewraGAwam kim saheya? 
+filename : SA_130_stories_GOLD.txt
+lineno : 686
+ ixam SruwvA yawra(-i) saByAH uccEH hasiwavanwaH wawra(+i) laGuSaf_kAkAriNaH muKAkqwiH xarSanIyA eva AsIw iwi 
+filename : SA_130_stories_GOLD.txt
+lineno : 696
+ yAni(-i) hariwapawrANi wawra Asan wAni(+i) SuRkapawrANAm avasWAnam svasamIpe na eva avAFCan 
+filename : SA_130_stories_GOLD.txt
+lineno : 703
+ sahEva ca wawrawyAni wAni hariwapawrANi api (praxagXAni) iwi 
+filename : SA_130_stories_GOLD.txt
+lineno : 743
+ na (gqhIwaH) hi banXo! 
+filename : SA_130_stories_GOLD.txt
+lineno : 751
+ mama SIGrAwiSIGram gamanam awyAvaSyakam_ (aswi) 
+filename : SA_130_stories_GOLD.txt
+lineno : 773
+ huz ixam wu mama gqham (aswi) 
+filename : SA_130_stories_GOLD.txt
+lineno : 774
+ paWikagqham kaWam (aswi) 
+filename : SA_130_stories_GOLD.txt
+lineno : 776
+ pUrvam yaxA(-i) BavAn awra na AsIw waxA(+i) kaH AsIw? 
+filename : SA_130_stories_GOLD.txt
+lineno : 803
+ wawXanam(waxXanam) gqhIwvA nirgaweRu xasyuRu vyavasAyI meRapAlam svakIyAm XanapottalikAm niHsArya avocaw 
+filename : SA_130_stories_GOLD.txt
+lineno : 818
+ wawra wasyAH mAwuH SuciwayA praBAviwaH BUwvA yawra(-i) puwryAH SikRAwaH AraBya vivAhaparyanwam sarvam BAram samBAliwavAn wawra(+i) mAwuH api samuciwAm BaraNapoRaNavyavasWAm sampAxya svakIyAm viSAlahqxayawAm eva pramANiwavAn iwi 
+filename : SA_130_stories_GOLD.txt
+lineno : 820
+ kaH mahawwamaH (aswi)
+filename : SA_130_stories_GOLD.txt
+lineno : 822
+ pqWvI mahawwamA (aswi) (iwi) viRNoH uwwaram AsIw 
+filename : SA_130_stories_GOLD.txt
+lineno : 823
+ pariwaH samuxreNa AvqwawvAw sA mahawI kaWem? (aswi) (iwi) nAraxaH jijFAsiwavAn 
+filename : SA_130_stories_GOLD.txt
+lineno : 824
+ warhi samuxraH eva mahawwamaH (aswi) (iwi) viRNuH uxawaraw 
+filename : SA_130_stories_GOLD.txt
+lineno : 826
+ awaH saH kaWam mahAn? (aswi) 
+filename : SA_130_stories_GOLD.txt
+lineno : 828
+ warhi agaswyaH eva mahawwamaH (aswi) (iwi) viRNuH samAhiwavAn 
+filename : SA_130_stories_GOLD.txt
+lineno : 829
+ ananwAkASe sUkRmawArAvaw prawIyamAnaH agaswyaH kaWam mahawwamaH? (aswi) (iwi) nAraxaH pqRtavAn 
+filename : SA_130_stories_GOLD.txt
+lineno : 830
+ warhi AkASaH eva mahawwamaH (aswi) (iwi) viRNuH uxawaraw 
+filename : SA_130_stories_GOLD.txt
+lineno : 831
+ BavawA ekena pAxena miwawvAw saH kaWam mahawwamaH? (aswi) (iwi) nAraxaH punaH jijFAsiwavAn 
+filename : SA_130_stories_GOLD.txt
+lineno : 832
+ warhi mama pAxaH eva mahawwamaH (aswi) (iwi) viRNoH samAXAnam AsIw 
+filename : SA_130_stories_GOLD.txt
+lineno : 833
+ kinwu mayA hqxi XAriwaH saH pAxaH kaWam mahawwamaH? (aswi) (iwi) nAraxaH apqcCaw 
+filename : SA_130_stories_GOLD.txt
+lineno : 834
+ warhi nAraxamune! BavAn eva mahawwamaH (aswi) 
+filename : SA_130_stories_GOLD.txt
+lineno : 835
+ BavAxqSAH anye mama cinwanaparAH BakwAH api mahawwamAH eva (sanwi) 
+filename : SA_130_stories_GOLD.txt
+lineno : 842
+ anwe yaxA(-i) saH vyaramaw waxA(+i) gOwamabuxXaH wam apqcCaw api 
+filename : SA_130_stories_GOLD.txt
+lineno : 865
+ nEyAyikaH wu aBAvaH cawurviXaH (Bavawi) prAgaBAvaH praXvamsABAvaH awyanwABAvaH anyonyABAvaH ca iwi nirxiSya rAjAnam apqcCaw 
+filename : SA_130_stories_GOLD.txt
+lineno : 871
+ awaH kRamAm yAce iwi ukwvA pafkwicinwane wawparaH aBavaw (saH) iwi 
+filename : SA_130_stories_GOLD.txt
+lineno : 908
+ iwaswawaH Braman yawra yawra(-i) wena kAryam kqwam AsIw, wAH wAH(+i) uccAH uccAH attAlikAH pawnIm xarSayan kamapi garvam karowi sma 
+filename : SA_130_stories_GOLD.txt
+lineno : 914
+ sA palAyiwA, apahqwA, balAwkqwA, mAriwA vA? (aswi) 
+filename : SA_130_stories_GOLD.txt
+lineno : 939
+ rAjA Palasya anAsvAxiwapUrvaM mAXuryaM yaxA(-i) BUri prASaMsaw waxA(+i) mahAwmA akaWayaw yaw sax_guNavawaH rAjFaH SAsane sarvaM sax_guNamayam eva sampaxyawe 
+filename : SA_130_stories_GOLD.txt
+lineno : 959
+ paranwu yaxA(-i) anukUlaH pariNAmaH kaSciw na eva niHsqwaH, waxA(+i) ewawkqwe prawisparXAm ekAm AyojayiwuM viRNuH svASayaM prakASiwavAn 
+filename : SA_130_stories_GOLD.txt
+lineno : 965
+ xAnavAH paSuvaw yawra(-i) BojanaM kqwvA AwmanaH buxXeH manxawAM prakASiwavanwaH wawra(+i) xevAH parasparaM sammuKe upaviSya svahaswena anyaM BojayanwaH anyahaswena ca svayaM BuFjAnAH svabuxXikOSalam eva praxarSiwavanwaH 
+filename : SA_130_stories_GOLD.txt
+lineno : 992
+ BavAn wu ciwrakAraH (aswi) 
+filename : SA_130_stories_GOLD.txt
+lineno : 999
+ ekaH pipIlakaH ekA vAnarI ekaH kapowaH ca (aswi) iwi 
+filename : SA_130_stories_GOLD.txt
+lineno : 1010
+ samskqwam yaH(-i) vijAnAwi, samskqwaH saH(+i) hi xevarAt (aswi)
+filename : SA_130_stories_GOLD.txt
+lineno : 1011
+ samskqwam yaH(-i) na jAnAwi, samskqwaH saH(+i) kaWam Bavew? 
+filename : SA_130_stories_GOLD.txt
+lineno : 1012
+ mama ekaH xUrasWaH sambanXI kAryavaSAw yaxA(-i) jayapure AyAwaH waxA(+i) mAm api xraRtum gqhe upasWiwaH 
+filename : SA_130_stories_GOLD.txt
+lineno : 1013
+ aham wam svakakRe (yaxA)(-i) upAveSayam mama puwraH waxA(+i) vixyAlayawaH AgawaH eva AsIw 
+filename : SA_130_stories_GOLD.txt
+lineno : 1023
+ saH akaWayaw (yaw) aham api aXunA svapuwram AfglavixyAlayawaH apasArya samskqwavixyAlaye eva praveSayiRyAmi iwi 
+filename : SA_130_stories_GOLD.txt
+lineno : 1027
+ wawaH Bavawi kalyANam Ehikam pAralOkikam (ca) 
+filename : SA_130_stories_GOLD.txt
+lineno : 1029
+ wawaH sawsafgalABAya apakvAm BojanasAmagrIm AxAya grAmINAH swriyaH puruRAH (ca) upasWAwum pravqwwAH 
+filename : SA_130_stories_GOLD.txt
+lineno : 1038
+ yAwrAwaH prawinivqwya BavawaH uwwaram xAsyAmi (yAvaw) wAvaw BavAn api AwmanirIkRaNam karowu 
+filename : SA_130_stories_GOLD.txt
+lineno : 1041
+ ahaf_kAraH kAryasixXO bAXakaH (Bavawi) 
+filename : SA_130_stories_GOLD.txt
+lineno : 1043
+ sawyam (aswi) 
+filename : SA_130_stories_GOLD.txt
+lineno : 1048
+ xurlaBaH rAjasammAnaH (aswi)
+filename : SA_130_stories_GOLD.txt
+lineno : 1049
+1 viralAH niHspqhAH wawaH (sanwi) 
+filename : SA_130_stories_GOLD.txt
+lineno : 1050
+ kAle svalpaH api sammAnaH Bavew (warhi) BUri yaSaskaraH (Bavawi) (yaxi) 
+filename : SA_130_stories_GOLD.txt
+lineno : 1053
+ ekaH vqxXaH paNdiwaH miliwaH (wena) 
+filename : SA_130_stories_GOLD.txt
+lineno : 1055
+ paNdiwam ca sAxaram praNamya sammAnya ca saha AnIwam XanaXAnyam waccaraNAravinxayoH samarpiwavAn (wena) 
+filename : SA_130_stories_GOLD.txt
+lineno : 1057
+ mahArAja! uwwarAyuRi vixyamAnasya na ewena me kimapi prayojanam (aswi) 
+filename : SA_130_stories_GOLD.txt
+lineno : 1062
+ XUrwena (saha) XUrwawA kAryA
+filename : SA_130_stories_GOLD.txt
+lineno : 1066
+ kinwu kqpaNaH api wawaH nyUnaH na (aswi) 
+filename : SA_130_stories_GOLD.txt
+lineno : 1071
+ kaxAciw ca nEva api (xaxAwi) 
+filename : SA_130_stories_GOLD.txt
+lineno : 1073
+ awaH yaxA(-i) viwarakaH mAsAnwe samAcArapawrasya mUlyam mAm ayAcawa, waxA(+i) aham wam prawiveSinaH eva grahIwum preriwavAn 
+filename : SA_130_stories_GOLD.txt
+lineno : 1076
+ mahASaya! samAcArapawrasya grAhakaH wu BavAn eva (aswi) 
+filename : SA_130_stories_GOLD.txt
+lineno : 1087
+ xarSakeRu kecana wasyAH praWAyAH praSamsakAH Asan warhi kecana ninxakAH (ca) 
+filename : SA_130_stories_GOLD.txt
+lineno : 1096
+ (mayA) gurusevA samyak kqwA
+filename : SA_130_stories_GOLD.txt
+lineno : 1097
+ saxA kalyANakAriNI (Bavawi) 
+filename : SA_130_stories_GOLD.txt
+lineno : 1110
+ kinwu smaraNIyam (yaw) cURakaH punaH jIviwaH na sWAsyawi 
+filename : SA_130_stories_GOLD.txt
+lineno : 1131
+ kim ixam aBinanxanIyam suKakaram kAryam? (aswi) 
+filename : SA_130_stories_GOLD.txt
+lineno : 1135
+ saxAcaraNam eva ekam wasya samSoXakam mawam (aswi) 
+filename : SA_130_stories_GOLD.txt
+lineno : 1142
+ yawra yawra(-i) wIrWeRu yUyam snAnam kuryAw wawra wawra(+i) mama ewAm wumbikAm api avaSyam snAnam kArayawa 
+filename : SA_130_stories_GOLD.txt
+lineno : 1166
+ gqhasWaH api wam evam Acaranwam avalokya BAvavihvalaH (jAwaH) 
+filename : SA_130_stories_GOLD.txt
+lineno : 1183
+ iyam me mahiRI (aswi) 
+filename : SA_130_stories_GOLD.txt
+lineno : 1186
+ kruxXaH aham asya SiraH sPotiwavAn ayam ca mama (SiraH) (sPotiwavAn) 
+filename : SA_130_stories_GOLD.txt
+lineno : 1190
+ SuciH SAnwaH saxAcArI, mqxuBARI smiwAnanaH yAvaw(-i) prabanXakaH na Ixqk (Bavawi) wAvaw(+i) samsWA Palew nahi
+filename : SA_130_stories_GOLD.txt
+lineno : 1202
+ kim aham wava piwqvyaH? (asmi) 
+filename : SA_130_stories_GOLD.txt
+lineno : 1214
+ svArWinaH SAsakAH wasyAH suKe SAnwyAm ca bAXakAH (Bavanwi) 
+filename : SA_130_stories_GOLD.txt
+lineno : 1226
+  na hi (icCawi) 
+filename : SA_130_stories_GOLD.txt
+lineno : 1227
+ kaxApi na hi (icCawi) 
+filename : SA_130_stories_GOLD.txt
+lineno : 1229
+ warhi waxicCAviruxXam yuxXAgnO sEnikAnAm nipAwanam niraparAXa-janawAyAH ca hawyA sarvaWA anEwikam eva karma (aswi) 
+filename : SA_130_stories_GOLD.txt
+lineno : 1233
+ viSvAsaGAwakarwA yaH(+i) aswi narakaM saH(-i) aXigacCawi 
+filename : SA_130_stories_GOLD.txt
+lineno : 1239
+6* yasya(-i) lavaNaM BakRyawe waM(+i) prawi viSvASaGAwaH na nEwikaH aswi 
+filename : SA_130_stories_GOLD.txt
+lineno : 1241
+ awaH asya cOryasya rahasyam gopanIyam rakRaNIyam (ca) iwi ukwvA wasmE api coriwaxravyasya BAgam xawwavanwaH 
+filename : SA_130_stories_GOLD.txt
+lineno : 1253
+ rAjamArge samuciwayAwAyAwavyavasWAyAH aBAvena vAhanAnAm miWaH safGarRaNena (ca) vipulajanaXanahAniH Bavawi sma 
+filename : SA_130_stories_GOLD.txt
+lineno : 1258
+ kinwu yaWApUrvam maXurASvAsanaxAnena ekArXaGaNtAyAm eva vAhanAnAm gamanam Agamanam (ca) prArabXam 
+filename : SA_130_stories_GOLD.txt
+lineno : 1261
+ ekaH mqwaH garxaBaH viBAjanapattikAyAH nirmANam kqwvA yaw(-i) kAryam kqwavAn waw(+i) kAryam aXunAvaXi aneke jIvanwaH api garxaBAH nEva kqwavanwaH 
+filename : SA_130_stories_GOLD.txt
+lineno : 1269
+ pawiH pawnI (ca) miliwvA wasya sarvAwmanA sevAm akuruwAm 
+filename : SA_130_stories_GOLD.txt
+lineno : 1278
+ evam ukwvA wasmin gawe sax_gqhasWaH gqhasya sarvANi lohavaswUni maNinA suvarNasya (vaswUni) kqwavAn, 
+filename : SA_130_stories_GOLD.txt
+lineno : 1310
+ evam samprArWya yaxA(-i) saH parAvqwwaH, waxA(+i) manxirAw bahiH upaviRtam ekam yAcakam bAlakam apaSyaw 
+filename : SA_130_stories_GOLD.txt
+lineno : 1314
+ pAxawrANABilARukaH BakwaH yaxA(-i) bAlakam imam xqRtavAn waxA(+i) Bagavawe govinxaxevAya XanyavAxam xaxaw akaWayaw 
+filename : SA_130_stories_GOLD.txt
+lineno : 1316
+ aham AByAm (saha) yaWecCam iwaswawaH caliwum Saknomi 
+filename : SA_130_stories_GOLD.txt
+lineno : 1329
+ wvaM mama ekaH eva puwraH (asi) 
+filename : SA_130_stories_GOLD.txt
+lineno : 1334
+ maraNaM prakqwiH SarIriNAm (aswi) 
+filename : SA_130_stories_GOLD.txt
+lineno : 1339
+ yawra yawra(-i) prANI mqwaH AsIw, wawra wawra(+i) upasWiwA mAwA wawsambanXinaH pqRtavawI (yaw) kaWam ayaM mqwaH? iwi 
+filename : SA_130_stories_GOLD.txt
+lineno : 1345
+ ciwwam sWiram na kasya api (Bavawi)
+filename : SA_130_stories_GOLD.txt
+lineno : 1355
+ yAvaw(-i) saH pUrNarUpeNa svasWaH sabalaH ca na aBavaw, wAvaw(+i) wam saH samyak upacariwavAn api 
+filename : SA_130_stories_GOLD.txt
+lineno : 1358
+ gacCa anena (saha) xruwawaram eva suxUraxeSe 
+filename : SA_130_stories_GOLD.txt
+lineno : 1368
+ sarasaBojanABave nIrasam eva jIvanam (Bavawi) 
+filename : SA_130_stories_GOLD.txt
+lineno : 1383
+ janmanA kaH api cOraH na (aswi) vEvaSyam cOryakAraNam
+filename : SA_130_stories_GOLD.txt
+lineno : 1406
+ saH kim (aswi) 
+filename : SA_130_stories_GOLD.txt
+lineno : 1413
+ ayam wu sArvajanikaH mArgaH (aswi) 
+filename : SA_130_stories_GOLD.txt
+lineno : 1422
+ ixam wu asamBavam (aswi) 
+filename : SA_130_stories_GOLD.txt
+lineno : 1433
+ brUhi (wvam) 
+filename : SA_130_stories_GOLD.txt
+lineno : 1436
+ rAjan! BavAn BikRukaH (aswi) 
+filename : SA_130_stories_GOLD.txt
+lineno : 1437
+ aham ca api BikRukaH (asmi) 
+filename : SA_130_stories_GOLD.txt
+lineno : 1451
+ sA praWamam (spqRtavawI) wawaH ca kramaSaH sarvAH api rAjFyaH rAjakumAram spqRtavawyaH 
+filename : SA_130_stories_GOLD.txt
+lineno : 1459
+ wAm upewya saH anunayam vinayam (ca) kqwvA rAjaBavanam AnIwavAn 
+filename : SA_130_stories_GOLD.txt
+lineno : 1462
+ virakwaH rAjA svIyam rAjyarXam wAByAm xampawiByAm (xawwvA) avaSiRtam ca AwmajAya samarpya wapaH wapwum vanam prasWiwaH iwi 
+filename : SA_130_stories_GOLD.txt
+lineno : 1466
+ yawra(-i) prAwaH gavAm xarSanam puNyam manyawe wawra(+i) wAsAm sAmUhikarUpe mqwyum xqRtvA goBakwAnAm mahAn sammarxaH nAnA ASaf_kAH prakatayawi sma 
+filename : SA_130_stories_GOLD.txt
+lineno : 1476
+ viRamiSriwasya wasya miRtAnnasya eva iyam sarvA lIlA (aswi) iwi mawvA sarvaH api kruxXaH janasammarxaH svakIyam AkroSam nagaranigamasya ixam xurAcaraNam prawi aBivyakwam kqwavAn 
+filename : SA_130_stories_GOLD.txt
+lineno : 1477
+ SrUyawe (yaw) kenaciw wu jIvAnurAgiNA nyAyAlaye ewasmin sambanXe yAcikA api praswuwA iwi 
+filename : SA_130_stories_GOLD.txt
+lineno : 1492
+ wasya imam haTam wyAjayiwum inxraH vqxXaH brAhmaNaH BUwvA yavakrIwasya pArSve eva yawra(-i) gafgA vahawi sma (wawra)(+i) wate Agawya upaviRtaH 
+filename : SA_130_stories_GOLD.txt
+lineno : 1499
+ asamBavam (aswi) 
+filename : SA_130_stories_GOLD.txt
+lineno : 1500
+ sarvaWA asamBavam (aswi) 
+filename : SA_130_stories_GOLD.txt
+lineno : 1510
+ svaBAvena (sA) saralA smiwamuKI sanwoRiNI ca varwawe 
+filename : SA_130_stories_GOLD.txt
+lineno : 1531
+ apekRAH yena samlagnAH jagaxxAsaH saxA hi saH (Bavawi)
+filename : SA_130_stories_GOLD.txt
+lineno : 1553
+ mahAgrAheNa gqhIwapAxaH gajarAjaH yaxA(-i) wawaH mocayiwum ArwasvareNa Bagavanwam prArWiwavAn, waxA(+i) wawkRaNam eva BagavAn_ svakIye suxqDe ArakRiviBAge vixyamAne_sawi api kaWam ekAkI eva wam pariwrAwum upasWiwaH? 
+filename : SA_130_stories_GOLD.txt
+lineno : 1559
+ anyasyAm nOkAyAm sWApiwA aBUw (mUrwiH) 
+filename : SA_130_stories_GOLD.txt
+lineno : 1566
+ mAwqBUmiH priyA (aswi) yasya na akAryam kuruwe hi saH
+filename : SA_130_stories_GOLD.txt
+lineno : 1568
+ nirBayaH wiRTa (wvam) 
+filename : SA_130_stories_GOLD.txt
+lineno : 1579
+ ayam svaxeSaH eva we SikRiwasya api vikAryawAyAH hewuH (Bavawi) 
+filename : SA_130_stories_GOLD.txt
+lineno : 1583
+ mAwqBUmim prawi kqwaGnaH na BaviRyAmi (aham) 
+filename : SA_130_stories_GOLD.txt
+lineno : 1586
+ awra eva wvayA saha xAsawaH api nikqRtawaraH kariRyawe (vyavahAraH) 
+filename : SA_130_stories_GOLD.txt
+lineno : 1587
+ paSyAmaH (vayam) 
+filename : SA_130_stories_GOLD.txt
+lineno : 1598
+ sarveRu supweRu_sawsu ekaH sevakaH (AsIw) 
+filename : SA_130_stories_GOLD.txt
+lineno : 1607
+15 sarvam mama xuRkqwasya eva ixam Palam (aswi) 
+filename : SA_130_stories_GOLD.txt
+lineno : 1608
+ iha asya kaScana na xoRaH (aswi) 
+filename : SA_130_stories_GOLD.txt
+lineno : 1620
+ wawra anuwwIrNaH (cew) jIvane anuwwIrNaH manyawe sma 
+filename : SA_130_stories_GOLD.txt
+lineno : 1629
+ weRAm pqRTe pqRTe AgacCan wEH ca SiRyEH (saha) axqSyamAnaH AcAryaH ixam sarvam apaSyaw_ 
+filename : SA_130_stories_GOLD.txt
+lineno : 1642
+ paranwu ayam caraNaH mama vipakRiNaH (aswi) iwi mawvA waWA(+i) sabalam samavAhayaw yaWA(-i) wasya pAxasya asWnaH eva BafgaH aBavaw 
+filename : SA_130_stories_GOLD.txt
+lineno : 1643
+ xviwraxinAnanwaram prawyAvqwwaH SiRyaH yaxA(i-) guroH sevanIyasya svapAxasya vipakRiNA kqwAm ewAm xurxaSAm xqRtavAn 
+filename : SA_130_stories_GOLD.txt
+lineno : 1644
+ waxA(i+) kroXAviRtaH wawaH prawiSoXam grahIwum vipakRiNA sevyamAnasya caraNasya api wawkAlam wAxqSIm eva xaSAm kqwavAn yAxqSI vipakRiNA wena sevanIyasya caraNasya kqwA AsIw 
+filename : SA_130_stories_GOLD.txt
+lineno : 1656
+ wasya mAwA api waxA jvarapIdiwA (AsIw) 
+filename : SA_130_stories_GOLD.txt
+lineno : 1657
+10 wam samBAlayiwum suxUre cikiwsAlaye ca newum asakwA avarwawa (saH) 
+filename : SA_130_stories_GOLD.txt
+lineno : 1682
+ nirASaH mA Bava vawsa! (wvam) 
+filename : SA_130_stories_GOLD.txt
+lineno : 1693
+ SArIraM svabalaM yawra (Bavawi)
+filename : SA_130_stories_GOLD.txt
+lineno : 1701
+ are! awra cinwAyAH kA vArwA? (aswi) 
+filename : SA_130_stories_GOLD.txt
+lineno : 1703
+ ixaM sarvaM wu ekasyAM potalikAyAM baxXvA bahiH vqkRopari ekasyAM SAKAyAm avalambiwavAn asmi (aham) 
+filename : SA_130_stories_GOLD.txt
+lineno : 1704
+ wawaH cOraH wu kiM? (nayawi) 
+filename : SA_130_stories_GOLD.txt
+lineno : 1723
+ asmAkam api agniH na lagew' (gqhe) 
+filename : SA_130_stories_GOLD.txt
+lineno : 1747
+ swrI na eva (asmi) 
+filename : SA_130_stories_GOLD.txt
+lineno : 1755
+ yaH waWA na Bavawi saH eva puruRaH (aswi) 
+filename : SA_130_stories_GOLD.txt
+lineno : 1756
+ puruRaH wu mAyApawiH ekaH eva (aswi) 
+filename : SA_130_stories_GOLD.txt
+lineno : 1777
+ kA hAniH iha (aswi) 
+filename : SA_130_stories_GOLD.txt
+lineno : 1784
+ na ewaw mlecCarAjyam (aswi) 
+filename : SA_130_stories_GOLD.txt
+lineno : 1788
+ me BraRtamaweH senApaweH asya ayaM GorAparAXaH (aswi) 
+filename : SA_130_stories_GOLD.txt
+lineno : 1804
+ wawaH waM vyavasAyinam api xasyurAjasya eva vyakwiM manyamAnaH kqRakaH yaxA(i-) SeRarAwrO gamBIranixrAyAM supwaM kuTAreNa mArayiwum uxyawaH, waxA(i+) wasya puwrI wam awiWihawyA mahApApam (aswi) iwi smArayiwvA nyavArayaw 
+filename : SA_130_stories_GOLD.txt
+lineno : 1814
+ vinA sUcanAxAnaM yaH(i-) saH(i+) ekavAraM nirgawaH nirgawaH eva 
+filename : SA_130_stories_GOLD.txt
+lineno : 1819
+ xvO api mAwApuwrO waM pUrvaM nagare eva (anviRtavanwO) 
+filename : SA_130_stories_GOLD.txt
+lineno : 1829
+ aXunA wu mAwApuwrO ayam eva me pawixevaH ayam eva me piwA (aswi) iwi avagawya awyanwaM paScAwwapanwO wawra eva purohiwasya ekasya sAhAyyena wasya sarvam api OrXvaxEhikaM karma yaWAviXi sampAxiwavanwO 
+filename : SA_130_stories_GOLD.txt
+lineno : 1852
+ viSvakarmaNA vAraM vAraM navanavarUpe nirmiwam api sarvasuKasuviXA-sampannam anupamaM BavanaM mahenxrAya yaxA(-i) na eva arocawa waxA(i+) KinnamanAH viSvakarmA viRNum upagawya samasyAsamAXAnaM paryapqcCaw
+filename : SA_130_stories_GOLD.txt
+lineno : 1857
+ viSvakarmA wu ekaH eva (aswi) 
+filename : SA_130_stories_GOLD.txt
+lineno : 1859
+ na kevalaM viSvakarmA eva (aswi) 
+filename : SA_130_stories_GOLD.txt
+lineno : 1868
+ wasya Sirasi ekaH vewrakataH (AsIw) 
+filename : SA_130_stories_GOLD.txt
+lineno : 1876
+ sarvaWA BagavaxBakwiH eva jIvanasAraH (aswi) iwi mawvA niwyaM wawra Bagavawi ramyawe iwi ukwvA nirgawe qRO vatukaH api niragacCaw 
+filename : SA_130_stories_GOLD.txt
+lineno : 1880
+ saMyukwaparivAre prawisaxasyaM vicAraXArAyAH BinnaBinnawvAw parasparaM maXye maXye kalahaH asahayogaH ca svABAvikaH eva (aswi)
+filename : SA_130_stories_GOLD.txt
+lineno : 1882
+ wAvaw(i+) ca svaxAyiwvaM na eva pUrayiRyAmi yAvaw(i-) sarve api saxasyAH yaWA(i-) aham icCAmi waWA(i+) na AcariRyanwi 
+filename : SA_130_stories_GOLD.txt
+lineno : 1891
+ awaH kam api upAyam anavalokya cariwvA (ca) gqhaM prawi nivarwamAnasya ekasya govrajasya anyawamagoH pucCaM gqhIwvA evam uccEH uccEH kaWayan (aswi) yaw ahaM gqhaM na eva nivarwiRye 
+filename : SA_130_stories_GOLD.txt
+lineno : 1893
+ gavA saha (ahaM) gqhaM nivqwwaH 
+filename : SA_130_stories_GOLD.txt
+lineno : 1926
+ wawaH ixaM jFAwvA yaw saH wu rAwrO BukwvA pIwvA (ca) gqhAw kiFciw xUre eva svasambanXinaH inXanavipaNO gawaH' 
+filename : SA_130_stories_GOLD.txt
+lineno : 1929
+ yaxA(i-) miwraM wasya AvaraNam apasArayiwuM prAvarwawa waxA(i+) kavirAjaH kaWiwavAn 
+filename : SA_130_stories_GOLD.txt
+lineno : 1936
+ yaxA(i-) maswiRke kaviwAH ucCalanwi, waxA(i+) ahaM na xinaM paSyAmi na (ca) rAwrim 
+filename : SA_130_stories_GOLD.txt
+lineno : 1946
+ weRAM jvalanaprakASe yaw(i-) liKiwaM, waw(i+) awra wvAm eva SrAvayiwuM surakRiwavAn asmi 
+filename : SA_130_stories_GOLD.txt
+lineno : 1959
+ yaxi evaM (aswi) warhi ahaM prakqwiniyamAgre kiM karwuM Saknomi? 
+filename : SA_130_stories_GOLD.txt
+lineno : 1960
+ kinwu yaw(i-) kim api karomi, waw(i+) gqhasya samaswAnAM saxasyAnAM sahamawyA eva karomi 
+filename : SA_130_stories_GOLD.txt
+lineno : 1974
+ yawaH hi yawra(i-) xveRakalahO wiRTawaH ahaM wawra(i+) eva vasAmi iwi 
+filename : SA_130_stories_GOLD.txt
+lineno : 1989
+ yaxA(i-) saH vane gacCan AsIw waxA(i+) jAgariwaH SyAmaH ekasya vatavqkRasya lambamAnAM jatAm avalambya wayA upari vatavqkRam ArUDaH 
+filename : SA_130_stories_GOLD.txt
+lineno : 1990
+ asya jFAnaM siMhasya waxA(i+) eva aBavaw yaxA(i-) saH svagqhaM prApya KatvaM pqRTawaH nIcEH uxawArayaw 
+filename : SA_130_stories_GOLD.txt
+lineno : 2029
+ kinwu (kaWanena) saha eva (saH) ixam api kaWiwavAn yaw saH gaNeSaH api leKASayam anaBijFAya na leKiRyawi 
+filename : SA_130_stories_GOLD.txt
+lineno : 2040
+ mAwaraH BaginyaH ca! prawivarRavaw asmin varRe api gawaxine eva XarmaviSeRasya anuyAyiBiH viSiRtajAwIyEH janEH (ca) samaswe api saMsAre asmAkaM puruRasanwAnAH vyApAxiwAH KAxiwAH ca 
+filename : SA_130_stories_GOLD.txt
+lineno : 2041
+ rARtrAXyakRAH SAsakAH newAraH (ca) api asmin avasare yawra weRAM vaXikAnAM kuSalam icCanwaH svakIyaM sanxeSaM prasArayanwi 
+filename : SA_130_stories_GOLD.txt
+lineno : 2048
+11 asmAkaM sanwAnAnAM balixAnaM kqwvA svayaM (we) balixAniwAyAH nAma prasArayanwi 
+filename : SA_130_stories_GOLD.txt
+lineno : 2073
+ mahArAja! ekaH puwraH (AsIw) 
+filename : SA_130_stories_GOLD.txt
+lineno : 2077
+ xvayam api sawyam (aswi) 
+filename : SA_130_stories_GOLD.txt
+lineno : 2081
+ BavawaH XanaM kiyaw (aswi) 
+filename : SA_130_stories_GOLD.txt
+lineno : 2083
+ mahArAja! paFcasahasrarUpyakAwmakam (AsIw) 
+filename : SA_130_stories_GOLD.txt
+lineno : 2089
+ XArmikakArye saMyojanArWam niHsAriwaM paFcasahasrAwmakam eva Xanam ahaM XanaM (iwi) manye 
+filename : SA_130_stories_GOLD.txt
+lineno : 2098
+ axya kqRNavaswraXAraNe kiM prayojanam (aswi) 
+filename : SA_130_stories_GOLD.txt
+lineno : 2108
+ praSaMsAyogyaH wu saH(i+) kukkuraH aswi, yaH(i+) vAraM vAraM apamAniwaH prawAdiwaH api lakRyaprApwiM yAvaw na viramawi 
+filename : SA_130_stories_GOLD.txt
+lineno : 2119
+ yaWA(-i) saH BavyAM BogasAmagrIM niRpAxiwavAn sAXuH waWA(+i) prawijFAwavAn wam upaxiRtavAn ca 
+filename : SA_130_stories_GOLD.txt
+lineno : 2122
+ na ca yasya(i-) annaM BakRayeH waM(i+) hAniM prApayeH 
+filename : SA_130_stories_GOLD.txt
+lineno : 2133
+ paScAw parAvqwwaH BojaH kakRe ixaM xurxqSyaM (yaxA)(i-) xqRtavAn waxA(i+) prAwaH xurmuKasya eva ixaM kqwyaM syAw iwi anumAya wam AhUwavAn 
+filename : SA_130_stories_GOLD.txt
+lineno : 2140
+ AwmahawyA wu mahaw pApam (aswi) 
+filename : SA_130_stories_GOLD.txt
+lineno : 2144
+ nirXanawAwaH maraNam eva varam (aswi) 
+filename : SA_130_stories_GOLD.txt
+lineno : 2146
+ sawyaM (aswi) 
+filename : SA_130_stories_GOLD.txt
+lineno : 2147
+ nirXanawA aBiSApaH (aswi) 
+filename : SA_130_stories_GOLD.txt
+lineno : 2148
+ kinwu iyaM na xEvI (aswi) 
+filename : SA_130_stories_GOLD.txt
+lineno : 2149
+ apiwu mAnuRI eva (aswi) 
+filename : SA_130_stories_GOLD.txt
+lineno : 2156
+ nahi nahi (aswi) 
+filename : SA_130_stories_GOLD.txt
+lineno : 2160
+ warhi mugXa! yaxA(-i) wvam iyawaH axviwIyasya anupamasya viSAlaXanarASeH svAmi asi, waxA(+i) wvaM nirXanaH kaWam? (asi) 
+filename : SA_130_stories_GOLD.txt
+lineno : 2176
+ siMhe nirgawe SiRyaH vqkRAw avawIrya waWA(+i) sWiwaH yaWA(-i) kiFciw aBavaw eva na 
+filename : SA_130_stories_GOLD.txt
+lineno : 2182
+ param aXunA ekayA sAmAnyamakRikayA api xaMRtaH (BavAn) iyAn vyAkulaH aBavaw 
+filename : SA_130_stories_GOLD.txt
+lineno : 2183
+ ixaM kim (aswi) 
+filename : SA_130_stories_GOLD.txt
+lineno : 2204
+ himsakajanwuviSeRaH ayam praxeSaH (aswi) 
+filename : SA_130_stories_GOLD.txt
+lineno : 2230
+ rAjA wu (ukwavAn) 
+filename : SA_130_stories_GOLD.txt
+lineno : 2231
+ yaxi me xaNdaxAnasya aXikAraH (aswi) warhi kRamAxAnasya api aXikAraH (aswi) 
+filename : SA_130_stories_GOLD.txt
+lineno : 2233
+ ixaM yukwaM na (aswi) 
+filename : SA_130_stories_GOLD.txt
+lineno : 2234
+ aparAXI ahaM (asmi) 
+filename : SA_130_stories_GOLD.txt
+lineno : 2235
+ xaNdanIyaH eva (BavawA) 
+filename : SA_130_stories_GOLD.txt
+lineno : 2240
+ AScaryam mahaxAScaryaM (aswi) 
+filename : SA_130_stories_GOLD.txt
+lineno : 2247
+ yaxi evaM (aswi) warhi prAg eva cOryapApawaH mAM kaWaM na amocayaw BavAn? 
+filename : SA_130_stories_GOLD.txt
+lineno : 2249
+ kinwu xaNdaxAnasya aXikAraH rAjFe eva (aswi) (iwi) XarmaSAswreNa kaWiwaH, 
+filename : SA_130_stories_GOLD.txt
+lineno : 2250
+ na mahyam (aswi) 
+filename : SA_130_stories_GOLD.txt
+lineno : 2251
+ awaH anena rAjA api svakarwavyaM pAlayiwvA SuxXaH (aBUw) 
+filename : SA_130_stories_GOLD.txt
+lineno : 2252
+ wvam api xevapiwqwarpaNena SuxXaH (asi) 
+filename : SA_130_stories_GOLD.txt
+lineno : 2253
+ ahaM ca api nijakarmAnuRTAnena SuxXaH (asmi) 
+filename : SA_130_stories_GOLD.txt
+lineno : 2255
+ ayam eva we mama prANapriyAya sahoxarAya upaxeSaH (aswi) iwi SafKaH liKiwaM samAS_liRya avocaw iwi 
+filename : SA_130_stories_GOLD.txt
+lineno : 2262
+ waxA natasya natIM prawi (kaWanam) (aswi) 
+filename : SA_130_stories_GOLD.txt
+lineno : 2302
+ prawivAxI ca mama agrajaH (aswi) 
+filename : SA_130_stories_GOLD.txt
+lineno : 2303
+ BUmiKaNdanimiwwam ayaM vAxaH (aswi) 
+filename : SA_130_stories_GOLD.txt
+lineno : 2332
+ gafgAguruH (ukwavAn) 
+filename : SA_130_stories_GOLD.txt
+lineno : 2335
+ kqpaNasya saf_kewena gqhe roxanaM vilapanaM (ca) prArabXam 
+filename : SA_130_stories_GOLD.txt
+lineno : 2347
+ piwuH anena AxeSena yaWA(-i) puwraH agniM xAwum uxyawaH eva AsIw waWA(+i) gafgAguruH svakIyaM rUpaM XqwvA BagavAn waM kqpaNaM kaWiwavAn 
+filename : SA_130_stories_GOLD.txt
+lineno : 2402
+ iha me kA hAniH (Bavawi) 
+filename : SA_130_stories_GOLD.txt
+lineno : 2408
+ wapasvimahArAja! mayi kA yogyawA (aswi) 
+filename : SA_130_stories_GOLD.txt
+lineno : 2423
+ ixam eva me xarixrawAyAH kAraNam (aswi) 
+filename : SA_130_stories_GOLD.txt
+lineno : 2424
+ mAM parivAre roxiwuM kaSciw api na eva (aswi) 
+filename : SA_130_stories_GOLD.txt
+lineno : 2429
+ XanyaH BavAn (aswi) 
+filename : SA_130_stories_GOLD.txt
+lineno : 2432
+ aXunA BavAn eva mama AxarSaH mArgaxarSakaH guruH (aswi) iwi ukwvA svASramam prawi nivqwwaH iwi 
+filename : SA_130_stories_GOLD.txt
+lineno : 2440
+ yuxXe samApwe wena mArgeNa SiRyEH saha gacCawA SamIkena qRiNA weRAM SAvakAnAM karuNakranxanam AkarNya (ukwam) 
+filename : SA_130_stories_GOLD.txt
+lineno : 2442
+ ixam (aswi) iwi guruNA AxiRtAH SiRyAH kranxanam anusaranwaH GaNtAyAH aXaH SAvakAn xqRtvA guruxevam axarSayan 
+filename : SA_130_stories_GOLD.txt
+lineno : 2443
+ kAruNikaH SamIkaH sawwvavanwaH AyuRmanwaH ca ime (sanwi) iwi ukwvA wAn svASrame AnIya yaWociwAhArapAnapraxAnAxinA apoRayaw 
+filename : SA_130_stories_GOLD.txt
+lineno : 2450
+ aBiSApahewuH ayam eva (aswi) yaw ekaxA kaSciw wrutiwapakRaH mumUrRuH gqXraH asmAkaM piwuH uwsafge nipawiwaH 
+filename : SA_130_stories_GOLD.txt
+lineno : 2456
+ wawaH AwmAnam eva saH gqXrAya xAwuM yaxA(i-) pravqwwaH, waxA(i+) ahaM jIviwavyakweH mAMsaM na BakRAmi iwi gqXraH akaWayaw 
+filename : SA_130_stories_GOLD.txt
+lineno : 2477
+ piwrA wu AwmahawyA mahAn aparAXaH (aswi) iwi sanxiSya prAyaSciwwarUpe pawnyA saha SvaSurAlaye  kAniciw varRANi pravAsaM karwuM saH nirxiRtaH 
+filename : SA_130_stories_GOLD.txt
+lineno : 2484
+ gavAM svakRewre praviSya caraNena kupiwaH wawkRewrapawiH BAraveH SvaSuraM BAraveH ceRtiwaM yaxA(i-) aSrAvayaw waxA(i+) SvaSuraH BAraviM svakAryaM sAvaXAnawApUrvakaM sampAxayiwuM paruRavAcA kaWiwavAn api 
+filename : SA_130_stories_GOLD.txt
+lineno : 2493
+ imam eva S_lokam anyawra yawra(i-) sA kAryaM karowi sma wawrawyAM(i+) gqhasvAminIm aSrAvayaw 
+filename : SA_130_stories_GOLD.txt
+lineno : 2498
+ wAvaw eva wasya pawnI waM yaWArWawAM praboXiwavawI yaw ayam AvayoH AwmajaH eva (aswi) 
+filename : SA_130_stories_GOLD.txt
+lineno : 2510
+ asmin eva wava kalyANam (Bavawi) 
+filename : SA_130_stories_GOLD.txt
+lineno : 2538
+ apiwu caNdikArUpaXaraH eva kaScana XUrwaH (aswi) iwi niSciwya wAM balAw nigqhya wasyAH xurgawiM karwuM pravqwwaH 
+filename : SA_130_stories_GOLD.txt
+lineno : 2569
+ kinwu AScaryaM! (aswi) 
+filename : SA_130_stories_GOLD.txt
+lineno : 2570
+ mahaw AScaryam! (aswi) 
+filename : SA_130_stories_GOLD.txt
+lineno : 2574
+ rAjan! sawyam eva (aswi) 
+filename : SA_130_stories_GOLD.txt
+lineno : 2581
+ yasya yaw(i-) niyawaM kAryaM (aswi) saH eva waw(i+) karowi cew sAPalyaM niSciwaM warhi (Bavawi)
+filename : SA_130_stories_GOLD.txt
+lineno : 2585
+ BavawaH apekRayA wu asmAkam eva SArIrikaM sORTavaM samaXikaM sunxaraM (ca) vixyawe 
+filename : SA_130_stories_GOLD.txt
+lineno : 2590
+ viSvaM BarwwuM yA(-i) cinwA mama prawikRaNaM wiRTawi wasyAH(+i) wApaH eva mAM SyAmavarNaM kqSaM ca kqwavAn aswi 
+filename : SA_130_stories_GOLD.txt
+lineno : 2592
+ Bagavan! BavawaH nyUnawA kA? (aswi) 
+filename : SA_130_stories_GOLD.txt
+lineno : 2597
+ waw kiM (aswi) 
+filename : SA_130_stories_GOLD.txt
+lineno : 2617
+ Bagavan SrIkqRNaH yAvaw(i-) viSvamBaraH AsIw wAvaw(i-) wu sarvaM samyak avarwawa 
+filename : SA_130_stories_GOLD.txt
+lineno : 2635
+ apiwu Awmajam eva af_ke uwWApya svaprakoRTe AnIya paryaf_ke (sA) lAlayanwI SAyiwavawI 
+filename : SA_130_stories_GOLD.txt
+lineno : 2638
+ kiM saH yaxA wasya AwmajaH BaviRyawi (waxA) wam api evam eva wAdayiRyawi? 
+filename : SA_130_stories_GOLD.txt
+lineno : 2642
+ kinwu AveSe yaw(-i) wayA kaWiwaM waw(+i) wu kaWiwam eva 
+filename : SA_130_stories_GOLD.txt
+lineno : 2662
+ ekA CAgI yaxA(-i) waM SabxApayanwam aSqNow waxA(+i) wasyAH manasi xayA uwpannA 
+filename : SA_130_stories_GOLD.txt
+lineno : 2672
+ AwmanA saha ca gqham anayaw (saH) 
+filename : SA_130_stories_GOLD.txt
+lineno : 2676
+ BagavAn yaw(-i) wu karowi waw(+i) acCam eva hi Bavawi
+filename : SA_130_stories_GOLD.txt
+lineno : 2679
+ ekavAraM lOhaxvAraM pixaXawaH wasya haswasya ekA afguliH CinnA (yaxA)(-i) waxA(+i) pArSve sWiwasya afgarakRakasya muKAw sahasA niHsqwam 
+filename : SA_130_stories_GOLD.txt
+lineno : 2681
+ BagavAn yaw(-i) karowi waw(+i) acCam eva karowi 
+filename : SA_130_stories_GOLD.txt
+lineno : 2693
+ rAjA yaWA(-i) (AsIw) waWA(+i) svaprAsAxe nyavarwawa, 
+filename : SA_130_stories_GOLD.txt
+lineno : 2695
+ wvaM yaw(-i) ukwavAn AsIH waw(+i) aham api sawyam anuBUwavAn asmi 
+filename : SA_130_stories_GOLD.txt
+lineno : 2698
+ annaxAwaH! BavAn mAM yaw(-i) AxiSaw waw(+i) api BagavAn acCam eva kqwavAn 
+filename : SR_GOLD.txt
+lineno : 2
+sAmprawam asmin loke kaH nu guNavAn (aswi)?
+filename : SR_GOLD.txt
+lineno : 3
+kaH XarmajFaH kqwajFaH sawyavAkyaH xqDavrawaH ca (aswi)?
+filename : SR_GOLD.txt
+lineno : 4
+kaH ca vIryavAn (aswi)? 
+filename : SR_GOLD.txt
+lineno : 5
+kaH ca cAriwreNa yukwaH (aswi)?
+filename : SR_GOLD.txt
+lineno : 6
+kaH sarvaBUweRu hiwaH (aswi)?
+filename : SR_GOLD.txt
+lineno : 7
+kaH vixvAn (aswi)?
+filename : SR_GOLD.txt
+lineno : 8
+kaH ca samarWaH (aswi)?
+filename : SR_GOLD.txt
+lineno : 9
+kaH ca ekapriyaxarSanaH (aswi)?
+filename : SR_GOLD.txt
+lineno : 10
+kaH AwmavAn (aswi)? kaH jiwakroXaH xyuwimAn anasUyakaH (aswi)? saMyuge jAwaroRasya kasya xevAH ca biByawi?
+filename : SR_GOLD.txt
+lineno : 11
+maharRe! aham ewaw Srowum icCAmi hi me paraM kOwUhalam (aswi)
+filename : SR_GOLD.txt
+lineno : 12
+wvaM (ca) evaMviXaM naraM jFAwuM samarWaH asi
+filename : SR_GOLD.txt
+lineno : 17
+he mune! niyawAwmA mahAvIryaH xyuwimAn XqwimAn vaSI ikRvAkuvaMSapraBavaH rAmaH nAma janEH SruwaH-(aswi)
+filename : SR_GOLD.txt
+lineno : 18
+(rAmaH) buxXimAn nIwimAn vAggmI SrImAn SawrunibarhaNaH vipulAMsaH mahAbAhuH kambugrIvaH mahAhanuH ca (aswi)
+filename : SR_GOLD.txt
+lineno : 19
+(rAmaH) mahoraskaH maheRvAsaH gUDajawruH arinxamaH AjAnubAhuH suSirAH sulalAtaH suvikramaH (ca) (aswi)
+filename : SR_GOLD.txt
+lineno : 20
+(rAmaH) samaH samaviBakwAfgaH snigXavarNaH prawApavAn pInavakRAH viSAlAkRaH lakRmIvAn SuBalakRaNaH (ca) (aswi)
+filename : SR_GOLD.txt
+lineno : 21
+(rAmaH) XarmajFaH sawyasanXaH prajAnAM hiwe ca rawaH yaSasvI jFAnasampannaH SuciH vaSyaH samAXimAn ca (aswi)
+filename : SR_GOLD.txt
+lineno : 22
+(rAmaH) prajApawisamaH SrImAn XAwA ripuniRUxanaH jIvalokasya rakRiwA Xarmasya (ca) parirakRiwA (aswi)
+filename : SR_GOLD.txt
+lineno : 23
+(rAmaH) svasya Xarmasya svajanasya ca rakRiwA vexavexAfgawawvajFaH Xanurvexe ca niRTiwaH (aswi)
+filename : SR_GOLD.txt
+lineno : 24
+(rAmaH) sarvaSAswrArWawawvajFaH smqwimAn prawiBAvAn sarvalokapriyaH sAXuH axInAwmA vicakRaNaH (ca) (aswi)
+filename : SR_GOLD.txt
+lineno : 25
+(rAmaH) sarvaxA saxBiH samuxraH iva aBigawaH-(Bavawi)
+filename : SR_GOLD.txt
+lineno : 26
+(saH) AryaH sarvasamaH saxA eva priyaxarSanaH ca (aswi)
+filename : SR_GOLD.txt
+lineno : 27
+sarvaguNopewaH saH kOsalyAnanxavarXanaH ca (aswi)
+filename : SR_GOLD.txt
+lineno : 28
+gAmBIrye (saH) samuxraH iva XEryeNa himavAn iva ca vIrye viRNunA saxqSaH (aswi)
+filename : SR_GOLD.txt
+lineno : 29
+(saH) kroXe kAlAgnisaxqSaH kRamayA (ca) pqWivIsamaH wyAge Xanaxena samaH sawye aparaH XarmaH iva (aswi)
+filename : SR_GOLD.txt
+lineno : 30
+(rAmaH) somavaw priyaxarSanaH (aswi)
+filename : SR_GOLD.txt
+lineno : 31
+mahIpawiH xaSaraWaH wam evaMguNasampannaM sawyaparAkramaM prakqwInAM hiwEH yukwaM jyeRTaguNEH yukwaM jyERTaM sUwaM rAmaM prakqwipriyakAmyayA prIwyA (ca) yOvarAjyena saMyokwum EcCaw
+filename : SR_GOLD.txt
+lineno : 32
+aWa wasya aBiRekasamBArAn xqRtvA pUrvaMxawwavarA BAryA xevI kEkeyI rAmasya vivAsanaM Barawasya aBiRecanaM ca enaM varam ayAcawa (EcCaw)
+filename : SR_GOLD.txt
+lineno : 36
+janakasya kule jAwA xevamAyA iva nirmiwA rAmasya xayiwA niwyaM prANasamA hiwA BAryA sarvalakRaNasampannA nArINAm uwwamA vaXUH sIwA api yaWA SaSinaM rohiNI (anugawA) (waWA) rAmam anugawA
+filename : SR_GOLD.txt
+lineno : 37
+pOrEH piwrA-xaSaraWena ca xUram anugawaH XarmAwmA (rAmaH) Sqfgaverapure niRAxAXipawiM priyaM guham AsAxya gafgAkule sUwaM vyasarjayaw
+filename : SR_GOLD.txt
+lineno : 38
+guhena lakRmaNena sIwayA ca sahiwaH rAmaH vanena vanaM gawvA bahUxakAH naxIH wIrwvA BaraxvAjasya SAsanAw ciwrakUtam anuprApya vane ramyam AvasaWaM (akarow)
+filename : SR_GOLD.txt
+lineno : 41
+wasmin xaSaraWe gawe wu vasiRTapramuKEH xvijEH rAjyAya niyujyamAnaH mahAbalaH BarawaH rAjyaM na EcCaw (kinwu)
+filename : SR_GOLD.txt
+lineno : 43
+wvam eva rAjA XarmajFaH (asi) iwi vacaH rAmam abravIw
+filename : SR_GOLD.txt
+lineno : 49
+paramaprIwaH (rAmaH) agaswyavacanAw SarAsanaM EnxraM Kadgam akRayasAyakO wUNI ca jagrAha
+filename : SR_GOLD.txt
+lineno : 50
+vanacarEH saha vane vasawaH wasya rAmasya (samIpaM) sarve QRayaH asurarakRasAM vaXAya aByAgaman
+filename : SR_GOLD.txt
+lineno : 51
+saH weRAM (QRINAM) rAkRasAnAM (vaXaM) prawiSuSrAva
+filename : SR_GOLD.txt
+lineno : 54
+wawaH SUrpaNaKAvAkyAx uxyukwAn sarvarAkRasAn (wawra) (viSiRtaM) KaraM wriSirasaM xURaNaM ca rAkRasaM weRAM paxAnugAn ca raNe eva rAmaH nijaGAna (virupiwA)
+filename : SR_GOLD.txt
+lineno : 55
+wasmin vane nivasawA (rAmeNa) janasWAnanivAsinAM rakRasAM cawurxaSa-sahasrANi nihawAni-Asan
+filename : SR_GOLD.txt
+lineno : 56
+wawaH jFAwivaXaM SruwvA rAvaNaH kroXamUrCiwaH (aBavaw) (nihawAni-Asan)
+filename : SR_GOLD.txt
+lineno : 57
+(saH) mArIcaM nAma rAkRasaM sahAyaM varayAmAsa
+filename : SR_GOLD.txt
+lineno : 58
+rAvaNa! balavawA wena saha we viroXaH na kRamaH (iwyevaM) mArIcena subahuSaH vAryamANaH saH rAvaNaH kAlacoxiwaH waxvAkyam wu anAxqwya waxA sahamArIcaH wasya ASramapaxaM jagAma
+filename : SR_GOLD.txt
+lineno : 59
+(rAvaNaH) wena mAyAvinA nqpAwmajO xUram apavAhya gqXraM jatAyuRaM hawvA rAmasya BAryAM jahAra
+filename : SR_GOLD.txt
+lineno : 61
+wawaH wena eva Sokena (yukwaH) (rAGavaH) gqXraM jatAyuRaM xagXvA vane sIwAM mArgamANaH rUpeNa vikqwaM GoraxarSanaM kabanXaM nAma rAkRasaM sanxaxarSa ha (vilalApa)
+filename : SR_GOLD.txt
+lineno : 68
+hanumaxvacanAw ca-eva sugrIveNa (samAgawaH)
+filename : SR_GOLD.txt
+lineno : 71
+vAnaraH sugrIvaH rAmasya wawsarvaM SruwvA prIwaH rAmeNa agnisAkRikaM saKyaM (eva) cakAra
+filename : SR_GOLD.txt
+lineno : 74
+vAnaraH sugrIvaH rAGave vIryeNa niwyaM SafkiwaH-AsIw ca (prawijFAwam)
+filename : SR_GOLD.txt
+lineno : 75
+(saH) wawra vAlinaH balaM ca kaWayAmAsa (SafkiwaH-AsIw)
+filename : SR_GOLD.txt
+lineno : 77
+mahAbAhuH mahAbalaH (rAmaH) asWi prekRya uwsmayiwvA ca pAxAfguRTena sampUrNaM xaSayojanaM cikRepa
+filename : SR_GOLD.txt
+lineno : 78
+(rAmaH) waxA prawyayaM janayan ekena maheRuNA sapwa sAlAn giriM rasAwalaM ca punaH biBexa
+filename : SR_GOLD.txt
+lineno : 80
+wawaH hemapifgalaH harivaraH sugrIvaH agarjaw (jagAma)
+filename : SR_GOLD.txt
+lineno : 81
+wena mahawA nAxena harISvaraH (vAlI) nirjagAma
+filename : SR_GOLD.txt
+lineno : 82
+waxA vAlI wArAm anumAnya sugrIveNa (saha) (yoxXuM) samAgawaH
+filename : SR_GOLD.txt
+lineno : 83
+rAGavaH ca enaM wawra ekena SareNa nijaGAna (samAgawaH)
+filename : SR_GOLD.txt
+lineno : 84
+wawaH rAGavaH sugrIvavacanAw Ahave vAlinaM hawvA waxrAjye sugrIvam eva prawyapAxayaw (nijaGAna)
+filename : SR_GOLD.txt
+lineno : 85
+saH ca vAnararRaBaH janakAwmajAM xixqkRuH sarvAn vAnarAn samAnIya xiSaH prasWApayAmAsa (prawyapAxayaw)
+filename : SR_GOLD.txt
+lineno : 86
+wawaH balI hanumAn sampAweH gqXrasya vacanAw SawayojanaviswIrNaM lavaNArNavaM puplave (prasWApayAmAsa)
+filename : SR_GOLD.txt
+lineno : 87
+(hanumAn) rAvaNapAliwAM lafkAM purIM samAsAxya wawra aSokavanikAM gawAM (rAmaM) XyAyanwIM sIwAM xaxarSa
+filename : SR_GOLD.txt
+lineno : 88
+(wawaH) (hanumAn) aBijFAnaM nivexayiwvA pravqwwiM ca (rAmasya) vinivexya vExahIM samASvAsya ca woraNaM marxayAmAsa (xaxarSa)
+filename : SR_GOLD.txt
+lineno : 89
+(saH-hanumAn) paFca senAgragAn sapwa manwrisuwAn ca hawvA SUram akRam api niRpiRya grahaNaM samupAgamaw
+filename : SR_GOLD.txt
+lineno : 90
+(wawaH) (hanumAn) pEwAmahAw varAw aswreNa AwmAnam unmukwaM jFAwvA yanwriNaH wAn rAkRasAn yaxqcCayA marRayan (rAvaNaM) (prApwavAn) (samupAgamaw)
+filename : SR_GOLD.txt
+lineno : 91
+wawaH mahAkapiH mEWilIM sIwAm qwe lafkAM purIM xagXvA rAmAya priyamAKyAwuM punaH AyAw (prApwavAn)
+filename : SR_GOLD.txt
+lineno : 92
+ameyAwmA saH (mahAkapiH) mahAwmAnam rAmam aBigamya praxakRiNaM (ca) kqwvA sIwA wawvawaH xqRtA iwi nyavexayaw
+filename : SR_GOLD.txt
+lineno : 93
+wawaH sugrIvasahiwaH (rAmaH) mahoxaXeH wIraM gawvA AxiwyasanniBEH SarEH samuxraM kRoBayAmAsa (nyavexayaw)
+filename : SR_GOLD.txt
+lineno : 95
+(rAmaH) samuxravacanAw eva ca nalaM sewum akArayaw (xarSayAmAsa)
+filename : SR_GOLD.txt
+lineno : 96
+rAmaH wena (sewunA) lafkAM purIM gawvA Ahave rAvaNaM hawvA sIwAm anuprApya parAM vrIdAm upAgamaw
+filename : SR_GOLD.txt
+lineno : 97
+wawaH rAmaH janasaMsaxi wAM paruRam uvAca (upAgamaw)
+filename : SR_GOLD.txt
+lineno : 98
+(waw) amqRyamANA sA sawI sIwA jvalanaM viveSa
+filename : SR_GOLD.txt
+lineno : 99
+wawaH agnivacanAw sIwAM vigawakalmaRAM jFAwvA rAmaH (afgIcakAra) (viveSa)
+filename : SR_GOLD.txt
+lineno : 105
+waxA sugrIvasahiwaH (rAmaH) waw puRpakaM punaH samAruhya AKyAyikAm jalpan waxA nanxigrAmaM yayO
+filename : SR_GOLD.txt
+lineno : 107
+lokaH hi (rAjyam) (aXirUDe) (rAme) prahqRtamuxiwaH wuRtaH puRtaH suXArmikaH nirAmayaH arogaH xurBikRaBayavarjiwaH ca BaviRyawi
+filename : SR_GOLD.txt
+lineno : 108
+kecix (api) puruRAH kvaciw puwramaraNaM na xrakRyanwi
+filename : SR_GOLD.txt
+lineno : 110
+na ca agnijaM kiFcix Bayam (BaviRyawi)
+filename : SR_GOLD.txt
+lineno : 111
+na (ca) apsu janwavaH majjanwi (BaviRyawi)
+filename : SR_GOLD.txt
+lineno : 112
+na kiFcix vAwajaM Bayam (BaviRyawi)
+filename : SR_GOLD.txt
+lineno : 113
+na api jvarakqwaM waWA (BaviRyawi)
+filename : SR_GOLD.txt
+lineno : 114
+na ca api wawra kRuxBayam (BaviRyawi)
+filename : SR_GOLD.txt
+lineno : 115
+waWA waskaraBayam (api) na (BaviRyawi)
+filename : SR_GOLD.txt
+lineno : 116
+nagarANi rARtrANi ca XanaXAnyayuwAni (BaviRyanwi)
+filename : SR_GOLD.txt
+lineno : 118
+mahAyaSAH rAGavaH aSvameXaSawEH bahusuvarNakEH iRt_vA gavAM kot_yayuwaM asaMKyeya XanaM (ca) vixvaxByaH brAhmaNeByaH viXiparvUkaM xawwvA rAjavaMSAn SawaguNAn sWApayiRyawi
+filename : SR_GOLD.txt
+lineno : 119
+asmin loke cAwurvarNyaM sve-sve Xarme niyokRyawi ca (sWApayiRyawi)
+filename : SR_GOLD.txt
+lineno : 121
+ixaM paviwraM pApaGnaM puNyaM vexE ca sammiwaM rAmacariwaM yaH(i-) paTew (saH)(+i) sarvapApEH pramucyawe
