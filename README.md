@@ -39,6 +39,9 @@
  ##04/12/17
  -not done work today much .just checked line () and contents ,
  
+ ##05/12/17
+ -got all data as asked . now starting to apply shandi rules
+ 
  
    
    
