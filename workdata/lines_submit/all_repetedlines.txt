@@ -1,0 +1,27 @@
+filename : SA_130_stories_GOLD.txt
+lineno : 2567
+line : iyaM kaWA kiM SikRayawi 
+filename : SA_130_stories_GOLD.txt
+lineno : 3460
+line : anayA kaWayA kaH sanxeSaH milawi 
+filename : SA_130_stories_GOLD.txt
+lineno : 5523
+line : anayA kaWayA kIxqSaH sanxeSaH xIyawe 
+filename : SA_130_stories_GOLD.txt
+lineno : 7156
+line : anayA kaWayA kA SikRA milawi 
+filename : SA_130_stories_GOLD.txt
+lineno : 8121
+line : iyam kaWA kim SikRayawi 
+filename : SA_130_stories_GOLD.txt
+lineno : 9030
+line : Am 
+filename : SA_130_stories_GOLD.txt
+lineno : 18637
+line : awra agniSamanaM karowu 
+filename : SA_130_stories_GOLD.txt
+lineno : 19122
+line : Am Am 
+filename : SA_130_stories_GOLD.txt
+lineno : 26126
+line : Am 
