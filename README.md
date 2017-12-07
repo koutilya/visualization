@@ -7,9 +7,9 @@
 ## sankritreaderscrapall_lines_in_a_file.ipynb
 -for all lines in  workdata/lines_submit/all_uniquelines.txt we scrap data from sanskrit reader for everyline 
 -we store data as .txt file in
-                                1. if for some words merge = '?' ---> workdata/lines_submit/wrong_lines/output/ 
-                                2. if all words are ok ---> workdata/lines_submit/correct_lines/output/
-- if input line is not in format to sanskrit reader  we store lines in --> workdata/lines_submit/wronginputs/output/wronginputs.txt
+                                - if for some words merge = '?' ---> workdata/lines_submit/wrong_lines/output/ 
+                                - if all words are ok ---> workdata/lines_submit/correct_lines/output/
+-if input line is not in format to sanskrit reader  we store lines in --> workdata/lines_submit/wronginputs/output/wronginputs.txt
 
 
 ## sortoutputdatafiles.ipynb
