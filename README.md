@@ -1,4 +1,28 @@
 # visualization
+
+## sortinputdatafile.ipynb
+-get all lines from dir( = workdata/GOLD_SENT_WIT_POS/) files
+-store them in dir( = workdata/lines_submit/) as all_lines.txt,all_uniquelines.txt,all_repeated.lines.txt
+
+## sankritreaderscrapall_lines_in_a_file.ipynb
+-for all lines in  workdata/lines_submit/all_uniquelines.txt we scrap data from sanskrit reader for everyline 
+-we store data as .txt file in
+                                1. if for some words merge = '?' ---> workdata/lines_submit/wrong_lines/output/ 
+                                2. if all words are ok ---> workdata/lines_submit/correct_lines/output/
+- if input line is not in format to sanskrit reader  we store lines in --> workdata/lines_submit/wronginputs/output/wronginputs.txt
+
+
+## sortoutputdatafiles.ipynb
+-for file F in workdata/lines_submit/wrong_lines/output/ , workdata/lines_submit/correct_lines/output/ we try to get line info ,pdf,inputline,problem words in seperate files with folder name F to workdata/lines_submit/wrong_lines/sorteddata/ , workdata/lines_submit/correct_lines/sorteddata/
+-for wronginputs.txt lines we get  input line and line info into files in seperate folder for line
+
+
+
+
+
+
+
+# daily work
 ##23/11/17 
    -gone through basic information of pandas,beautiful soup,crawling ,scrapping,jupyter notebook
    
@@ -40,7 +64,14 @@
  -not done work today much .just checked line () and contents ,
  
  ##05/12/17
- -got all data as asked . now starting to apply shandi rules
+ -got all data as asked . now starting to apply shandi rules 
+ 
+ ##06/12/17
+ -adjust code to get data in understandable formate
+ 
+ ##07/12/17
+ -trying to transcode and check sandhi *
+ 
  
  
    
