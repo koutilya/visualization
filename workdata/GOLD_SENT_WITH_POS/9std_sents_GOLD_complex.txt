@@ -1,0 +1,1080 @@
+SENT: rAmasya BAryA sIwA wasya anujaH lakRmaNaH ca rAmeNa saha vanam gacCawaH
+ANALYSIS:
+1	rAmasya	NS	RaRTIsambanXaH,2
+2	BAryA	NP	viSeRaNam,3
+3	sIwA	NS	samucciwam,7
+4	wasya	SN	RaRTIsambanXaH,5
+5	anujaH	NP	viSeRaNam,6
+6	lakRmaNaH	NS	samucciwam,7
+7	ca	APY	karwA,11
+8	rAmeNa	NS	upapaxasambanXaH,9
+9	saha	AUP	sambanXaH,7
+10	vanam	NP	karma,11
+11	gacCawaH	KN	
+
+SENT: wApasAnAm bAlakAH ca wawra waranwi
+ANALYSIS:
+1	wApasAnAm		RaRTIsambanXaH,2
+2	bAlakAH	NP	karwA,5
+3	ca	APY	sambanXaH,2
+4	wawra	A	xeSAXikaraNam,5
+5	waranwi	NP	
+
+SENT: vqkReRu lawAH ca sanwi
+ANALYSIS:
+1	vqkReRu	NP	aXikaraNam,4
+2	lawAH	NP	karwA,4
+3	ca	APY	sambanXaH,2
+4	sanwi	KP	
+
+SENT: vqkRANAm lawAnAm ca SAKAsu vihagAH kUjanwi
+ANALYSIS:
+1	vqkRANAm	NP	samucciwam,3
+2	lawAnAm	NP	samucciwam,3
+3	ca	APY	RaRTIsambanXaH,4
+4	SAKAsu		aXikaraNam,6
+5	vihagAH	NP	karwA,6
+6	kUjanwi		
+
+SENT: kapayaH ca wawra vqkRAw vqkRam kUrxanwi
+ANALYSIS:
+1	kapayaH	NP	karwA,6
+2	ca	APY	
+3	wawra	A	xeSAXikaraNam,6
+4	vqkRAw	NP	apAxAnam,6
+5	vqkRam	NP	aXikaraNam,6
+6	kUrxanwi	KP	samucciwam,2
+
+SENT: paSavaH ca wawra Bramanwi
+ANALYSIS:
+1	paSavaH	NP	karwA,4
+2	ca	APY	
+3	wawra	A	xeSAXikaraNam,4
+4	Bramanwi	KP	samucciwam,2
+
+SENT: mokRAya wapasyAm ca kurvanwi
+ANALYSIS:
+1	mokRAya	NP	wAxarWyam,4
+2	wapasyAm		karma,4
+3	ca	APY	
+4	kurvanwi	KP	samucciwam,3
+
+SENT: sIwA lakRmaNaH ca rAmeNa saha parvawam ArohawaH
+ANALYSIS:
+1	sIwA	NS	samucciwam,3
+2	lakRmaNaH	NS	samucciwam,3
+3	ca	APY	karwA,7
+4	rAmeNa	NS	upapaxasambanXaH,5
+5	saha	AUP	sambanXaH,7
+6	parvawam		karma,3
+7	ArohawaH	KP	
+
+SENT: munayaH puRpEH PalEH ca rAmam pUjayanwi
+ANALYSIS:
+1	munayaH	NP	karwA,6
+2	puRpEH	NP	samucciwam,4
+3	PalEH	NP	samucciwam,4
+4	ca	APY	karaNam,6
+5	rAmam	NS	karma,6
+6	pUjayanwi	KP	
+
+SENT: sIwA lakRmaNaH ca wAn namawaH
+ANALYSIS:
+1	sIwA	NS	samucciwam,3
+2	lakRmaNaH	NS	samucciwam,3
+3	ca	APY	karwA,5
+4	wAn	SN	karma,5
+5	namawaH		
+
+SENT: munayaH rAmam sIwAm lakRmaNam ca ASramam nayanwi
+ANALYSIS:
+1	munayaH	NP	karwA,7
+2	rAmam	NS	samucciwam,5
+3	sIwAm	NS	samucciwam,5
+4	lakRmaNam	NS	samucciwam,5
+5	ca	APY	muKyakarma,7
+6	ASramam	NP	gONakarma,7
+7	nayanwi	KP	
+
+SENT: rAmaH lakRmaNaH sIwA ca ciwrakUte ciram vasanwi
+ANALYSIS:
+1	rAmaH	NS	samucciwam,4
+2	lakRmaNaH	NS	samucciwam,4
+3	sIwA	NS	samucciwam,4
+4	ca	APY	karwA,7
+5	ciwrakUte		aXikaraNam,7
+6	ciram	KV	kriyAviSeRaNam,7
+7	vasanwi	KP	
+
+SENT: lakRmaNaH sIwA ca parvawAw avarohawaH
+ANALYSIS:
+1	lakRmaNaH	NS	samucciwam,3
+2	sIwA	NS	samucciwam,3
+3	ca	APY	karwA,5
+4	parvawAw	NP	apAxAnam,5
+5	avarohawaH		
+
+SENT: rAmaH lakRmaNena sIwayA ca saha vanam praviSawi
+ANALYSIS:
+1	rAmaH	NS	karwA,7
+2	lakRmaNena	NS	samucciwam,4
+3	sIwayA	NS	samucciwam,4
+4	ca	APY	upapaxasambanXaH,5
+5	saha	AUP	sambanXaH,1
+6	vanam	NP	karma,7
+7	praviSawi	KP	
+
+SENT: wasmin vane rAkRaseByaH vanyeByaH paSuByaH ca Bayam aswi
+ANALYSIS:
+1	wasmin	SN	viSeRaNam,2
+2	vane	NP	aXikaraNam,8
+3	rAkRaseByaH	NP	samucciwam,6
+4	vanyeByaH		samucciwam,6
+5	paSuByaH		samucciwam,6
+6	ca	APY	apAxAnam,7
+7	Bayam	NP	karwA,8
+8	aswi	KP	
+
+SENT: rAmaH lakRmaNaH ca sIwAm rakRawaH
+ANALYSIS:
+1	rAmaH	NS	samucciwam,3
+2	lakRmaNaH	NS	samucciwam,3
+3	ca	APY	karwA,5
+4	sIwAm	NS	karma,5
+5	rakRawaH		
+
+SENT: wawra vqkRANAm maXye lakRmaNaH rAmAya sIwAyE ca parNaSAlAm racayawi
+ANALYSIS:
+1	wawra	A	xeSAXikaraNam,9
+2	vqkRANAm	NP	RaRTIsambanXaH,3
+3	maXye	NP	aXikaraNam,9
+4	lakRmaNaH	NS	karwA,9
+5	rAmAya	NS	samucciwam,7
+6	sIwAyE	NS	samucciwam,7
+7	ca	APY	wAxarWyam,9
+8	parNaSAlAm		karma,9
+9	racayawi	KP	
+
+SENT: wasyAm rAmaH lakRmaNaH sIwA ca ciram vasanwi
+ANALYSIS:
+1	wasyAm	NV	aXikaraNam,7
+2	rAmaH	NS	samucciwam,5
+3	lakRmaNaH	NS	samucciwam,5
+4	sIwA	NS	samucciwam,5
+5	ca	APY	karwA,7
+6	ciram	KV	kriyAviSeRaNam,7
+7	vasanwi	KP	
+
+SENT: ekaxA yaxA saH saBAyAm upAviSaw waxA ekaH rAjapuruRaH ekam SiSum bAhuByAm nIwvA wawra AgacCaw
+ANALYSIS:
+1	ekaxA	A	kAlAXikaraNam,14
+2	yaxA	A	
+3	saH	SSN	viSeRaNam,7
+4	saBAyAm	NP	aXikaraNam,5
+5	upAviSaw	KP	
+6	waxA	A	kAlAXikaraNam,12
+7	ekaH	SMKY	viSeRaNam,8
+8	rAjapuruRaH	NP	karwA,14
+9	ekam	SMKY	viSeRaNam,10
+10	SiSum	NP	muKyakarma,12
+11	bAhuByAm	NP	karaNam,12
+12	nIwvA	KKS	pUrvakAlaH,14
+13	wawra	A	xeSAXikaraNam,14
+14	AgacCaw	KP	
+
+SENT: xve nAryO ca wena saha wawra AgacCawAm
+ANALYSIS:
+1	xve	SMKY	viSeRaNam,2
+2	nAryO		karwA,7
+3	ca	APY	
+4	wena	SN	upapaxasambanXaH,5
+5	saha	AUP	sambanXaH,2
+6	wawra	A	xeSAXikaraNam,7
+7	AgacCawAm		samucciwam,3
+
+SENT: rAjapuruRaH SiSuM nqpasya samakRam BUmO nikRipya avaxaw mahArAja xve nAryO SiSoH kAraNena parasparam kalaham vivAxam ca kuruwaH (yaw)
+ANALYSIS:
+1	rAjapuruRaH	NP	karwA,7
+2	SiSuM		karma,7
+3	nqpasya	NP	upapaxasambanXaH,4
+4	samakRam	A	aXikaraNam,7
+5	BUmO	NP	aXikaraNam,7
+6	nikRipya	KN	pUrvakAlaH,7
+7	avaxaw	KP	
+8	mahArAja	NP	samboXyaH,17
+9	xve	SMKY	viSeRaNam,10
+10	nAryO		karwA,17
+11	SiSoH	NP	RaRTIsambanXaH,12
+12	kAraNena	NP	hewuH,17
+13	parasparam	NP	kriyAviSeRaNam,17
+14	kalaham	NP	samucciwam,16
+15	vivAxam	NP	samucciwam,16
+16	ca	APY	karma,17
+17	kuruwaH	KP	karma,7
+18	(yaw)	yaw	sambanXaH,7
+
+SENT: wam xqRtvA wayoH ekA nArI nqpasya samakRam BUmO pawiwvA avaxaw mahArAja kqpAluH Bava mAm rakRa (yaw) (ca)
+ANALYSIS:
+1	wam	SN	karma,2
+2	xqRtvA	KN	pUrvakAlaH,10
+3	wayoH	SN	nirXAraNam,5
+4	ekA	SMKY	viSeRaNam,5
+5	nArI	NP	karwA,10
+6	nqpasya	NP	upapaxasambanXaH,7
+7	samakRam	A	aXikaraNam,9
+8	BUmO	NP	aXikaraNam,9
+9	pawiwvA	KKS	pUrvakAlaH,10
+10	avaxaw	KP	
+11	mahArAja	NP	samboXyaH,13
+12	kqpAluH		karwA,13
+13	Bava	KP	samucciwam,17
+14	mAm	SN	karma,15
+15	rakRa	KP	samucciwam,17
+16	(yaw)	yaw	sambanXaH,10
+17	(ca)	ca	karma,10
+
+SENT: wasyAH roxanam AkarNya wasyAH xaSAm ca xqRtvA nqpaH avaxaw eRAH nArI SiSoH jananI (yaw)
+ANALYSIS:
+1	wasyAH	SN	RaRTIsambanXaH,2
+2	roxanam	NP	karma,3
+3	AkarNya	KKS	samucciwam,6
+4	wasyAH	SN	RaRTIsambanXaH,5
+5	xaSAm	NP	karma,7
+6	ca	APY	pUrvakAlaH,9
+7	xqRtvA	KN	samucciwam,6
+8	nqpaH	NP	karwA,9
+9	avaxaw	KP	
+10	eRAH		viSeRaNam,11
+11	nArI	NP	karwA,14
+12	SiSoH	NP	RaRTIsambanXaH,13
+13	jananI	NP	karwqsamAnAXikaraNam,14
+14	(yaw)	yaw	sambanXaH,9
+
+SENT: rAjapuruRaH praWamAyE SiSum ayacCaw xviwIyAm banxIgqham anayaw ca
+ANALYSIS:
+1	rAjapuruRaH	NP	karwA,4
+2	praWamAyE		sampraxAnam,4
+3	SiSum	NP	karma,4
+4	ayacCaw	KP	samucciwam,8
+5	xviwIyAm		muKyakarma,7
+6	banxIgqham		gONakarma,7
+7	anayaw	KP	samucciwam,8
+8	ca	APY	
+
+SENT: BArawavarRe anekaviXAH XarmacAriNaH viviXaBARABARiNaH ca vasanwi
+ANALYSIS:
+1	BArawavarRe	NS	aXikaraNam,6
+2	anekaviXAH		viSeRaNam,3
+3	XarmacAriNaH	NV	samucciwam,5
+4	viviXaBARABARiNaH		samucciwam,5
+5	ca	APY	karwA,6
+6	vasanwi	KP	
+
+SENT: SrIrAmaH SrIkqRNaH sawyavAxI hariScanxraH sawyaprawijFaBIRmaH mahAwmA buxXaH BagavAn mahAvIraH gAzXIneharUsaxqSAH mahAwmAnaH SreRTajanAH ca awra eva uwpannAH aBavan
+ANALYSIS:
+1	SrIrAmaH	NS	samucciwam,13
+2	SrIkqRNaH	NS	samucciwam,13
+3	sawyavAxI	NV	viSeRaNam,4
+4	hariScanxraH	NS	samucciwam,13
+5	sawyaprawijFaBIRmaH		samucciwam,13
+6	mahAwmA	NP	viSeRaNam,7
+7	buxXaH	NS	samucciwam,13
+8	BagavAn	NP	viSeRaNam,9
+9	mahAvIraH	NS	samucciwam,13
+10	gAzXIneharUsaxqSAH		samucciwam,13
+11	mahAwmAnaH	NP	viSeRaNam,13
+12	SreRTajanAH	NP	viSeRaNam,13
+13	ca	APY	karwA,17
+14	awra	A	aXikaraNam,17
+15	eva	INTF	sambanXaH,14
+16	uwpannAH	KN	karwqsamAnAXikaraNam,13
+17	aBavan	KP	
+
+SENT: BArawIyAH vixvAMsaH kaWayanwi yax BArawaBUmiH eva AryANAm mUlam nivAsasWAnam AsIw
+ANALYSIS:
+1	BArawIyAH	NP	viSeRaNam,2
+2	vixvAMsaH	NP	karwA,3
+3	kaWayanwi	KP	
+4	yax	A	anuyogI,3
+5	BArawaBUmiH	NP	karwA,10
+6	eva	INTF	sambanXaH,5
+7	AryANAm		RaRTIsambanXaH,9
+8	mUlam	NP	viSeRaNam,9
+9	nivAsasWAnam	NP	karwqsamAnAXikaraNam,5
+10	AsIw	KP	prawiyogI,4
+
+SENT: wO parasparam sahqxO AswAm saxA eva ca awiRTawAm
+ANALYSIS:
+1	wO	SN	karwA,4
+2	parasparam	NP	kriyAviSeRaNam,4
+3	sahqxO		karwqsamAnAXikaraNam,1
+4	AswAm	KP	samucciwam,7
+5	saxA	A	kAlAXikaraNam,8
+6	eva	INTF	sambanXaH,5
+7	ca	APY	
+8	awiRTawAm	KP	samucciwam,7
+
+SENT: yaxi aham ewayoH mAMsam laBeyam warhi kIxqSam suKam Bavew
+ANALYSIS:
+1	yaxi	AVK	prawiyogI
+2	aham	SN	karwA,5
+3	ewayoH	SN	RaRTIsambanXaH,4
+4	mAMsam	NP	karma,5
+5	laBeyam	KP	prawiyogI,1
+6	warhi	APY	
+7	kIxqSam	ASD	viSeRaNam,8
+8	suKam	NP	karma,9
+9	Bavew	KP	prawiyogI,1
+
+SENT: sAnanxam ca mama kAlaH gacCew
+ANALYSIS:
+1	sAnanxam	NP	kriyAviSeRaNam,5
+2	ca	APY	samucciwam,
+3	mama	SN	RaRTIsambanXaH,4
+4	kAlaH	NP	karwA,5
+5	gacCew	KP	samucciwam,2
+
+SENT: yaxi kaxAciw siMhaH ekam praharew warhi xviwIyaH siMham eva svaSqMgeNa vixArayew
+ANALYSIS:
+1	yaxi	AVK	prawiyogI
+2	kaxAciw	A	kAlAXikaraNam,5
+3	siMhaH	NP	karwA,5
+4	ekam	SMKY	karma,5
+5	praharew	KN	prawiyogI,1
+6	warhi	APY	
+7	xviwIyaH	SMKP	karwA,11
+8	siMham	NP	karma,11
+9	eva	INTF	sambanXaH,8
+10	svaSqMgeNa		karaNam,11
+11	vixArayew		prawiyogI,1
+
+SENT: yaxi aham ewayoH Bexam uwpAxayAmi warhi avaSyam aham saPalaH BaviRyAmi
+ANALYSIS:
+1	yaxi	AVK	prawiyogI
+2	aham	SN	karwA,5
+3	ewayoH	SN	aXikaraNam,5
+4	Bexam	NP	karma,5
+5	uwpAxayAmi	KP	prawiyogI,1
+6	warhi	APY	
+7	avaSyam	A	kriyAviSeRaNam,10
+8	aham	SN	karwA,10
+9	saPalaH	NP	karwqsamAnAXikaraNam,10
+10	BaviRyAmi	KP	prawiyogI,1
+
+SENT: yaWAkAlam saH wayoH samIpam agacCaw ekam vqRaBam ca avaxaw
+ANALYSIS:
+1	yaWAkAlam	NP	kriyAviSeRaNam,8
+2	saH	SSN	karwA,8
+3	wayoH	SN	upapaxasambanXaH,4
+4	samIpam	NP	aXikaraNam,5
+5	agacCaw	KP	samucciwam,8
+6	ekam	SMKY	viSeRaNam,7
+7	vqRaBam	NP	karma,9
+8	ca	APY	
+9	avaxaw	KP	samucciwam,8
+
+SENT: wawaH ekaH vqRaBaH xviwIyena waWA prahqwaH yaWA wasya vakRasaH ruXiram niragacCaw pIdayA ca saH xUram aXAvaw
+ANALYSIS:
+1	wawaH	A	kAlAXikaraNam,5
+2	ekaH	SMKY	viSeRaNam,
+3	vqRaBaH	NP	karma,
+4	xviwIyena	SMKP	karwA,
+5	waWA	AVK	
+6	prahqwaH		prawiyogI,5
+7	yaWA	AVK	
+8	wasya	SN	RaRTIsambanXaH,
+9	vakRasaH	NP	apAxAnam,
+10	ruXiram	NP	karma,
+11	niragacCaw	KP	samucciwam,16
+12	pIdayA	NP	hewuH,16
+13	ca	APY	prawiyogI,5
+14	saH	SSN	karwA,16
+15	xUram	NP	kriyAviSeRaNam,16
+16	aXAvaw	KP	samucciwam,13
+
+SENT: koZpi xviwIyena saha na awiRTaw na ca avaxaw
+ANALYSIS:
+1	koSpi		karwA,8
+2	xviwIyena	SMKP	upapaxasambanXaH,4
+3	saha	AUP	sambanXaH,1
+4	na	AN	sambanXaH,6
+5	awiRTaw	KP	samucciwam,7
+6	na	AN	sambanXaH,9
+7	ca	APY	
+8	avaxaw	KP	samucciwam,7
+
+SENT: xqRtvA eva ca saH wam prArahaw naKEH vixArya ca aBakRayaw
+ANALYSIS:
+1	xqRtvA	KN	pUrvakAlaH,6
+2	eva	INTF	sambanXaH,1
+3	ca	APY	sambanXaH,9
+4	saH	SSN	karwA,6
+5	wam	SN	karma,6
+6	prArahaw		samucciwam,9
+7	naKEH	NP	karaNam,8
+8	vixArya	KKS	pUrvakAlaH,10
+9	ca	APY	
+10	aBakRayaw		samucciwam,9
+
+SENT: kUle kaRAn naxAn BayaMkarANi vanAni paryatan saH sarvaMsahaH sanyAsI BArawIyAn sAkRAw akarow anvaBavaw ca rARtriyAm saMskqwim
+ANALYSIS:
+1	kUle	NP	?
+2	kaRAn		viSeRaNam,3
+3	naxAn		karma,6
+4	BayaMkarANi	NV	viSeRaNam,5
+5	vanAni	NP	karma,6
+6	paryatan	NP	samAnakAlaH,12
+7	saH	SSN	karwA,
+8	sarvaMsahaH		viSeRaNam,
+9	sanyAsI	NP	viSeRaNam,
+10	BArawIyAn	NP	karma,
+11	sAkRAw	NV	kriyAviSeRaNam,12
+12	akarow	KP	samucciwam,14
+13	anvaBavaw	KP	samucciwam,14
+14	ca	APY	
+15	rARtriyAm		viSeRaNam,16
+16	saMskqwim	NP	karma,13
+
+SENT: vivekAnanxaH avaxaw na aham sAXuH na aham xArSanikaH apiwu aham nirXanaH nirXanAnAm sevakaH
+ANALYSIS:
+1	vivekAnanxaH		karwA,1
+2	avaxaw	KP	
+3	na	AN	sambanXaH,5
+4	aham	SN	samucciwam,9
+5	sAXuH	NV	karwqsamAnAXikaraNam,4
+6	na	AN	sambanXaH,8
+7	aham	SN	samucciwam,9
+8	xArSanikaH		karwqsamAnAXikaraNam,7
+9	apiwu	AVK	
+10	aham	SN	samucciwam,9
+11	nirXanaH	NV	karwqsamAnAXikaraNam,10
+12	nirXanAnAm	NP	RaRTIsambanXaH,13
+13	sevakaH	NP	samucciwam,9
+
+SENT: saH eva vAswavikaH sanyAsI mahAwmA rARtranewA vA yaH nirXanAn sevawe Bajawe vA
+ANALYSIS:
+1	saH	SSN	
+2	eva	INTF	sambanXaH,1
+3	vAswavikaH	NV	viSeRaNam,7
+4	sanyAsI	NP	samucciwam,7
+5	mahAwmA	NP	samucciwam,7
+6	rARtranewA		samucciwam,7
+7	vA	AVK	viSeRaNam,1
+8	yaH	SN	
+9	nirXanAn		karma,12
+10	sevawe	KP	anyawaraH,12
+11	Bajawe	KP	anyawaraH,12
+12	vA	AVK	prawiyogI,1
+
+SENT: na aham axyAvaXiH ISvaram apaSyam svacakRuRA na vA cewasA anvaBavam
+ANALYSIS:
+1	na	AN	sambanXaH,6
+2	aham	SN	karwA,9
+3	axyAvaXiH		kAlAXikaraNam,9
+4	ISvaram	NP	karma,9
+5	apaSyam		samucciwam,9
+6	svacakRuRA	NP	karaNam,6
+7	na	AN	sambanXaH,11
+8	vA	AVK	
+9	cewasA	NP	karaNam,11
+10	anvaBavam		samucciwam,9
+
+SENT: kRuXiwaH ayam siMhaH iwi mawvA vivekAnanxaH svaxeham siMhAya ayacCaw wURNIm awiRTaw ca
+ANALYSIS:
+1	kRuXiwaH		prawiyogI,4
+2	ayam	SN	viSeRaNam,3
+3	siMhaH	NP	karwA,1
+4	iwi	AUD	anuyogI,5
+5	mawvA	KKS	pUrvakAlaH,9
+6	vivekAnanxaH		karwA,9
+7	svaxeham	NP	karma,9
+8	siMhAya	KKS	sampraxAnam,9
+9	ayacCaw	KP	samucciwam,12
+10	wURNIm	A	karma,11
+11	awiRTaw	KP	samucciwam,12
+12	ca	APY	
+
+SENT: acalaw ca anyAm xiSAm prawi
+ANALYSIS:
+1	acalaw	KP	samucciwam,2
+2	ca	APY	
+3	anyAm	SNV	viSeRaNam,4
+4	xiSAm	NP	upapaxasambanXaH,5
+5	prawi	AUP	sambanXaH,1
+
+SENT: wO wam upAgacCawaH upAyam pqcCawaH ca  SqgAlaH wO upAyam kaWayawi
+ANALYSIS:
+1	wO	SN	karwA,6
+2	wam	SN	karma,3
+3	upAgacCawaH		samucciwam,6
+4	upAyam	NP	karma,5
+5	pqcCawaH	KN	samucciwam,6
+6	ca	APY	
+7	SqgAlaH	NP	karwA,10
+8	wO	SN	gONakarma,10
+9	upAyam	NP	muKyakarma,10
+10	kaWayawi	KP	
+
+SENT: waxA saH vAyasaH waw svarNasya ABaraNam caMcvA XArayiwvA Anayawi waw sarpasya kotare kRipawi ca
+ANALYSIS:
+1	waxA	A	kAlAXikaraNam,14
+2	saH	SSN	viSeRaNam,3
+3	vAyasaH	NP	karwA,14
+4	waw	SN	viSeRaNam,6
+5	svarNasya		RaRTIsambanXaH,6
+6	ABaraNam	NP	karma,8
+7	caMcvA		karaNam,8
+8	XArayiwvA	KKS	pUrvakAlaH,9
+9	Anayawi	KP	samucciwam,14
+10	waw	SN	karma,13
+11	sarpasya	NP	RaRTIsambanXaH,12
+12	kotare		aXikaraNam,14
+13	kRipawi	KP	samucciwam,14
+14	ca	APY	
+
+SENT: evam vAyasaxampawI apawyAni rakRawaH suKam vasawaH ca
+ANALYSIS:
+1	evam	AUD	kriyAviSeRaNam,4
+2	vAyasaxampawI		karwA,7
+3	apawyAni	NP	karma,4
+4	rakRawaH		samucciwam,7
+5	suKam	NP	kriyAviSeRaNam,6
+6	vasawaH	NP	samucciwam,7
+7	ca	APY	
+
+SENT: mAm naxyAH wate xqRtvA saH jambUPalAni vqkRAw kRipawi aham wAni KAxAmi ca
+ANALYSIS:
+1	mAm	SN	karma,4
+2	naxyAH	NP	RaRTIsambanXaH,3
+3	wate	NP	aXikaraNam,4
+4	xqRtvA	KN	pUrvakAlaH,8
+5	saH	SSN	karwA,8
+6	jambUPalAni		karma,8
+7	vqkRAw	NP	apAxAnam,8
+8	kRipawi	KP	samucciwam,12
+9	aham	SN	karwA,11
+10	wAni	SN	karma,11
+11	KAxAmi	KP	samucciwam,12
+12	ca	APY	
+
+SENT: yaxi saH vAnaraH prawixinam maXurANi PalAni KAxawi waxA wasya hqxayam maXuram BaviRyawi
+ANALYSIS:
+1	yaxi	AVK	
+2	saH	SSN	viSeRaNam,3
+3	vAnaraH	NP	karwA,7
+4	prawixinam	NP	kAlAXikaraNam,7
+5	maXurANi	NP	viSeRaNam,6
+6	PalAni	NP	karma,7
+7	KAxawi	KP	prawiyogI,1
+8	waxA	A	kAlAXikaraNam,12
+9	wasya	SN	RaRTIsambanXaH,10
+10	hqxayam	NP	karwA,12
+11	maXuram	NV	karwqsamAnAXikaraNam,10
+12	BaviRyawi	KP	prawiyogI,1
+
+SENT: wawaH gacCa wasya maXuram hqxayam Anaya
+ANALYSIS:
+1	wawaH	A	hewuH,2
+2	gacCa	KP	
+3	wasya	SN	RaRTIsambanXaH,4
+4	maXuram	NV	viSeRaNam,5
+5	hqxayam	NP	karma,6
+6	Anaya	KP	
+
+SENT: miwra aham awra prawixinam maXurANi PalAni KAxAmi kinwu kaxApi wvAm BojanAya svagqham na nayAmi
+ANALYSIS:
+1	miwra	NV	samboXyaH,7
+2	aham	SN	karwA,7
+3	awra	A	aXikaraNam,7
+4	prawixinam	NP	pUrvakAlaH,7
+5	maXurANi	NP	viSeRaNam,6
+6	PalAni	NP	karma,7
+7	KAxAmi	KP	samucciwam,8
+8	kinwu	AVK	
+9	kaxApi	A	kAlAXikaraNam,14
+10	wvAm	SN	muKyakarma,14
+11	BojanAya	NP	wAxarWyam,14
+12	svagqham	NP	gONakarma,14
+13	na	AN	sambanXaH,14
+14	nayAmi	KP	samucciwam,8
+
+SENT: vAnaraH sapaxi wasya pqRTAw avArohaw vqkRam arohaw ca
+ANALYSIS:
+1	vAnaraH	NP	karwA,8
+2	sapaxi	NP	kriyAviSeRaNam,5
+3	wasya	SN	RaRTIsambanXaH,4
+4	pqRTAw		apAxAnam,5
+5	avArohaw		samucciwam,8
+6	vqkRam	NP	karma,7
+7	arohaw		samucciwam,8
+8	ca	APY	
+
+SENT: vayam Xanam ca corayiRyAmaH
+ANALYSIS:
+1	vayam	SN	karwA,4
+2	Xanam	NP	karma,4
+3	ca	APY	samucciwam,2
+4	corayiRyAmaH		
+
+SENT: CAwraH yaxi yawnena na paTew warhi parIkRAm kaWam uwwarew
+ANALYSIS:
+1	CAwraH	NP	karwA,5
+2	yaxi	AVK	
+3	yawnena	NP	hewuH,5
+4	na	AN	sambanXaH,5
+5	paTew	KP	prawiyogI,2
+6	warhi	APY	
+7	parIkRAm	NP	karma,9
+8	kaWam	AP	kriyAviSeRaNam,9
+9	uwwarew		prawiyogI,2
+
+SENT: yaxi kAle meGAH varReyuH warhi vipulam XAnyam Bavew
+ANALYSIS:
+1	yaxi	AVK	
+2	kAle	NP	kAlAXikaraNam,4
+3	meGAH	NP	karwA,4
+4	varReyuH		prawiyogI,1
+5	warhi	APY	
+6	vipulam	NV	viSeRaNam,8
+7	XAnyam	NP	karwA,8
+8	Bavew	KP	prawiyogI,1
+
+SENT: kulasya arWe ekam wyajew grAmasya arWe kulam wyajew
+ANALYSIS:
+1	kulasya	NP	RaRTIsambanXaH,2
+2	arWe	NP	hewuH,4
+3	ekam	SMKY	karwA,4
+4	wyajew	KP	
+5	grAmasya	NP	RaRTIsambanXaH,6
+6	arWe	NP	hewuH,8
+7	kulam	NP	karwA,8
+8	wyajew	KP	
+
+SENT: kRaNaSaH kaNaSaH ca vixyAm arWam ca cinwayew
+ANALYSIS:
+1	kRaNaSaH		samucciwam,3
+2	kaNaSaH		samucciwam,3
+3	ca	APY	kriyAviSeRaNam,7
+4	vixyAm	NP	samucciwam,6
+5	arWam	NP	samucciwam,6
+6	ca	APY	karma,7
+7	cinwayew	KP	
+
+SENT: inXanam gqham Anayasi ca
+ANALYSIS:
+1	inXanam	NP	muKyakarma,3
+2	gqham	NP	gONakarma,3
+3	Anayasi		samucciwam,4
+4	ca	APY	
+
+SENT: svarNakAraH ABURaNAni racayiRyawi mahilAyE xAsyawi ca
+ANALYSIS:
+1	svarNakAraH	NS	karwA,6
+2	ABURaNAni		karma,3
+3	racayiRyawi		samucciwam,6
+4	mahilAyE		sampraxAnam,5
+5	xAsyawi	KP	samucciwam,6
+6	ca	APY	
+
+SENT: vqkRANAm aXaH SilAsu girINAm guhAsu vA we rAwrim pAram gacCanwi
+ANALYSIS:
+1	vqkRANAm	NP	upapaxasambanXaH,2
+2	aXaH	NP	anyawaraH,6
+3	SilAsu		anyawaraH,6
+4	girINAm	NP	RaRTIsambanXaH,5
+5	guhAsu		anyawaraH,6
+6	vA	AVK	aXikaraNam,10
+7	we	SN	karwA,10
+8	rAwrim	NP	karma,10
+9	pAram	SN	kriyAviSeRaNam,10
+10	gacCanwi	KP	
+
+SENT: muniH viSvAmiwraH xaSaraWam upAgacCaw sahAyawAyE ca wam anvanayaw
+ANALYSIS:
+1	muniH	NP	viSeRaNam,2
+2	viSvAmiwraH	NS	karwA,4
+3	xaSaraWam	NS	karma,4
+4	upAgacCaw		samucciwam,6
+5	sahAyawAyE		wAxarWyam,8
+6	ca	APY	
+7	wam	SN	karma,8
+8	anvanayaw		samucciwam,6
+
+SENT: bAlyakAle  eva rAmaH ca lakRmaNaH ca xaSaraWasya AjFayA muneH viSvAmiwrasya yajFam rAkRaseByaH rakRiwum muninA saha vanam AgacCawAm
+ANALYSIS:
+1	bAlyakAle	NP	aXikaraNam,17
+2	eva	INTF	sambanXaH,1
+3	rAmaH	NS	samucciwam,6
+4	ca	APY	sambanXaH,17
+5	lakRmaNaH	NS	samucciwam,6
+6	ca	APY	karwA,17
+7	xaSaraWasya		RaRTIsambanXaH,8
+8	AjFayA	NP	hewuH,17
+9	muneH	NP	viSeRaNam,10
+10	viSvAmiwrasya	NS	RaRTIsambanXaH,11
+11	yajFam	NP	karma,13
+12	rAkRaseByaH	NP	apAxAnam,13
+13	rakRiwum	KN	prayojanam,17
+14	muninA	NV	upapaxasambanXaH,15
+15	saha	AUP	sambanXaH,6
+16	vanam	NP	karma,17
+17	AgacCawAm		
+
+SENT: viSvAmiwrasya ASramAw rAmaH ca lakRmaNaH ca miWilAm AgacCawAm
+ANALYSIS:
+1	viSvAmiwrasya	NS	RaRTIsambanXaH,2
+2	ASramAw	NP	apAxAnam,8
+3	rAmaH	NS	samucciwam,6
+4	ca	APY	sambanXaH,8
+5	lakRmaNaH	NS	samucciwam,6
+6	ca	APY	karwA,8
+7	miWilAm		karma,8
+8	AgacCawAm		
+
+SENT: rAmaH Sivasya XanuRam aKaNdayaw sIwAm paryaNayaw ca
+ANALYSIS:
+1	rAmaH	NS	karwA,7
+2	Sivasya	NS	RaRTIsambanXaH,3
+3	XanuRam		karma,2
+4	aKaNdayaw		samucciwam,7
+5	sIwAm	NS	karma,6
+6	paryaNayaw		samucciwam,7
+7	ca	APY	
+
+SENT: sIwA lakRmaNaH ca rAmeNa saha vanam AgacCawAm
+ANALYSIS:
+1	sIwA	NS	samucciwam,3
+2	lakRmaNaH	NS	samucciwam,3
+3	ca	APY	karwA,7
+4	rAmeNa	NS	upapaxasambanXaH,5
+5	saha	AUP	sambanXaH,3
+6	vanam	NP	karma,7
+7	AgacCawAm		
+
+SENT: rAjyasya vyavasWAm prajApAlanam ca akarow
+ANALYSIS:
+1	rAjyasya	NP	RaRTIsambanXaH,2
+2	vyavasWAm	NP	samucciwam,4
+3	prajApAlanam		samucciwam,4
+4	ca	APY	karma,5
+5	akarow	KP	
+
+SENT: sIwayA lakRmaNena ca saha wawra avasaw
+ANALYSIS:
+1	sIwayA	NS	samucciwam,3
+2	lakRmaNena	NS	samucciwam,3
+3	ca	APY	upapaxasambanXaH,4
+4	saha	AUP	sambanXaH,6
+5	wawra	A	xeSAXikaraNam,6
+6	avasaw	KP	
+
+SENT: ekaxA yaxA rAmaH lakRmaNaH ca ASrame na AswAm waxA laMkAxeSasya nqpaH rAvaNaH rAmasya ASramAw sIwAm aharaw
+ANALYSIS:
+1	ekaxA	A	kAlAXikaraNam,8
+2	yaxA	A	
+3	rAmaH	NS	samucciwam,5
+4	lakRmaNaH	NS	samucciwam,5
+5	ca	APY	karwA,8
+6	ASrame	NP	aXikaraNam,8
+7	na	AN	sambanXaH,8
+8	AswAm	KP	prawiyogI,2
+9	waxA	A	kAlAXikaraNam,16
+10	laMkAxeSasya		RaRTIsambanXaH,12
+11	nqpaH	NP	viSeRaNam,12
+12	rAvaNaH	NP	karwA,16
+13	rAmasya	NS	RaRTIsambanXaH,14
+14	ASramAw	NP	apAxAnam,16
+15	sIwAm	NS	karma,16
+16	aharaw	KP	prawiyogI,2
+
+SENT: yuxXe rAmaH rAvaNam ajayaw wasya vaXam ca akarow
+ANALYSIS:
+1	yuxXe	NP	aXikaraNam,4
+2	rAmaH	NS	karwA,7
+3	rAvaNam	NP	karma,4
+4	ajayaw	KP	samucciwam,7
+5	wasya	SN	karma,6
+6	vaXam	NP	karma,8
+7	ca	APY	
+8	akarow	KP	samucciwam,7
+
+SENT: eweRu kawamaH puwraH rAjA Bavawu iwi ciram acinwayaw mahArAjaH
+ANALYSIS:
+1	eweRu	SNV	nirXAraNam,2
+2	kawamaH	SN	viSeRaNam,3
+3	puwraH	NP	karwA,5
+4	rAjA	NP	karwqsamAnAXikaraNam,5
+5	Bavawu	KP	karma,8
+6	iwi	AUD	sambanXaH,8
+7	ciram	KV	kriyAviSeRaNam,8
+8	acinwayaw	KP	
+9	mahArAjaH	NP	karwA,8
+
+SENT: rAjA prajAm aBiwaH pariwaH vA wiRTawu janAn sarvawaH rakRawu aXivasawu rAjyam
+ANALYSIS:
+1	rAjA	NP	karwA,10
+2	prajAm		upapaxasambanXaH,5
+3	aBiwaH	A	anyawaraH,5
+4	pariwaH	AUP	anyawaraH,5
+5	vA	AVK	aXikaraNam,6
+6	wiRTawu	KP	
+7	janAn	NP	karma,9
+8	sarvawaH	AUP	kriyAviSeRaNam,9
+9	rakRawu	KP	
+10	aXivasawu		
+11	rAjyam	NP	karma,10
+
+SENT: prajAraFjane lABaH nyAye patuH xAne vyagraH ewAxqSaH guNI puwraH rAjyAya alam syAw iwi niSciwya puwrAn paryEkRaw viRamaSIlaH
+ANALYSIS:
+1	prajAraFjane		viRayAXikaraNam,2
+2	lABaH	NP	viSeRaNam,9
+3	nyAye		viRayAXikaraNam,4
+4	patuH	KV	viSeRaNam,9
+5	xAne	NP	viRayAXikaraNam,6
+6	vyagraH	NP	viSeRaNam,9
+7	ewAxqSaH	SNV	viSeRaNam,9
+8	guNI		viSeRaNam,9
+9	puwraH	NP	karwA,12
+10	rAjyAya	NP	wAxarWyam,12
+11	alam	AN	kriyAviSeRaNam,12
+12	syAw	KP	karma,14
+13	iwi	AUD	sambanXaH,14
+14	niSciwya	KKS	pUrvakAlaH,16
+15	puwrAn	NP	karma,16
+16	paryEkRaw		
+17	viRamaSIlaH		karwA,16
+
+SENT: mArge saH ekam viSAlam vqkRam apaSyaw wasya aXaH vyaSrAmyaw ca
+ANALYSIS:
+1	mArge	NP	aXikaraNam,6
+2	saH	SSN	karwA,10
+3	ekam	SMKY	viSeRaNam,5
+4	viSAlam	NV	viSeRaNam,5
+5	vqkRam	NP	karma,6
+6	apaSyaw	KP	samucciwam,10
+7	wasya	SN	upapaxasambanXaH,8
+8	aXaH	NP	aXikaraNam,9
+9	vyaSrAmyaw		samucciwam,10
+10	ca	APY	
+
+SENT: we vqkRAw avArohan ekam ekam ca Siraskam Sirasi aXArayan
+ANALYSIS:
+1	we	SN	karwA,6
+2	vqkRAw	NP	apAxAnam,3
+3	avArohan		samucciwam,6
+4	ekam	SMKY	viSeRaNam,7
+5	ekam	SMKY	viSeRaNam,7
+6	ca	APY	
+7	Siraskam		karma,9
+8	Sirasi	NP	aXikaraNam,9
+9	aXArayan		samucciwam,6
+
+SENT: vAnarAH anukArakAH Bavanwi iwi saH aboXaw
+ANALYSIS:
+1	vAnarAH	NP	karwA,3
+2	anukArakAH		karwqsamAnAXikaraNam,1
+3	Bavanwi	KP	karma,6
+4	iwi	AUD	sambanXaH,6
+5	saH	SSN	karwA,6
+6	aboXaw	KP	
+
+SENT: saH wAni BAre nyakRipaw agacCaw ca
+ANALYSIS:
+1	saH	SSN	karwA,6
+2	wAni	SN	karma,4
+3	BAre		aXikaraNam,4
+4	nyakRipaw	KP	samucciwam,6
+5	agacCaw	KP	samucciwam,6
+6	ca	APY	
+
+SENT: sarAH naxyaH hqxAH ca jalaplAviwAH Bavanwi
+ANALYSIS:
+1	sarAH		samucciwam,4
+2	naxyaH	NP	samucciwam,4
+3	hqxAH		samucciwam,4
+4	ca	APY	karwA,6
+5	jalaplAviwAH		karwqsamAnAXikaraNam,4
+6	Bavanwi	KP	
+
+SENT: mayUrAH AkASe meGAn paSyanwi Ananxena nqwyanwi ca
+ANALYSIS:
+1	mayUrAH	NP	karwA,7
+2	AkASe	NP	aXikaraNam,4
+3	meGAn		karma,4
+4	paSyanwi	KP	samucciwam,7
+5	Ananxena	NP	kriyAviSeRaNam,6
+6	nqwyanwi	KP	samucciwam,7
+7	ca	APY	
+
+SENT: kqRakAH svakRewrANi karRanwi bIjAni vapanwi ca
+ANALYSIS:
+1	kqRakAH	NP	karwA,6
+2	svakRewrANi		karma,3
+3	karRanwi		samucciwam,6
+4	bIjAni	NP	karma,5
+5	vapanwi		samucciwam,6
+6	ca	APY	
+
+SENT: maXurANi pakvAni AmraPalAni jambUPalAni ca BUmO pawanwi janAH wAni KAxanwi ca
+ANALYSIS:
+1	maXurANi	NP	viSeRaNam,5
+2	pakvAni	NP	viSeRaNam,5
+3	AmraPalAni		samucciwam,5
+4	jambUPalAni		samucciwam,5
+5	ca	APY	karwA,7
+6	BUmO	NP	aXikaraNam,7
+7	pawanwi	KP	samucciwam,11
+8	janAH	NP	karwA,10
+9	wAni	SN	karma,10
+10	KAxanwi	KP	samucciwam,11
+11	ca	APY	
+
+SENT: alpAw kAlAw paScAw saH nqpaH avaxaw he rAja-puruRa asinA SiSum xvayoH KaNdayoH kqwvA ekam ekam KaNdam nArIByAm yacCa (yaw)
+ANALYSIS:
+1	alpAw		viSeRaNam,2
+2	kAlAw	NP	upapaxasambanXaH,3
+3	paScAw	A	kAlAXikaraNam,6
+4	saH	SSN	viSeRaNam,5
+5	nqpaH	NP	karwA,6
+6	avaxaw	KP	
+7	he	ASMB	samboXanasUcakam,18
+8	rAja-puruRa		samboXyaH,18
+9	asinA	NP	karaNam,13
+10	SiSum	NP	karma,13
+11	xvayoH	SMK	?
+12	KaNdayoH		?
+13	kqwvA	KKS	pUrvakAlaH,18
+14	ekam	SMKY	viSeRaNam,16
+15	ekam	SMKY	viSeRaNam,16
+16	KaNdam	NP	karma,18
+17	nArIByAm		sampraxAnam,18
+18	yacCa		karma,6
+19	(yaw)	yaw	sambanXaH,6
+
+SENT: BArawavarRam AryANAm BUmiH samskqwisaByawAkalAnAm BUmiH iwi prasixXam eva
+ANALYSIS:
+1	BArawavarRam	NS	karwA,7
+2	AryANAm		RaRTIsambanXaH,3
+3	BUmiH	NP	karwqsamAnAXikaraNam,6
+4	saMskqwisaByawAkalAnAm		RaRTIsambanXaH,5
+5	BUmiH	NP	karwqsamAnAXikaraNam,6
+6	iwi	AUD	viSeRaNam,1
+7	prasixXam	KN	
+8	eva	INTF	sambanXaH,7
+
+SENT: paraM siMhaH ekam api vqRaBam mArayiwum samarWaH na AsIw
+ANALYSIS:
+1	paraM	AVK	
+2	siMhaH	NP	karwA,9
+3	ekam	SMKY	viSeRaNam,5
+4	api	AVK	sambanXaH,3
+5	vqRaBam	NP	karma,6
+6	mArayiwum	KKS	??,7
+7	samarWaH	NP	karwqsamAnAXikaraNam,2
+8	na	AN	sambanXaH,9
+9	AsIw	KP	samucciwam,1
+
+SENT: awaH saH wO praharwum asamarWaH AsIw
+ANALYSIS:
+1	awaH	AVK	hewuH,6
+2	saH	SSN	karwA,
+3	wO	SN	karma,4
+4	praharwum	KKS	??,5
+5	asamarWaH	NP	karwqsamAnAXikaraNam,2
+6	AsIw	KP	
+
+SENT: evam siMhaH wO waWA prowsAhayaw yaWA wO parasparam sawyam eva yoxXum AraBewAm
+ANALYSIS:
+1	evam	AUD	kriyAviSeRaNam,
+2	siMhaH	NP	karwA,
+3	wO	SN	karma,
+4	waWA	AVK	kriyAviSeRaNam,
+5	prowsAhayaw		prawiyogI,4
+6	yaWA	AVK	
+7	wO	SN	karwA,12
+8	parasparam	NP	kriyAviSeRaNam,11
+9	sawyam	NP	kriyAviSeRaNam,12
+10	eva	INTF	sambanXaH,9
+11	yoxXum	KN	prayojanam,12
+12	AraBewAm		prawiyogI,4
+
+SENT: saxA eva na xUre xUraH awiRTawAm
+ANALYSIS:
+1	saxA	A	
+2	eva	INTF	
+3	na	AN	
+4	xUre	NP	
+5	xUraH		
+6	awiRTawAm	KP	
+
+SENT: saH bAlyAw eva prawiBAvAn XarmajijFAsuH ESvaryasampannaH AsIw
+ANALYSIS:
+1	saH	SSN	karwA,7
+2	bAlyAw	NP	??,7
+3	eva	INTF	sambanXaH,2
+4	prawiBAvAn	KN	karwqsamAnAXikaraNam,1
+5	XarmajijFAsuH		karwqsamAnAXikaraNam,1
+6	ESvaryasampannaH		karwqsamAnAXikaraNam,1
+7	AsIw	KP	
+
+SENT: svAmI vivekAnanxaH 1893 ISabxe varRe SikAgo nAma nagare viSvaXarmapariRaxi BArawIyAm saMskqwim uxGoRayaw
+ANALYSIS:
+1	svAmI	NP	viSeRaNam,2
+2	vivekAnanxaH		karwA,
+3	1893		viSeRaNam,5
+4	ISabxe		?
+5	varRe	NP	kAlAXikaraNam,11
+6	SikAgo		viSeRaNam,7
+7	nAma viSeRaNam,8		
+8	nagare	NP	aXikaraNam,12
+9	viSvaXarmapariRaxi		aXikaraNam,12
+10	BArawIyAm	NP	viSeRaNam,11
+11	saMskqwim	NP	karma,12
+12	uxGoRayaw		
+
+SENT: BArawarARtriyA janawA yAxqSIm viSvabanXuwAm vAFCawi wAm viSvabanXuwAm prAcArayaw asmAkam rARtraxevawA
+ANALYSIS:
+1	BArawarARtriyA		viSeRaNam,2
+2	janawA	NP	karwA,5
+3	yAxqSIm		
+4	viSvabanXuwAm		karma,5
+5	vAFCawi	KP	prawiyogI,3
+6	wAm	SN	viSeRaNam,7
+7	viSvabanXuwAm		karma,8
+8	prAcArayaw		prawiyogI,3
+9	asmAkam	SN	RaRTIsambanXaH,10
+10	rARtraxevawA		karwA,8
+
+SENT: paNdiwAnAm samAje apaNdiwAH mOnam BajeyuH
+ANALYSIS:
+1	paNdiwAnAm	NP	RaRTIsambanXaH,2
+2	samAje	NP	aXikaraNam,5
+3	apaNdiwAH		karwA,5
+4	mOnam	NP	karma,5
+5	BajeyuH		
+
+SENT: wawaH we sarve guFjAPalam pariwaH upaviSanwi
+ANALYSIS:
+1	wawaH	A	?
+2	we	SN	viSeRaNam,3
+3	sarve	SN	karwA,6
+4	guFjAPalam		upapaxasambanXaH,5
+5	pariwaH	AUP	aXikaraNam,6
+6	upaviSanwi	KP	ananwarakAlaH,1
+
+SENT: kinwu we agnim na vinxanwi
+ANALYSIS:
+1	kinwu	AVK	
+2	we	SN	karwA,5
+3	agnim	NP	karma,5
+4	na	AN	sambanXaH,5
+5	vinxanwi		
+
+SENT: kvacix prakASam kvacix anXakAram Bavawi
+ANALYSIS:
+1	kvacix	SN	aXikaraNam,5
+2	prakASam	NP	karwA,5
+3	kvacix	SN	aXikaraNam,5
+4	anXakAram	NP	karwA,5
+5	Bavawi	KP	
+

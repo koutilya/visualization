@@ -1,0 +1,223 @@
+SENT: xaSaraWasya puwraH nAmnA rAmaH
+ANALYSIS:
+1	xaSaraWasya		RaRTIsambanXaH,2
+2	puwraH	NP	viSeRaNam,4
+3	nAmnA	NP	
+4	rAmaH	NS	
+
+SENT: kRewragAminA varwmanA gacCanwaM yAwrikaM apaSyaw
+ANALYSIS:
+1	kRewragAminA		viSeRaNam,2
+2	varwmanA		karaNam,3
+3	gacCanwaM	AB	samAnakAlaH,5
+4	yAwrikaM		karma,5
+5	apaSyaw	KP	
+
+SENT: janasya kalyANAya yawamAnena rAmeNa AwmA kleSaM upAnIyawa
+ANALYSIS:
+1	janasya	NP	RaRTIsambanXaH,2
+2	kalyANAya	NP	wAxarWyam,3
+3	yawamAnena	NP	viSeRaNam,4
+4	rAmeNa	NS	karwA,7
+5	AwmA	NP	karma,7
+6	kleSaM		muKyakarma,7
+7	upAnIyawa		
+
+SENT: SrIReNasya rAjFaH mahiRI sUryaM canxraM ca AwmanaH uwsafgavarwinO svapne apaSyaw
+ANALYSIS:
+1	SrIReNasya		RaRTIsambanXaH,2
+2	rAjFaH	NP	RaRTIsambanXaH,3
+3	mahiRI	NP	karwA,10
+4	sUryaM		samucciwam,6
+5	canxraM	NS	samucciwam,6
+6	ca	APY	karma,10
+7	AwmanaH	SN	RaRTIsambanXaH,8
+8	uwsafgavarwinO		karmasamAnAXikaraNam,6
+9	svapne	NP	aXikaraNam,10
+10	apaSyaw	KP	
+
+SENT: jagawA kutumbinaM manyawe AwmAnaM sAXuH
+ANALYSIS:
+1	jagawA		karwA,3
+2	kutumbinaM		karma,3
+3	manyawe	KP	
+4	AwmAnaM	NP	viSeRaNam,2
+5	sAXuH	NV	kriyAviSeRaNam,3
+
+SENT: huwaBujA xagXaM araNyaM apaSyan nalaH
+ANALYSIS:
+1	huwaBujA		karwA,2
+2	xagXaM		viSeRaNam,3
+3	araNyaM	NP	karma,4
+4	apaSyan	KP	
+5	nalaH	NS	karwA,4
+
+SENT: hemnaH saMlakRyawe hi agnO viSuxXiH SyAmikA api vA
+ANALYSIS:
+1	hemnaH		RaRTIsambanXaH,5
+2	saMlakRyawe		
+3	hi	A	sambanXaH,4
+4	agnO	NP	aXikaraNam,2
+5	viSuxXiH	NP	anyawaraH,8
+6	SyAmikA		anyawaraH,8
+7	api	AVK	sambanXaH,6
+8	vA	AVK	karwA,2
+
+SENT: saMxehe sawAM anwaHkaraNasya pravqwwayaH pramANam
+ANALYSIS:
+1	saMxehe		sambanXaH,4
+2	sawAM		RaRTIsambanXaH,3
+3	anwaHkaraNasya	NP	RaRTIsambanXaH,4
+4	pravqwwayaH	NP	
+5	pramANam	NP	karwqsamAnAXikaraNam,4
+
+SENT: piwarO prasIxawam
+ANALYSIS:
+1	piwarO	NP	karma,2
+2	prasIxawam		
+
+SENT: piwarO prasIxawam
+ANALYSIS:
+1	piwarO	NP	samboXyaH,2
+2	prasIxawam		
+
+SENT: ciwwaM svAsWyaM laBawAm
+ANALYSIS:
+1	ciwwaM		karma,3
+2	svAsWyaM		karma,3
+3	laBawAm	KP	
+
+SENT: bAhvoH balena pqWvIM ajayaw
+ANALYSIS:
+1	bAhvoH	NP	RaRTIsambanXaH,2
+2	balena	NP	karaNam,4
+3	pqWvIM		muKyakarma,4
+4	ajayaw	KP	
+
+SENT: guruByaH SiRyasya na vinayaM kaWayAmi
+ANALYSIS:
+1	guruByaH	NP	wAxarWyam,5
+2	SiRyasya	NP	RaRTIsambanXaH,4
+3	na	AN	sambanXaH,5
+4	vinayaM		karma,5
+5	kaWayAmi	KP	
+
+SENT: nAryAH kabaryAH puRpe asraMsewAm
+ANALYSIS:
+1	nAryAH	NP	RaRTIsambanXaH,2
+2	kabaryAH		apAxAnam,4
+3	puRpe		karwA,4
+4	asraMsewAm		
+
+SENT: raWyAyAM janAnAM samUhaM EkRAmahi
+ANALYSIS:
+1	raWyAyAM		aXikaraNam,4
+2	janAnAM	NP	RaRTIsambanXaH,3
+3	samUhaM		karma,4
+4	EkRAmahi		
+
+SENT: miwrANAM aByuxaye narAH moxanwe
+ANALYSIS:
+1	miwrANAM		RaRTIsambanXaH,2
+2	aByuxaye	KP	sambanXaH,4
+3	narAH	NP	karwA,4
+4	moxanwe	KP	
+
+SENT: pApAH na vacanIyaM IkRanwe
+ANALYSIS:
+1	pApAH	NV	karwA,4
+2	na	AN	sambanXaH,4
+3	vacanIyaM		karma,4
+4	IkRanwe		
+
+SENT: sawyaM hiwakaraM ca vAkyaM BARanwe prajFAH
+ANALYSIS:
+1	sawyaM	NP	samucciwam,3
+2	hiwakaraM		samucciwam,3
+3	ca	APY	viSeRaNam,4
+4	vAkyaM	NP	karma,5
+5	BARanwe	KP	
+6	prajFAH		karwA,5
+
+SENT: gAyakAw saMgIwaM SikRAvahe
+ANALYSIS:
+1	gAyakAw		apAxAnam,3
+2	saMgIwaM		karma,3
+3	SikRAvahe		
+
+SENT: saKyoH paramaH snehaH SakunwalAyAH
+ANALYSIS:
+1	saKyoH		aXikaraNam,3
+2	paramaH	NV	viSeRaNam,3
+3	snehaH	NP	karwA,5
+4	SakunwalAyAH	NS	RaRTIsambanXaH,3
+5	(AsIw)	AsIw	
+
+SENT: gafgAyAH purI kroSO
+ANALYSIS:
+1	gafgAyAH	NS	??,2
+2	purI	NP	
+3	kroSO		??,2
+
+SENT: vApI nagarAw kroSO
+ANALYSIS:
+1	vApI		
+2	nagarAw	NP	??,1
+3	kroSO		??,1
+
+SENT: pAxena KaFjaH
+ANALYSIS:
+1	pAxena	NP	??,2
+2	KaFjaH	NV	
+
+SENT: wileByaH prawiyacCawi mARAn
+ANALYSIS:
+1	wileByaH		sampraxAnam,2
+2	prawiyacCawi		
+3	mARAn	NP	karma,2
+
+SENT: nagaraM vanAw yojanam aswi
+ANALYSIS:
+1	nagaraM	NP	karwA,4
+2	vanAw	NP	??,4
+3	yojanam	NP	karwqsamAnAXikaraNam,4
+4	aswi	KP	
+
+SENT: xvArakAM aXyURuRaH janasya saMpaxaH manasaH api aBUmiH aBavan
+ANALYSIS:
+1	xvArakAM	NS	aXikaraNam,2
+2	aXyURuRaH		viSeRaNam,3
+3	janasya	NP	RaRTIsambanXaH,4
+4	saMpaxaH	NP	karwA,8
+5	manasaH	NP	apAxAnam,8
+6	api	AVK	sambanXaH,5
+7	aBUmiH		karma,8
+8	aBavan	KP	
+
+SENT: guNAH pUjA-sWAnaM guNiRu na ca lifgaM na ca vayaH
+ANALYSIS:
+1	guNAH	NP	??,2
+2	pUjA-sWAnaM		
+3	guNiRu		??
+4	na	AN	sambanXaH,6
+5	ca	APY	sambanXaH,6
+6	lifgaM		??,2
+7	na	AN	sambanXaH,9
+8	ca	APY	sambanXaH,9
+9	vayaH	NP	??,2
+
+SENT: kEkeyyAH xAruNaM vacaH SruwvA mahArAjaH xaSaraWaH sahasA BUmO apawaw niSceRtaH ca aBavaw
+ANALYSIS:
+1	kEkeyyAH	NS	RaRTIsambanXaH,2
+2	xAruNaM	AB	viSeRaNam,3
+3	vacaH	KP	karma,4
+4	SruwvA	KKS	pUrvakAlaH,12
+5	mahArAjaH	NP	viSeRaNam,6
+6	xaSaraWaH	NS	karwA,12
+7	sahasA	KV	kriyAviSeRaNam,9
+8	BUmO	NP	aXikaraNam,9
+9	apawaw	KP	vAkyasamucciwam,11
+10	niSceRtaH	NV	karwqsamAnAXikaraNam,12
+11	ca	APY	
+12	aBavaw	KP	vAkyasamucciwam,11
+
