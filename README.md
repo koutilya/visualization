@@ -19,8 +19,9 @@
 - for wronginputs.txt lines we get  input line and line info into files in seperate folder for line
 
 
-
-
+## check_sandhi.ipynb
+- try to check possible merge of words as per in  all_sandhi.txt in dataframe.txt of all files and give new datafra_withsandhi
+- here we use transcoder for word to change from roman to spl1
 
 
 
