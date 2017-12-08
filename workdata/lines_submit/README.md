@@ -1,3 +1,4 @@
+# in zip files  of wrong_lines ,correct_lines,wronginputs
 ## /output/
 - data get from scrapper for each line
 
