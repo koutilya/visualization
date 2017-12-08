@@ -15,14 +15,16 @@
 
 
 ## sortoutputdatafiles.ipynb
-- for file F in workdata/lines_submit/wrong_lines/output/ , workdata/lines_submit/correct_lines/output/ we try to get line info ,pdf,inputline,problem words in seperate files with folder name F to workdata/lines_submit/wrong_lines/sorteddata/ , workdata/lines_submit/correct_lines/sorteddata/
+- for file "i.txt" in workdata/lines_submit/wrong_lines/output/ , workdata/lines_submit/correct_lines/output/ we try to get line info ,pdf,inputline,problem words in seperate files with folder name "i" to workdata/lines_submit/wrong_lines/sorteddata/ , workdata/lines_submit/correct_lines/sorteddata/
 - for wronginputs.txt lines we get  input line and line info into files in seperate folder for line
 
 
 ## check_sandhi.ipynb
 - try to check possible merge of words as per in  all_sandhi.txt in dataframe.txt of all files and give new datafra_withsandhi
 - here we use transcoder for word to change from roman to spl1
-
+- here we calculate conflicts also and store map to conflicts.csv
+- input files from folders(unique integer number)from dir workdata/lines_submit/wrong_lines/sorteddata/ , workdata/lines_submit/correct_lines/sorteddata/
+- output to same folders 
 
 
 # daily work
