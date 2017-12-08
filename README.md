@@ -74,6 +74,9 @@
  ##07/12/17
  -trying to transcode and check sandhi *
  
+ ##08/12/17
+ -got sandhi and stored possible values.
+ 
  
  
    
