@@ -234,7 +234,7 @@ lineno : 920
 line : maXurANi pakvAni AmraPalAni jambUPalAni ca BUmO pawanwi janAH wAni KAxanwi ca
 filename : 9std_sents_GOLD_complex.txt
 lineno : 934
-line : alpAw kAlAw paScAw saH nqpaH avaxaw he rAja-puruRa asinA SiSum xvayoH KaNdayoH kqwvA ekam ekam KaNdam nArIByAm yacCa yaw 
+line : alpAw kAlAw paScAw saH nqpaH avaxaw he rAjapuruRa asinA SiSum xvayoH KaNdayoH kqwvA ekam ekam KaNdam nArIByAm yacCa yaw 
 filename : 9std_sents_GOLD_complex.txt
 lineno : 956
 line : BArawavarRam AryANAm BUmiH samskqwisaByawAkalAnAm BUmiH iwi prasixXam eva
@@ -255,7 +255,7 @@ lineno : 1012
 line : saH bAlyAw eva prawiBAvAn XarmajijFAsuH ESvaryasampannaH AsIw
 filename : 9std_sents_GOLD_complex.txt
 lineno : 1022
-line : svAmI vivekAnanxaH 1893 ISabxe varRe SikAgo nAma nagare viSvaXarmapariRaxi BArawIyAm saMskqwim uxGoRayaw
+line : svAmI vivekAnanxaH ISabxe varRe SikAgo nAma nagare viSvaXarmapariRaxi BArawIyAm saMskqwim uxGoRayaw
 filename : 9std_sents_GOLD_complex.txt
 lineno : 1037
 line : BArawarARtriyA janawA yAxqSIm viSvabanXuwAm vAFCawi wAm viSvabanXuwAm prAcArayaw asmAkam rARtraxevawA
@@ -417,7 +417,7 @@ lineno : 356
 line : BArawavarRasya kIrwiH avarNanIyA aswi
 filename : 9std_sents_GOLD_simple.txt
 lineno : 363
-line : BArawa-xeSasya purAwanam aBiXAnam AryAvarwam AsIw
+line : BArawaxeSasya purAwanam aBiXAnam AryAvarwam AsIw
 filename : 9std_sents_GOLD_simple.txt
 lineno : 371
 line : kasmiFciw vane xvO vqRaBO AswAm
@@ -690,7 +690,7 @@ lineno : 1170
 line : saH api kanxukena krIdiRyawi
 filename : 9std_sents_GOLD_simple.txt
 lineno : 1177
-line : CAwrAH SyAma-pate praSnAn leKiRyanwi
+line : CAwrAH SyAmapate praSnAn leKiRyanwi
 filename : 9std_sents_GOLD_simple.txt
 lineno : 1184
 line : yUyam puswakAni paTiRyaWa
@@ -798,10 +798,10 @@ lineno : 1478
 line : aham vixyAlayam gamiRyAmi
 filename : 9std_sents_GOLD_simple.txt
 lineno : 1484
-line : wawra aham vixyA-aXyayanam kariRyAmi
+line : wawra aham vixyAaXyayanam kariRyAmi
 filename : 9std_sents_GOLD_simple.txt
 lineno : 1491
-line : aham vixyAlayam gawvA vixyA-aXyayanam kariRyAmi
+line : aham vixyAlayam gawvA vixyAaXyayanam kariRyAmi
 filename : 9std_sents_GOLD_simple.txt
 lineno : 1499
 line : bAlikAH uxyAne akrIdan
@@ -1158,7 +1158,7 @@ lineno : 379
 line : manxOwsukyaH asmi aham nagaragamanaM prawi
 filename : apte_higher_skt_sents_GOLD_DATA.txt
 lineno : 387
-line : eRA me manoraWapriyawamA sakusuma-AswaraNaM SilApattam aXiSayAnA saKIByAm anvAsyawe
+line : eRA me manoraWapriyawamA sakusumaAswaraNaM SilApattam aXiSayAnA saKIByAm anvAsyawe
 filename : apte_higher_skt_sents_GOLD_DATA.txt
 lineno : 398
 line : kaH ixAnIm sahakAram anwareNa awimukwalawAM pallaviwAM sahawe
@@ -1197,7 +1197,7 @@ lineno : 518
 line : kaWaya kaWam iyanwaM kAlam avasWiwA mayA vinA BavawI iwi 
 filename : apte_higher_skt_sents_GOLD_DATA.txt
 lineno : 530
-line : BAva preRiwAH we hi svagqhAn mahArAjena lafkAsamarasuhqxaH mahAwmAnaH plavafgarakRasAH saBAjana-upasWAyinaH ca preRiwAH nAnAxiganwapAvanAH brahmarRayaH rAjarRayaH ca yaw-ArAXanayA iyawaH xivasAn uwsavaH AsIw
+line : BAva preRiwAH we hi svagqhAn mahArAjena lafkAsamarasuhqxaH mahAwmAnaH plavafgarakRasAH saBAjanaupasWAyinaH ca preRiwAH nAnAxiganwapAvanAH brahmarRayaH rAjarRayaH ca yawArAXanayA iyawaH xivasAn uwsavaH AsIw
 filename : apte_higher_skt_sents_GOLD_DATA.txt
 lineno : 554
 line : Xik viXAwAram aniRtasaMyogakAriNam
@@ -1206,7 +1206,7 @@ lineno : 560
 line : Arya xevaH canxragupwaH AryaM SirasA praNamya vijFApayawi kriyAnwarAnwarAyam anwareNa AryaM xraRtum icCAmi iwi
 filename : apte_higher_skt_sents_GOLD_DATA.txt
 lineno : 576
-line : AjFApwA_asmi aham xevyA XAriNyA acirapravqwwopaxeSaM caliwaM nAma nAtyam anwareNa kIxqSI mAlavikA aswi iwi nAtyAcAryam AryagaNaxAsaM praRtum
+line : AjFApwAasmi aham xevyA XAriNyA acirapravqwwopaxeSaM caliwaM nAma nAtyam anwareNa kIxqSI mAlavikA aswi iwi nAtyAcAryam AryagaNaxAsaM praRtum
 filename : apte_higher_skt_sents_GOLD_DATA.txt
 lineno : 595
 line : hyaH wawraBavawAm irAvawI xevI suKaM praRtum AgawA
@@ -1224,7 +1224,7 @@ lineno : 669
 line : iwi aBiXAya wena mAM saraswIram anAyayaw
 filename : apte_higher_skt_sents_GOLD_DATA.txt
 lineno : 678
-line : na XArayiwuM_Saknowi SiroXarAM
+line : na XArayiwuMSaknowi SiroXarAM
 filename : apte_higher_skt_sents_GOLD_DATA.txt
 lineno : 684
 line : mahenxraBavanaM gacCawA upAXyAyena wvaM AsanaM prawigrAhiwaH
@@ -1260,10 +1260,10 @@ lineno : 803
 line : canxrapIdasya wu sakalakalAkalApaparicayabahumAnena SukanAsagOraveNa saha pAMsukrIdanawayA saha saMvqxXawayA ca sarvaviSramBasWAnaM xviwIyam iva hqxayaM vESampAyanaH paraM miwram ca AsIw
 filename : apte_higher_skt_sents_GOLD_DATA.txt
 lineno : 824
-line : wasyAH ca xvAri SilAwale samupaviRtaH saH valkalaSayanaSiroBAgavinyaswavINAm wawaH parNaputena nirJarAw AgqhIwam arGasalilam AxAya wAm kanyakAm samupasWiwAm alam awiyaMwraNayA kqwam alam awiprasAxena Bagavawi prasIxa vimucyawAm ayam awyAxaraH wvaxIyam Alokam api sarvapApa-praSamanam aGamarRaNam iva paviwrIkaraNAya alam AsyawAm iwi abravIw
+line : wasyAH ca xvAri SilAwale samupaviRtaH saH valkalaSayanaSiroBAgavinyaswavINAm wawaH parNaputena nirJarAw AgqhIwam arGasalilam AxAya wAm kanyakAm samupasWiwAm alam awiyaMwraNayA kqwam alam awiprasAxena Bagavawi prasIxa vimucyawAm ayam awyAxaraH wvaxIyam Alokam api sarvapApapraSamanam aGamarRaNam iva paviwrIkaraNAya alam AsyawAm iwi abravIw
 filename : apte_higher_skt_sents_GOLD_DATA.txt
 lineno : 863
-line : uRasi ca uwWAya wasya jaraw-xravidaXArmikasya icCayA nisqRtEH XanavisarEH pUrayiwvA manoraWam aBimawam aBiramaNIyeRu praxeSeRu nivasan alpEH iva uwprekRA ahoBiH ujjayinIm AjagAma
+line : uRasi ca uwWAya wasya jarawxravidaXArmikasya icCayA nisqRtEH XanavisarEH pUrayiwvA manoraWam aBimawam aBiramaNIyeRu praxeSeRu nivasan alpEH iva uwprekRA ahoBiH ujjayinIm AjagAma
 filename : apte_higher_skt_sents_GOLD_DATA.txt
 lineno : 885
 line : kim awra Aryasya kAryam 
@@ -1272,7 +1272,7 @@ lineno : 892
 line : Arya xEvena ixam anuRTiwam
 filename : apte_higher_skt_sents_GOLD_DATA.txt
 lineno : 899
-line : sva-hqxayena api vixiwavqwwAnwena amunA jihremi kimuwa warhi_kiM_vakwavyam apara-hqxayena vixiwavqwwAnwena 
+line : svahqxayena api vixiwavqwwAnwena amunA jihremi kimuwa warhikiMvakwavyam aparahqxayena vixiwavqwwAnwena 
 filename : apte_higher_skt_sents_GOLD_DATA.txt
 lineno : 910
 line : pravAwaSayane niRaNNA xevI rakwacanxanaXAriNA parijanahaswagqhIwena caraNena yukwA BagavawyA kaWABiH vinoxyamAnA wiRTawi
@@ -1290,7 +1290,7 @@ lineno : 943
 line : aXunA anyA gawiH na aswi
 filename : apte_higher_skt_sents_GOLD_DATA.txt
 lineno : 951
-line : sarvajFasya api ekAkinaH nirNayAByupagamaH xoRAya kalpawe/sampaxyawe/Bavawi 
+line : sarvajFasya api ekAkinaH nirNayAByupagamaH xoRAya kalpawesampaxyaweBavawi 
 filename : apte_higher_skt_sents_GOLD_DATA.txt
 lineno : 960
 line : na ewaw nyAyyam aswi 
@@ -1374,7 +1374,7 @@ lineno : 1235
 line : vqRala vqRala alam uwwarowwareNa
 filename : apte_higher_skt_sents_GOLD_DATA.txt
 lineno : 1242
-line : janmakarmawaH malinawarajanam janmawaH niswriMSawaralokahqxayam lokahqxeByaH nirGqNawarasarvasaMvyavahArasamaswapuruRam aviSeRa-AcAra-bAlayuvasWaviram avyavasWiwa-gamya-agamya-afganA-upaBogam apuNyakarma-ekApaNam pakkaNam apaSyam
+line : janmakarmawaH malinawarajanam janmawaH niswriMSawaralokahqxayam lokahqxeByaH nirGqNawarasarvasaMvyavahArasamaswapuruRam aviSeRaAcArabAlayuvasWaviram avyavasWiwagamyaagamyaafganAupaBogam apuNyakarmaekApaNam pakkaNam apaSyam
 filename : apte_higher_skt_sents_GOLD_DATA.txt
 lineno : 1256
 line : wAwa sarvA eva Awmasampaw aBijanAw praBqwi awraBavawi anyUnA eva lakRyawe
@@ -1389,7 +1389,7 @@ lineno : 1298
 line : BAva wAvawpraWiwayaSasAm BAsasOmilakakavipuwrAxInAm prabanXAn awikramya varwamAnakaveH kAlixAsasya kriyAyAm kaWam pariRaxaH bahumAnaH aswi 
 filename : apte_higher_skt_sents_GOLD_DATA.txt
 lineno : 1313
-line : yaH pOraveNa rAjFA XarmAXikAre niyukwaH saH ahaM aviGnakriyA-upalamBAya XarmAraNyam ixam AyAwaH
+line : yaH pOraveNa rAjFA XarmAXikAre niyukwaH saH ahaM aviGnakriyAupalamBAya XarmAraNyam ixam AyAwaH
 filename : apte_higher_skt_sents_GOLD_DATA.txt
 lineno : 1327
 line : na sA iwaH gawam anurAgam SiWilayawi
@@ -1398,25 +1398,25 @@ lineno : 1336
 line : xqDaM Kalu wvayi baxXaBAvA UrvaSI aswi 
 filename : apte_higher_skt_sents_GOLD_DATA.txt
 lineno : 1345
-line : saH ca snihyawi AvayoH uwkaNTawe ca yuRmaw-saMnikarRasya nikarRasya 
+line : saH ca snihyawi AvayoH uwkaNTawe ca yuRmawsaMnikarRasya nikarRasya 
 filename : apte_higher_skt_sents_GOLD_DATA.txt
 lineno : 1355
 line : awra eRaH xevaH raGupawiH wiRTawi
 filename : apte_higher_skt_sents_GOLD_DATA.txt
 lineno : 1362
-line : xurjanawvam ca BavawaH vAkyAw eva jFAwam yaw anayoH BUpAlayoH vigrahe Bavaw-vacanam eva nixAnam aswi 
+line : xurjanawvam ca BavawaH vAkyAw eva jFAwam yaw anayoH BUpAlayoH vigrahe Bavawvacanam eva nixAnam aswi 
 filename : apte_higher_skt_sents_GOLD_DATA.txt
 lineno : 1379
 line : saH Kalu XqRtaxyumnena xroNaH keSeRu AkqRya asipawreNa vyApAxyawe
 filename : apte_higher_skt_sents_GOLD_DATA.txt
 lineno : 1390
-line : na jAne kena api kAraNena apahaswiwa-sakala-saKIjanam wvayi viSvasiwi me hqxayam
+line : na jAne kena api kAraNena apahaswiwasakalasaKIjanam wvayi viSvasiwi me hqxayam
 filename : apte_higher_skt_sents_GOLD_DATA.txt
 lineno : 1403
 line : wasyAH paNdiwakOSikyA sahiwayAH samakRam eva nyAyyaH vyavahAraH aswi 
 filename : apte_higher_skt_sents_GOLD_DATA.txt
 lineno : 1414
-line : yaw sawyam prawyaham SvApaxa-samuwsAraNEH saMkRoBiwasaMXibanXAnAm mama gAwrANAm anISaH asmi saMvqwwaH
+line : yaw sawyam prawyaham SvApaxasamuwsAraNEH saMkRoBiwasaMXibanXAnAm mama gAwrANAm anISaH asmi saMvqwwaH
 filename : apte_higher_skt_sents_GOLD_DATA.txt
 lineno : 1427
 line :  warhi wasmE kopiRyAmi yaxi waM prekRamANA aham AwmanaH praBaviRyAmi
@@ -1428,10 +1428,10 @@ lineno : 1448
 line : ayi vawse BAgIraWIprasAxAw xevawAnAm api axqSyA saMvqwwA asi
 filename : apte_higher_skt_sents_GOLD_DATA.txt
 lineno : 1459
-line : hA xevi smarasi vA wasya wawsamaya-viSramBa-awiSaya-prasaMgasya
+line : hA xevi smarasi vA wasya wawsamayaviSramBaawiSayaprasaMgasya
 filename : apte_higher_skt_sents_GOLD_DATA.txt
 lineno : 1468
-line : iwi aBiXAya kim iyam vakRyawi iwi cinwayan maw-muKAsakwaxqRtiH kapiFjalaH wURNIm_AsIw
+line : iwi aBiXAya kim iyam vakRyawi iwi cinwayan mawmuKAsakwaxqRtiH kapiFjalaH wURNImAsIw
 filename : apte_higher_skt_sents_GOLD_DATA.txt
 lineno : 1481
 line : waw evam avasWiwe yaw awra avasaraprApwam IxqSasya ca anurAgasya asmaxAgamanasya ca anurUpam AwmanaH vA samuciwam wawra praBavawi BavawI ca aswi 
@@ -1443,7 +1443,7 @@ lineno : 1517
 line : hA xayiwa mAXava paralokagawaH api smarwwavyaH yuRmABiH ayam janaH
 filename : apte_higher_skt_sents_GOLD_DATA.txt
 lineno : 1529
-line : niyawam iha sarvAwmanA kqwAvasWiwinA BagavawA pariBUwa-kalikAla-vilasiwena XarmeNa na smaryawe kqwayugasya
+line : niyawam iha sarvAwmanA kqwAvasWiwinA BagavawA pariBUwakalikAlavilasiwena XarmeNa na smaryawe kqwayugasya
 filename : apte_higher_skt_sents_GOLD_DATA.txt
 lineno : 1542
 line : pawwane vixyamAne api grAme rawnaparIkRA Bavawi 
@@ -1530,10 +1530,10 @@ lineno : 1834
 line : ayam asO mama jyAyAn AryaH kOSaH nAma aswi BarawASramAw prawinivqwwaH yaH 
 filename : apte_higher_skt_sents_GOLD_DATA.txt
 lineno : 1848
-line : waxavasWAH vyasanaSawa-SaravyawAm upagawAH valmIkawqNAgrAvasWiwAH janAH jalabinxavaH iva pawiwam api AwmAnam na avagacCanwi
+line : waxavasWAH vyasanaSawaSaravyawAm upagawAH valmIkawqNAgrAvasWiwAH janAH jalabinxavaH iva pawiwam api AwmAnam na avagacCanwi
 filename : apte_higher_skt_sents_GOLD_DATA.txt
 lineno : 1863
-line : aWa xvO api wO puRpiwapalASaprawimO parasparavaXa-kAfkRiNO xqRtvA karatakaH xamanakam Aha
+line : aWa xvO api wO puRpiwapalASaprawimO parasparavaXakAfkRiNO xqRtvA karatakaH xamanakam Aha
 filename : apte_higher_skt_sents_GOLD_DATA.txt
 lineno : 1876
 line : prayANABimuKaH sakalaH skanXAvAraH wvAM prawipAlayan Aswe
@@ -1644,7 +1644,7 @@ lineno : 2238
 line : magaXarAjaH prakRINasakalasEnyamaNdalaM mAlavarAjaM jIvagrAham aBigqhya xayAluwayA punaH api svarAjye prawisWApayAmAsa
 filename : apte_higher_skt_sents_GOLD_DATA.txt
 lineno : 2251
-line : mawwakAlaH nAma lota-ISvaraH xeSasya pAlayiwuH vIrakewoH wanayAM vAmalocanAM nAma waruNIrawnam asAmAnyalAvaNyaM SrAvaM SrAvam avaXUwaxuhiwqprArWanasya wasya nagarIm arOwsIw
+line : mawwakAlaH nAma lotaISvaraH xeSasya pAlayiwuH vIrakewoH wanayAM vAmalocanAM nAma waruNIrawnam asAmAnyalAvaNyaM SrAvaM SrAvam avaXUwaxuhiwqprArWanasya wasya nagarIm arOwsIw
 filename : apte_higher_skt_sents_GOLD_DATA.txt
 lineno : 2271
 line : vErocakapurassareNa paxAwilokena eva loRtaGAwaM hawaH
@@ -1656,7 +1656,7 @@ lineno : 2287
 line : wena eva xIpaxarSiwabilapaWena gawvA sWiwe arXarAwre waxarXapAxaM prawyuXqwya vAsagqhaM praviRTaH viSrabXaprasupwaM siMhaGoRaM jIvagrAham agrahIRam
 filename : apte_higher_skt_sents_GOLD_DATA.txt
 lineno : 2304
-line : maXyasWA BavawI nO guNaxoRawaH paricewum_arhawi
+line : maXyasWA BavawI nO guNaxoRawaH paricewumarhawi
 filename : apte_higher_skt_sents_GOLD_DATA.txt
 lineno : 2312
 line : na yukwaM nAma we waWA purA ASramapaxe svaBAvowwAnahqxayam imaM janaM samayapUrvaM prawArya ixqSEH akRarEH prawyAKyAwum yukwaM 
@@ -1671,10 +1671,10 @@ lineno : 2351
 line : kA vA gaNanA saMcewaneRu aswi 
 filename : apte_higher_skt_sents_GOLD_DATA.txt
 lineno : 2359
-line : apagawacewanAni api ayam saMGatayiwum alaM_ aswi yaxi asmE rocawe warhi 
+line : apagawacewanAni api ayam saMGatayiwum alaM aswi yaxi asmE rocawe warhi 
 filename : apte_higher_skt_sents_GOLD_DATA.txt
 lineno : 2371
-line : na ayaM kena api prawikUlayiwuM_Sakyawe
+line : na ayaM kena api prawikUlayiwuMSakyawe
 filename : apte_higher_skt_sents_GOLD_DATA.txt
 lineno : 2379
 line : saMhriyawAm iyam
@@ -1686,13 +1686,13 @@ lineno : 2392
 line : awikrAnwAni api hi saMkIrwyamAnAni priyajanaviSvAsavacanAni anuBavasamAM vexanAm upajanayanwi suhqxjanasya xuHKAni
 filename : apte_higher_skt_sents_GOLD_DATA.txt
 lineno : 2405
-line : waw na arhasi kaWaM kaWam api viXqwAn imAn asulaBAn asUn punaH punaH smaraNaSokAnala-inXanawAm upanewum arhasi 
+line : waw na arhasi kaWaM kaWam api viXqwAn imAn asulaBAn asUn punaH punaH smaraNaSokAnalainXanawAm upanewum arhasi 
 filename : apte_higher_skt_sents_GOLD_DATA.txt
 lineno : 2422
 line : wawa alam anayA kaWayA
 filename : apte_higher_skt_sents_GOLD_DATA.txt
 lineno : 2429
-line : cirAw praBqwi AryaH pariwyakwa-uciwa-saMskAraH aswi 
+line : cirAw praBqwi AryaH pariwyakwauciwasaMskAraH aswi 
 filename : apte_higher_skt_sents_GOLD_DATA.txt
 lineno : 2437
 line : iwi pIxyawe me hqxayam
@@ -1734,7 +1734,7 @@ lineno : 2538
 line : wawaH xineRu gacCawsu sawsu pakRiSAvakAn Akramya kotaram AnIya prawyahaM KAxawi
 filename : apte_higher_skt_sents_GOLD_DATA.txt
 lineno : 2551
-line : waw mucyawAm ayaM xevi Soka-anubanXaH
+line : waw mucyawAm ayaM xevi SokaanubanXaH
 filename : apte_higher_skt_sents_GOLD_DATA.txt
 lineno : 2559
 line : AXIyawAM XErye Xarme ca XIH
@@ -1755,7 +1755,7 @@ lineno : 2601
 line : yaxi punaH IxqSIM wvAm EkRvAkaH rAjA rAmaH paSyew waxA warhi asya snehena hqxayam aBiRyanxew
 filename : apte_higher_skt_sents_GOLD_DATA.txt
 lineno : 2617
-line : xeva yaxi canxramasi URmA xahane ca awiSIlawvam aMSumAlini vA wamaH wamasvinyAM vA xivasaH mahoxaXO vA SoSaH kRiweH aXAraNaM vA SeRe parArWa-anuxyamaH vA sAXoH apriyavacananirgamaH vA svajanamuKAw ca samBAvyawe wawaH yuvarAje api xoRaH syAw 
+line : xeva yaxi canxramasi URmA xahane ca awiSIlawvam aMSumAlini vA wamaH wamasvinyAM vA xivasaH mahoxaXO vA SoSaH kRiweH aXAraNaM vA SeRe parArWaanuxyamaH vA sAXoH apriyavacananirgamaH vA svajanamuKAw ca samBAvyawe wawaH yuvarAje api xoRaH syAw 
 filename : kAraka_viBakwi_sents_GOLD_complex.txt
 lineno : 1
 line : xaSaraWasya puwraH nAmnA rAmaH
@@ -1833,7 +1833,7 @@ lineno : 187
 line : xvArakAM aXyURuRaH janasya saMpaxaH manasaH api aBUmiH aBavan
 filename : kAraka_viBakwi_sents_GOLD_complex.txt
 lineno : 198
-line : guNAH pUjA-sWAnaM guNiRu na ca lifgaM na ca vayaH
+line : guNAH pUjAsWAnaM guNiRu na ca lifgaM na ca vayaH
 filename : kAraka_viBakwi_sents_GOLD_complex.txt
 lineno : 210
 line : kEkeyyAH xAruNaM vacaH SruwvA mahArAjaH xaSaraWaH sahasA BUmO apawaw niSceRtaH ca aBavaw
@@ -3114,7 +3114,7 @@ lineno : 2953
 line : bahUni havIMRi agnO prAsyawi
 filename : kAraka_viBakwi_sents_GOLD_simple.txt
 lineno : 2960
-line : nagarasya samIpe wasWivaH rAja-sEnyaM apaSyaw
+line : nagarasya samIpe wasWivaH rAjasEnyaM apaSyaw
 filename : kAraka_viBakwi_sents_GOLD_simple.txt
 lineno : 2968
 line : sUryasya wejasA saMwapwaH pAnWaH CAyAM ASrayawe
@@ -3483,7 +3483,7 @@ lineno : 251
 line : kiFciw wawra sWiwvA ca wAn abravIw 
 filename : SA_130_stories_GOLD.txt
 lineno : 260
-line : asmin Bavax_ByaH kqwajFawAyAH prakASanasya kA vArwA aswi 
+line : asmin BavaxByaH kqwajFawAyAH prakASanasya kA vArwA aswi 
 filename : SA_130_stories_GOLD.txt
 lineno : 270
 line : BavawAM svaBAvaH PalowpAxanam aswi 
@@ -3816,7 +3816,7 @@ lineno : 1436
 line : jyAyAMsaH ca waWA jyeRTAH laByAH syuH wawra BUriSaH 
 filename : SA_130_stories_GOLD.txt
 lineno : 1447
-line : mama AvAsaparisare ekamiRtAnnavyavasAyI prAyaH 20-25varReByaH AvAsinAm AvaSyakawAH pUrayawi 
+line : mama AvAsaparisare ekamiRtAnnavyavasAyI prAyaH varReByaH AvAsinAm AvaSyakawAH pUrayawi 
 filename : SA_130_stories_GOLD.txt
 lineno : 1458
 line : ekasapwAhapUrvam eva anyaH ekaH wAxqSaH eva miRtAnnavyavasAyI wawra Agawya svakIyaM vyavasAyaM prAraBawa
@@ -3825,7 +3825,7 @@ lineno : 1474
 line : wasya vyavasAyaM niRPalaM karwum uxxeSyena praWamavyavasAyI svavipaNyAM pattikAm Ayojayaw 
 filename : SA_130_stories_GOLD.txt
 lineno : 1486
-line : yasyAM liKiwam AsIw yaw 25varRapurAwanI vipaNiH aswi iwi 
+line : yasyAM liKiwam AsIw yaw varRapurAwanI vipaNiH aswi iwi 
 filename : SA_130_stories_GOLD.txt
 lineno : 1497
 line : waw xqRtvA navAganwukaH vyavasAyI svapattikAM svavipaNyAm ayojayaw 
@@ -3852,7 +3852,7 @@ lineno : 1587
 line : kRuwwqRO vyApnuwaH sarvAn
 filename : SA_130_stories_GOLD.txt
 lineno : 1593
-line : sulaBaM wacCAnwi-sAXanam aswi 
+line : sulaBaM wacCAnwisAXanam aswi 
 filename : SA_130_stories_GOLD.txt
 lineno : 1599
 line : sparSo jAwiviSeRasya na waw xURayawe kvaciw 
@@ -4203,7 +4203,7 @@ lineno : 2811
 line : anyaWA manyawe xoRI ninxyawe ca upahasyawe 
 filename : SA_130_stories_GOLD.txt
 lineno : 2820
-line : praSnapawra-nirxeSAnusAram uwwarapuswikAyAM miwrAya pawraM leKanIyam AsIw 
+line : praSnapawranirxeSAnusAram uwwarapuswikAyAM miwrAya pawraM leKanIyam AsIw 
 filename : SA_130_stories_GOLD.txt
 lineno : 2829
 line : rameSaH arXaM pawram aliKaw eva yaw paryavekRakaH wasya samIpe Agawya sWiwaH 
@@ -4245,19 +4245,19 @@ lineno : 2933
 line : kaM janAH upahasanwi 
 filename : SA_130_stories_GOLD.txt
 lineno : 2957
-line : niReXe api aXikAraM svaM manyanwe xur-XiyaH janAH
+line : niReXe api aXikAraM svaM manyanwe xurXiyaH janAH
 filename : SA_130_stories_GOLD.txt
 lineno : 2967
-line : haswa-kRepaM parasya asmin na sahanwe kaxApi we 
+line : haswakRepaM parasya asmin na sahanwe kaxApi we 
 filename : SA_130_stories_GOLD.txt
 lineno : 2978
-line : manxirAw prawyAgacCanwI vqxXA sva-gqhAw parAvarwamAnaM BikRukaM xqRtvA wam apqcCaw- 
+line : manxirAw prawyAgacCanwI vqxXA svagqhAw parAvarwamAnaM BikRukaM xqRtvA wam apqcCaw 
 filename : SA_130_stories_GOLD.txt
 lineno : 2990
 line : kiM kiFciw prApwam 
 filename : SA_130_stories_GOLD.txt
 lineno : 2996
-line : BikRukaH uxawaraw- 
+line : BikRukaH uxawaraw 
 filename : SA_130_stories_GOLD.txt
 lineno : 3001
 line : nahi 
@@ -4308,16 +4308,16 @@ lineno : 3113
 line : gqhaM prApwaM BikRukaM vqxXA kiM kaWayiwvA parAvarwayaw 
 filename : SA_130_stories_GOLD.txt
 lineno : 3123
-line : xur-XiyaH janAH kIxqSAH Bavanwi 
+line : xurXiyaH janAH kIxqSAH Bavanwi 
 filename : SA_130_stories_GOLD.txt
 lineno : 3130
 line : iyaM kaWA kaM sanxeSaM xaxAwi 
 filename : SA_130_stories_GOLD.txt
 lineno : 3156
-line : Awmavaw sarva-jIveRu jada-jafgama-vaswuRu ca vyavaharwA janaH jAwu wuxawe nEva kaFcana
+line : Awmavaw sarvajIveRu jadajafgamavaswuRu ca vyavaharwA janaH jAwu wuxawe nEva kaFcana
 filename : SA_130_stories_GOLD.txt
 lineno : 3169
-line : puwrasya pAxaM kRawavikRawaM xqRtvA mAwA pqRtavawI- 
+line : puwrasya pAxaM kRawavikRawaM xqRtvA mAwA pqRtavawI 
 filename : SA_130_stories_GOLD.txt
 lineno : 3178
 line : are nAmaxeva ewaw kim aswi 
@@ -4326,7 +4326,7 @@ lineno : 3186
 line : kuwaH ewaw aswi 
 filename : SA_130_stories_GOLD.txt
 lineno : 3192
-line : nAmaxevaH uwwaraM xawwavAn- 
+line : nAmaxevaH uwwaraM xawwavAn 
 filename : SA_130_stories_GOLD.txt
 lineno : 3198
 line : amba wvayA AjFapwaH ahaM kARTam AnewuM vanaM gawaH 
@@ -4341,7 +4341,7 @@ lineno : 3232
 line : ixam anuBaviwum eva mayA svakIye pAxe api kuTAreNa prahAraH kqwaH 
 filename : SA_130_stories_GOLD.txt
 lineno : 3245
-line : mAwA vqkReRu api puwrasya AwmIyawAM xqRtvA yawra prasannA aBUw wawra wasmE pIdA-xAnAya svAm eva kAraNaM mawvA awixuHKiwA aBUw 
+line : mAwA vqkReRu api puwrasya AwmIyawAM xqRtvA yawra prasannA aBUw wawra wasmE pIdAxAnAya svAm eva kAraNaM mawvA awixuHKiwA aBUw 
 filename : SA_130_stories_GOLD.txt
 lineno : 3266
 line : Awmavaw sarvawra vyavahAraSIlaH ayam eva nAmaxevaH agre caliwvA ekaH mahAn prasixXaH BagavaxBakwaH samajAyawa iwi 
@@ -4362,10 +4362,10 @@ lineno : 3312
 line : kIxqSaH janaH kaM nEva pIdayawi 
 filename : SA_130_stories_GOLD.txt
 lineno : 3338
-line : sAXu-sanwaH mahAwmAnaH kAmAwmAnaH Bavanwi na
+line : sAXusanwaH mahAwmAnaH kAmAwmAnaH Bavanwi na
 filename : SA_130_stories_GOLD.txt
 lineno : 3346
-line : san-mArge we pravarwya anyAn na wyajanwi kaxApi wAn 
+line : sanmArge we pravarwya anyAn na wyajanwi kaxApi wAn 
 filename : SA_130_stories_GOLD.txt
 lineno : 3357
 line : amerikAyAM svAmirAmawIrWasya BARaNakOSalena SArIrikasOnxaryeNa ca mugXA BUwvA ekA mahilA wawaH wAxqSaM puwraM prApwum icCanwI svAM pawnIrUpeNa svIkarwuM prArWiwavawI 
@@ -4374,7 +4374,7 @@ lineno : 3378
 line : svAmI wu savinayaM kaWiwavAn 
 filename : SA_130_stories_GOLD.txt
 lineno : 3385
-line : AvayoH xAmpawyena jAwaH puwraH maw-wulyaH eva BaviRyawi 
+line : AvayoH xAmpawyena jAwaH puwraH mawwulyaH eva BaviRyawi 
 filename : SA_130_stories_GOLD.txt
 lineno : 3395
 line : asmin xqDawA na aswi 
@@ -4407,7 +4407,7 @@ lineno : 3509
 line : xIpAvaliparvAvasare sarve api vyApAriNaH svIyAni svIyAni vaswUni prawi grAhakAn AkqRtAn karwuM nAnA praloBanavAkyAni leKayiwvA svasvavipaNiRu vijFApayanwaH Asan 
 filename : SA_130_stories_GOLD.txt
 lineno : 3529
-line : wawra mayA paryatawA ekasya SavAcCAxanAxyAxisAmagrIvikrewuH vipaNyAM liKiwaM xqRtam- 
+line : wawra mayA paryatawA ekasya SavAcCAxanAxyAxisAmagrIvikrewuH vipaNyAM liKiwaM xqRtam 
 filename : SA_130_stories_GOLD.txt
 lineno : 3540
 line : awra SavAcCAxanakrayaNakarwre laGuSavAcCAxanam api ekaM vinA mUlyaM saha eva xAsyawe 
@@ -4416,10 +4416,10 @@ lineno : 3553
 line : mAxqSAH bahavaH janAH ixaM paTiwvA vijFApanakarwAram upahasanwaH iva agre varXanwe sma iwi 
 filename : SA_130_stories_GOLD.txt
 lineno : 3568
-line : vyApAriNaH xIpAvali-parvA-avasare kiM kurvanwaH Asan 
+line : vyApAriNaH xIpAvaliparvAavasare kiM kurvanwaH Asan 
 filename : SA_130_stories_GOLD.txt
 lineno : 3576
-line : SavAcCAxanAxi-sAmagrI-vikrewuH vijFApanaM kIxqSam AsIw 
+line : SavAcCAxanAxisAmagrIvikrewuH vijFApanaM kIxqSam AsIw 
 filename : SA_130_stories_GOLD.txt
 lineno : 3583
 line : wasya vijFApanasya pATakAH kiM kurvanwi sma 
@@ -4446,7 +4446,7 @@ lineno : 3666
 line : BavAn ca mama puwraH BaviRyawi 
 filename : SA_130_stories_GOLD.txt
 lineno : 3674
-line : puwraH sva-piwaram akaWayaw 
+line : puwraH svapiwaram akaWayaw 
 filename : SA_130_stories_GOLD.txt
 lineno : 3680
 line : kaWam ewaw BaviRyawi vawsa 
@@ -4455,7 +4455,7 @@ lineno : 3687
 line : piwA apqcCaw 
 filename : SA_130_stories_GOLD.txt
 lineno : 3692
-line : mAwqvaw para-xAreRu varwiwavyam 
+line : mAwqvaw paraxAreRu varwiwavyam 
 filename : SA_130_stories_GOLD.txt
 lineno : 3698
 line : ixaM SAswravacanam anusqwya BavAn mama pawnIM mAwqvaw maMsyawe 
@@ -4479,25 +4479,25 @@ lineno : 3756
 line : puwraH piwuH praSnasya kim uwwaraM xawwavAn 
 filename : SA_130_stories_GOLD.txt
 lineno : 3765
-line : kaxA piwA sva-puwrasya eva puwraH Bavawi 
+line : kaxA piwA svapuwrasya eva puwraH Bavawi 
 filename : SA_130_stories_GOLD.txt
 lineno : 3774
-line : kiM piwq-sammuKe rakRiwaH warkaH sawyaH aswi 
+line : kiM piwqsammuKe rakRiwaH warkaH sawyaH aswi 
 filename : SA_130_stories_GOLD.txt
 lineno : 3801
 line : carcA manovinoxArWaM kqwA
 filename : SA_130_stories_GOLD.txt
 lineno : 3807
-line : kiM na suKa-praxA aswi 
+line : kiM na suKapraxA aswi 
 filename : SA_130_stories_GOLD.txt
 lineno : 3814
-line : nAnA-kArya-samuxvignaH viSrAmyawi yawaH janaH 
+line : nAnAkAryasamuxvignaH viSrAmyawi yawaH janaH 
 filename : SA_130_stories_GOLD.txt
 lineno : 3821
-line : ekasmin xine sAyaf_kAle gudaM krewuM pawnI svapawim ApaNaM preRiwavawI 
+line : ekasmin xine sAyafkAle gudaM krewuM pawnI svapawim ApaNaM preRiwavawI 
 filename : SA_130_stories_GOLD.txt
 lineno : 3833
-line : waM keSavaSAswri-nAmnA paricinvanwi sma sarve 
+line : waM keSavaSAswrinAmnA paricinvanwi sma sarve 
 filename : SA_130_stories_GOLD.txt
 lineno : 3841
 line : saH ekAM vipaNiM prApwaH 
@@ -4506,13 +4506,13 @@ lineno : 3848
 line : wawra puwrasWAne wasya piwA vikrayikaH AsIw 
 filename : SA_130_stories_GOLD.txt
 lineno : 3857
-line : vayasA vqXxaH api saH vinoxa-priyaH AsIw 
+line : vayasA vqXxaH api saH vinoxapriyaH AsIw 
 filename : SA_130_stories_GOLD.txt
 lineno : 3866
 line : keSavaSAswrI waM gudasya BAvam apqcCaw 
 filename : SA_130_stories_GOLD.txt
 lineno : 3874
-line : saH waw-kAlam eva waM prawyavaxaw- 
+line : saH wawkAlam eva waM prawyavaxaw 
 filename : SA_130_stories_GOLD.txt
 lineno : 3882
 line : gudasya BAvaH gudawvaM gudawA ca aswi 
@@ -4521,10 +4521,10 @@ lineno : 3891
 line : wawra upasWiwAH anye grAhakAH wu asya ASayaM nEva abuXyanwa 
 filename : SA_130_stories_GOLD.txt
 lineno : 3903
-line : paranwu keSavaSAswriNaH yaH AnanxaH uxBUwaH brahma-Ananxa-sahoxara-saxqSaH saH mUkasya kqwe guda-svAxa-varNanam iva AsIw 
+line : paranwu keSavaSAswriNaH yaH AnanxaH uxBUwaH brahmaAnanxasahoxarasaxqSaH saH mUkasya kqwe gudasvAxavarNanam iva AsIw 
 filename : SA_130_stories_GOLD.txt
 lineno : 3918
-line : anwe asO vikrayikam aBinanxya vAFCiwaM gudam AxAya gqhaM prawyAgawya pawnI-haswe samarpiwavAn iwi 
+line : anwe asO vikrayikam aBinanxya vAFCiwaM gudam AxAya gqhaM prawyAgawya pawnIhaswe samarpiwavAn iwi 
 filename : SA_130_stories_GOLD.txt
 lineno : 3933
 line : pawnI keSavaSAswriNaM kiM karwuM preRiwavawI 
@@ -4539,19 +4539,19 @@ lineno : 3955
 line : vikrayikasya uwwareNa keSavaSAswrI kIxqSam Ananxam anuBUwavAn 
 filename : SA_130_stories_GOLD.txt
 lineno : 3964
-line : manovinoxa-carcayA kiM Bavawi 
+line : manovinoxacarcayA kiM Bavawi 
 filename : SA_130_stories_GOLD.txt
 lineno : 3988
 line : ugrawAyAm api svIyaH nEva wyAjyaH hi saMyamaH
 filename : SA_130_stories_GOLD.txt
 lineno : 3998
-line : maXuraM BARaNaM ca api katu-sWiwiM vilopayew 
+line : maXuraM BARaNaM ca api katusWiwiM vilopayew 
 filename : SA_130_stories_GOLD.txt
 lineno : 4007
 line : mahASaya BavaxIyaH AwmajaH kriketaM krIdan mama vAwAyanasya bahumUlyaM kAcaM wrotiwavAn aswi 
 filename : SA_130_stories_GOLD.txt
 lineno : 4021
-line : asya kRawi-pUrwiH BavawA karaNIyA 
+line : asya kRawipUrwiH BavawA karaNIyA 
 filename : SA_130_stories_GOLD.txt
 lineno : 4028
 line : prawiveSI SyAmasunxaraM kaWiwavAn 
@@ -4566,7 +4566,7 @@ lineno : 4052
 line : iha XyAnaM na xeyaM bahu 
 filename : SA_130_stories_GOLD.txt
 lineno : 4060
-line : kiM prawiveSiwaH kRawi-mUlyaM yAcyawe 
+line : kiM prawiveSiwaH kRawimUlyaM yAcyawe 
 filename : SA_130_stories_GOLD.txt
 lineno : 4067
 line : SyAmasunxaraH prawiveSinaM pqRtavAn 
@@ -4596,7 +4596,7 @@ lineno : 4132
 line : SyAmasunxarasya prawiveSine waxA kim uwwaram AsIw 
 filename : SA_130_stories_GOLD.txt
 lineno : 4141
-line : katu-sWiwiM kiM vilopayawi 
+line : katusWiwiM kiM vilopayawi 
 filename : SA_130_stories_GOLD.txt
 lineno : 4165
 line : yuXyanwe sEnikAH yuxXe
@@ -4611,22 +4611,22 @@ lineno : 4184
 line : kliSyanwe jIviwAH iha 
 filename : SA_130_stories_GOLD.txt
 lineno : 4190
-line : BArawIya-svAwanwrya-Anxolane BAgaM gqhIwvA wena svakIyaM sampUrNaM yOvanaM yApiwam AsIw 
+line : BArawIyasvAwanwryaAnxolane BAgaM gqhIwvA wena svakIyaM sampUrNaM yOvanaM yApiwam AsIw 
 filename : SA_130_stories_GOLD.txt
 lineno : 4202
 line : vivAhaH wena kqwaH AsIw eva na 
 filename : SA_130_stories_GOLD.txt
 lineno : 4211
-line : mAwA-piwarO wasya viyogena sanwapanwO xivaM gawO AswAm 
+line : mAwApiwarO wasya viyogena sanwapanwO xivaM gawO AswAm 
 filename : SA_130_stories_GOLD.txt
 lineno : 4221
 line : sampUrNaH xeSaH eva wasya kutumbaH AsIw 
 filename : SA_130_stories_GOLD.txt
 lineno : 4230
-line : wasya eva suKa-SAnwi-samqxXyarWaM wena AwmIyaM sarvasvam Ahuwam 
+line : wasya eva suKaSAnwisamqxXyarWaM wena AwmIyaM sarvasvam Ahuwam 
 filename : SA_130_stories_GOLD.txt
 lineno : 4240
-line : BArawamAwA pArawanwrya-pASawaH vimukwA 
+line : BArawamAwA pArawanwryapASawaH vimukwA 
 filename : SA_130_stories_GOLD.txt
 lineno : 4246
 line : wena api apUrvA AnanxAnuBUwiH prApwA 
@@ -4635,19 +4635,19 @@ lineno : 4254
 line : kinwu awra cirasWAyiwAM na xqRtvA saH viRaNNaH 
 filename : SA_130_stories_GOLD.txt
 lineno : 4264
-line : wasya eva aneke sahayoginaH SAsakAH BUwvA vixeSi-SAsakeByaH api BArawa-mAwari awyaXikam awyAcaranwi 
+line : wasya eva aneke sahayoginaH SAsakAH BUwvA vixeSiSAsakeByaH api BArawamAwari awyaXikam awyAcaranwi 
 filename : SA_130_stories_GOLD.txt
 lineno : 4278
 line : ixAnIM saH ekAkI saMsWiwaH 
 filename : SA_130_stories_GOLD.txt
 lineno : 4285
-line : vqxXAvasWAyAM svawanwrawA-yoxXqrUpe wasmE praxawwA sammAna-vqwwiH wasya muKam eva pihiwavawI 
+line : vqxXAvasWAyAM svawanwrawAyoxXqrUpe wasmE praxawwA sammAnavqwwiH wasya muKam eva pihiwavawI 
 filename : SA_130_stories_GOLD.txt
 lineno : 4297
 line : anwaH xahawi wasya manaH 
 filename : SA_130_stories_GOLD.txt
 lineno : 4304
-line : aSakwaH saH mqwyu-xinAni gaNayawi iwi 
+line : aSakwaH saH mqwyuxinAni gaNayawi iwi 
 filename : SA_130_stories_GOLD.txt
 lineno : 4312
 line : wena svaM sampUrNaM yOvanaM kuwra yApiwam 
@@ -4677,7 +4677,7 @@ lineno : 4400
 line : bahusamayAnanwaraM xve saKyO miliwe 
 filename : SA_130_stories_GOLD.txt
 lineno : 4407
-line : kuSala-kRemAxi-viRaye praSnAn kqwvA ekA saKI sva-viRaye saxuHKaM kaWiwavawI 
+line : kuSalakRemAxiviRaye praSnAn kqwvA ekA saKI svaviRaye saxuHKaM kaWiwavawI 
 filename : SA_130_stories_GOLD.txt
 lineno : 4418
 line : kiM kaWayAni 
@@ -4704,7 +4704,7 @@ lineno : 4488
 line : we xve saKyO kaxA miliwe AswAm 
 filename : SA_130_stories_GOLD.txt
 lineno : 4497
-line : xviwIyA saKI praWama-saKyAH kaWanaM SruwvA kim akaWayaw 
+line : xviwIyA saKI praWamasaKyAH kaWanaM SruwvA kim akaWayaw 
 filename : SA_130_stories_GOLD.txt
 lineno : 4507
 line : vaXUH SvaSrUM kaxA na pIdayawi 
@@ -4719,7 +4719,7 @@ lineno : 4556
 line : axviwIyAH guNAH wasyAH wAM prawiRTApayanwi hi 
 filename : SA_130_stories_GOLD.txt
 lineno : 4565
-line : guru-SuSrURayA svakIyena pariSrameNa ca mAyA ekA harijana-bAlA BUwvA api mahilA-cikiwsAlayasya aXIkRikA saFjAwA 
+line : guruSuSrURayA svakIyena pariSrameNa ca mAyA ekA harijanabAlA BUwvA api mahilAcikiwsAlayasya aXIkRikA saFjAwA 
 filename : SA_130_stories_GOLD.txt
 lineno : 4580
 line : wAm ekaH uccavargIyaH prAXyApakaH uxvoDum icCawi sma 
@@ -4728,7 +4728,7 @@ lineno : 4591
 line : paranwu iha wasya parivArasya anumawiH sahamawiH ca na AsIw 
 filename : SA_130_stories_GOLD.txt
 lineno : 4603
-line : kinwu yaxA wasya jananI eva wasyAH cikiwsayA mqwyoH muKawaH AwmAnaM mukwAM xqRtavawI waxA waw-guNAkqRta-hqxayA sA wAM vaXUrUpe svIkarwuM sampUrNam api parivAram anukUlaM kqwavawI 
+line : kinwu yaxA wasya jananI eva wasyAH cikiwsayA mqwyoH muKawaH AwmAnaM mukwAM xqRtavawI waxA wawguNAkqRtahqxayA sA wAM vaXUrUpe svIkarwuM sampUrNam api parivAram anukUlaM kqwavawI 
 filename : SA_130_stories_GOLD.txt
 lineno : 4629
 line : axya wayoH xAmpawye na kaSciw api sAmAjikaH afgulim uwWApayawi iwi 
@@ -4743,7 +4743,7 @@ lineno : 4656
 line : wawra anumawiH sahamawiH vA kasya na AsIw 
 filename : SA_130_stories_GOLD.txt
 lineno : 4666
-line : mAyAM vaXU-rUpe svIkarwuM kA anukUlaM kqwavawI 
+line : mAyAM vaXUrUpe svIkarwuM kA anukUlaM kqwavawI 
 filename : SA_130_stories_GOLD.txt
 lineno : 4675
 line : vyakwiH kena na pUjyawe na mAnyawe ca 
@@ -4752,43 +4752,43 @@ lineno : 4685
 line : vyakwiM prawiRTAM ke prApayanwi 
 filename : SA_130_stories_GOLD.txt
 lineno : 4710
-line : eka-BAryA-vrawaM SreRTam aswi 
+line : ekaBAryAvrawaM SreRTam aswi 
 filename : SA_130_stories_GOLD.txt
 lineno : 4716
 line : ekA BAryA hi sOKyaxA Bavawi 
 filename : SA_130_stories_GOLD.txt
 lineno : 4724
-line : bahu-BAryaH pawiH wABiH BAryABiH wapyawe bahu 
+line : bahuBAryaH pawiH wABiH BAryABiH wapyawe bahu 
 filename : SA_130_stories_GOLD.txt
 lineno : 4733
-line : eka-janasya xve pawnyO AswAm 
+line : ekajanasya xve pawnyO AswAm 
 filename : SA_130_stories_GOLD.txt
 lineno : 4740
 line : ekA waruNI xviwIyA vqxXA ca AsIw 
 filename : SA_130_stories_GOLD.txt
 lineno : 4749
-line : waruNI pawiM waruNam eva xraRtum icCayA wasya SirasaH sarvAn Svewa-bAlAn uwpAtiwavawI 
+line : waruNI pawiM waruNam eva xraRtum icCayA wasya SirasaH sarvAn SvewabAlAn uwpAtiwavawI 
 filename : SA_130_stories_GOLD.txt
 lineno : 4763
-line : vqxXA api Awmavaw eva pawiM vqxXaM xraRtum icCanwI wasya SirasaH kqRNa-bAlAn uccAtiwavawI 
+line : vqxXA api Awmavaw eva pawiM vqxXaM xraRtum icCanwI wasya SirasaH kqRNabAlAn uccAtiwavawI 
 filename : SA_130_stories_GOLD.txt
 lineno : 4778
-line : wayoH anena vyavahAreNa KalvAtaH BUwaH pawiH kaWiwavAn- 
+line : wayoH anena vyavahAreNa KalvAtaH BUwaH pawiH kaWiwavAn 
 filename : SA_130_stories_GOLD.txt
 lineno : 4794
-line : pawnI-xvayavAn IxqSIm xur-gawiM prApnowi iwi 
+line : pawnIxvayavAn IxqSIm xurgawiM prApnowi iwi 
 filename : SA_130_stories_GOLD.txt
 lineno : 4802
-line : waruNI sva-pawiM kIxqSam icCanwI kiM kqwavawI 
+line : waruNI svapawiM kIxqSam icCanwI kiM kqwavawI 
 filename : SA_130_stories_GOLD.txt
 lineno : 4811
-line : vqxXA api sva-pawiM kIxqSam icCanwI kiM kqwavawI 
+line : vqxXA api svapawiM kIxqSam icCanwI kiM kqwavawI 
 filename : SA_130_stories_GOLD.txt
 lineno : 4821
 line : xvayoH pawnyoH AcaraNena pawiH kIxqSaH aBavaw 
 filename : SA_130_stories_GOLD.txt
 lineno : 4830
-line : kIxqSaM BAryA-vrawaM SreRTaM Bavawi eka-BAryA-vrawaM bahu-BAryA-vrawaM vA 
+line : kIxqSaM BAryAvrawaM SreRTaM Bavawi ekaBAryAvrawaM bahuBAryAvrawaM vA 
 filename : SA_130_stories_GOLD.txt
 lineno : 4865
 line : vixvAn sampAxakaH saH aswi
@@ -4797,22 +4797,22 @@ lineno : 4872
 line : sawyaM yaH hi prakASayew 
 filename : SA_130_stories_GOLD.txt
 lineno : 4879
-line : pakRa-vipakRawaH ananwAn sAXu-vAxAn saH vinxawi 
+line : pakRavipakRawaH ananwAn sAXuvAxAn saH vinxawi 
 filename : SA_130_stories_GOLD.txt
 lineno : 4887
 line : viXAnasaBAyAH aXiveSane wasmin xine saxasyAnAM BARaNe apekRAwaH aXikA eva ugrawA AsIw 
 filename : SA_130_stories_GOLD.txt
 lineno : 4901
-line : parasparam Aropa-prawyAropa-xvArA vicAraNIya-viRayaH suxUre wyakwaH aBUw 
+line : parasparam AropaprawyAropaxvArA vicAraNIyaviRayaH suxUre wyakwaH aBUw 
 filename : SA_130_stories_GOLD.txt
 lineno : 4910
 line : uwwejiwAH saxasyAH aBaxram api vyavahAraM kqwavanwaH 
 filename : SA_130_stories_GOLD.txt
 lineno : 4919
-line : weRAm ixaM ninxanIyam AcaraNaM svasya saMvAxa-xAwuH leKasya AXAreNa samAcAra-pawrasya sampAxakena svakIye pawre aXiveSanasya carcAM kurvanwaH arXAH saxasyAH aSiRtAH prakASiwAH 
+line : weRAm ixaM ninxanIyam AcaraNaM svasya saMvAxaxAwuH leKasya AXAreNa samAcArapawrasya sampAxakena svakIye pawre aXiveSanasya carcAM kurvanwaH arXAH saxasyAH aSiRtAH prakASiwAH 
 filename : SA_130_stories_GOLD.txt
 lineno : 4941
-line : xviwIyasmin xine kruxXAnAM saxasyAnAm AgraheNa viXAna-saBAXyakReNa wasmin leKe kRamA-yAcanA-pUrvakaM KaNdanaM prakASayiwuM sampAxakaH AxiRtaH 
+line : xviwIyasmin xine kruxXAnAM saxasyAnAm AgraheNa viXAnasaBAXyakReNa wasmin leKe kRamAyAcanApUrvakaM KaNdanaM prakASayiwuM sampAxakaH AxiRtaH 
 filename : SA_130_stories_GOLD.txt
 lineno : 4957
 line : waxanusAreNa sampAxakaH anyasmin xine KaNdanam evaM prakASiwavAn 
@@ -4821,49 +4821,49 @@ lineno : 4967
 line : arXAH saxasyAH aSiRtAH na Asan iwi 
 filename : SA_130_stories_GOLD.txt
 lineno : 4976
-line : viXAna-saBAyAm uwwejiwAH saxasyAH kIxqSaM vyavahAraM kqwavanwaH 
+line : viXAnasaBAyAm uwwejiwAH saxasyAH kIxqSaM vyavahAraM kqwavanwaH 
 filename : SA_130_stories_GOLD.txt
 lineno : 4985
-line : sampAxakaH sva-samAcAra-pawre kiM prakASiwam akarow 
+line : sampAxakaH svasamAcArapawre kiM prakASiwam akarow 
 filename : SA_130_stories_GOLD.txt
 lineno : 4993
-line : viXAna-saBAXyakRaH samAcAra-pawra-sampAxakaM kiM karwum AxiRtavAn 
+line : viXAnasaBAXyakRaH samAcArapawrasampAxakaM kiM karwum AxiRtavAn 
 filename : SA_130_stories_GOLD.txt
 lineno : 5001
-line : sampAxakaH punaH kiM samAcAra-pawre prakASiwavAn 
+line : sampAxakaH punaH kiM samAcArapawre prakASiwavAn 
 filename : SA_130_stories_GOLD.txt
 lineno : 5009
 line : vixvAn sampAxakaH kIxqSaH Bavawi 
 filename : SA_130_stories_GOLD.txt
 lineno : 5034
-line : nixriwaH api prawi-SvAsaM BagavannAma yaH japew kiM saH Bakwa-uwwamaH nAswi
+line : nixriwaH api prawiSvAsaM BagavannAma yaH japew kiM saH BakwauwwamaH nAswi
 filename : SA_130_stories_GOLD.txt
 lineno : 5047
-line : waw-iRtaM kiM na siXyawi 
+line : wawiRtaM kiM na siXyawi 
 filename : SA_130_stories_GOLD.txt
 lineno : 5054
-line : xevarRi-nAraxasya BagavanwaM prawi svakIya-BakwO mahAn garvaH AsIw 
+line : xevarRinAraxasya BagavanwaM prawi svakIyaBakwO mahAn garvaH AsIw 
 filename : SA_130_stories_GOLD.txt
 lineno : 5064
 line : ekaxA AwmIyam imaM BAvaM prakArAnwareNa saH BagavawaH sammuKe prakatam api kqwavAn 
 filename : SA_130_stories_GOLD.txt
 lineno : 5078
-line : anwaryAmI BagavAn wasya imaM garvaM cUrNayiwum eva wam arjunaM prawi sva-sanxeSaM xAwuM miReNa preRiwavAn 
+line : anwaryAmI BagavAn wasya imaM garvaM cUrNayiwum eva wam arjunaM prawi svasanxeSaM xAwuM miReNa preRiwavAn 
 filename : SA_130_stories_GOLD.txt
 lineno : 5095
-line : waxA arjunaH bAhya-jagawaH sarvaWA su-xUre sWiwaH gahana-nixrAyAM nimagnaH AsIw 
+line : waxA arjunaH bAhyajagawaH sarvaWA suxUre sWiwaH gahananixrAyAM nimagnaH AsIw 
 filename : SA_130_stories_GOLD.txt
 lineno : 5107
-line : wasya prawyeka-SvAsawaH nArAyaNa nArAyaNa iwi ayaM maXuraH XvaniH niranwaraM niHsaran AsIw 
+line : wasya prawyekaSvAsawaH nArAyaNa nArAyaNa iwi ayaM maXuraH XvaniH niranwaraM niHsaran AsIw 
 filename : SA_130_stories_GOLD.txt
 lineno : 5122
-line : ixam axBuwaM xqSyaM xqRtvA nAraxasya garva-BafgaH wu saFjAwaH eva 
+line : ixam axBuwaM xqSyaM xqRtvA nAraxasya garvaBafgaH wu saFjAwaH eva 
 filename : SA_130_stories_GOLD.txt
 lineno : 5134
-line : saH wasya jAgaraNam anuciwaM mawvA vinA sanxeSa-xAnam eva yaWA gawaH waWA parAvarwiwaH AsIw iwi 
+line : saH wasya jAgaraNam anuciwaM mawvA vinA sanxeSaxAnam eva yaWA gawaH waWA parAvarwiwaH AsIw iwi 
 filename : SA_130_stories_GOLD.txt
 lineno : 5151
-line : xevarRi-nAraxasya kIxqSaH garvaH AsIw 
+line : xevarRinAraxasya kIxqSaH garvaH AsIw 
 filename : SA_130_stories_GOLD.txt
 lineno : 5158
 line : BagavAn waM kuwra kasmE kAryAya preRiwavAn 
@@ -4878,16 +4878,16 @@ lineno : 5182
 line : BakwowwamaH kIxqSaH Bavawi 
 filename : SA_130_stories_GOLD.txt
 lineno : 5206
-line : cAwuryAlaf_kqwA vANI saxyaH spqSawi mAnasam
+line : cAwuryAlafkqwA vANI saxyaH spqSawi mAnasam
 filename : SA_130_stories_GOLD.txt
 lineno : 5214
-line : mugXaH prANI wayA vANyA jAyawe hi vaSaM-vaxaH 
+line : mugXaH prANI wayA vANyA jAyawe hi vaSaMvaxaH 
 filename : SA_130_stories_GOLD.txt
 lineno : 5224
 line : ahaM cikiwsAlaye upacArArWaM praviRtaM svasya sambanXinaM xraRtuM gawavAn 
 filename : SA_130_stories_GOLD.txt
 lineno : 5235
-line : kinwu ahaM nirXAriwa-samayAw pUrvaM prApwaH Asam 
+line : kinwu ahaM nirXAriwasamayAw pUrvaM prApwaH Asam 
 filename : SA_130_stories_GOLD.txt
 lineno : 5244
 line : paricArikA praveSawaH mAM nyavArayaw 
@@ -4902,7 +4902,7 @@ lineno : 5271
 line : kinwu saH abravIw 
 filename : SA_130_stories_GOLD.txt
 lineno : 5277
-line : imAni vaswUni mayA sva-pawnyE xeyAni sanwi 
+line : imAni vaswUni mayA svapawnyE xeyAni sanwi 
 filename : SA_130_stories_GOLD.txt
 lineno : 5286
 line : paricArikA wAni vaswUni wawaH AxaxawI ukwavawI 
@@ -4917,7 +4917,7 @@ lineno : 5306
 line : mahASaye eRu vaswuRu aham api wu ekaM vaswu asmi 
 filename : SA_130_stories_GOLD.txt
 lineno : 5318
-line : wasya ixaM kaWanaM SruwvA pari-cArikA sva-hAsyaM roxXuM na pAriwavawI 
+line : wasya ixaM kaWanaM SruwvA paricArikA svahAsyaM roxXuM na pAriwavawI 
 filename : SA_130_stories_GOLD.txt
 lineno : 5330
 line : sA AvAM xvO api praveSiwavawI kaWiwavawI ca 
@@ -4932,13 +4932,13 @@ lineno : 5354
 line : anyaM janam api sA kiM karwuM kaWiwavawI 
 filename : SA_130_stories_GOLD.txt
 lineno : 5364
-line : saH pari-cArikAM kim abravIw 
+line : saH paricArikAM kim abravIw 
 filename : SA_130_stories_GOLD.txt
 lineno : 5371
-line : pari-cArikA yaxA wena xawwAM sAmagrIM prApayiwuM kaWiwavawI waxA saH kim akaWayaw 
+line : paricArikA yaxA wena xawwAM sAmagrIM prApayiwuM kaWiwavawI waxA saH kim akaWayaw 
 filename : SA_130_stories_GOLD.txt
 lineno : 5385
-line : prANI kIxqSyA vANyA vaSaM-vaxaH Bavawi 
+line : prANI kIxqSyA vANyA vaSaMvaxaH Bavawi 
 filename : SA_130_stories_GOLD.txt
 lineno : 5412
 line : kuTAram AviRkqwya manuRyaH AwmAnam bahu bahu amanyawa
@@ -5034,7 +5034,7 @@ lineno : 5759
 line : sapwamakakRAyAH CAwraH SyAmaH yaxA niyawasamaye vixyAlayawaH gqham na eva prawyAgawaH waxA bahusamayaparyanwam prawIkRAm kqwvA wasya iwaswawaH sahapATinAm gqheRu anveRaNam karwum prArabXam
 filename : SA_130_stories_GOLD.txt
 lineno : 5783
-line : kinwu nAnASaf_kAkuliwayoH mAwApiwroH na kimapi sawyam miliwam 
+line : kinwu nAnASafkAkuliwayoH mAwApiwroH na kimapi sawyam miliwam 
 filename : SA_130_stories_GOLD.txt
 lineno : 5793
 line : saH ekalaH eva wu wayoH kulaxIpakaH AsIw 
@@ -5088,7 +5088,7 @@ lineno : 5971
 line : wawra mayA BARaNam xeyam AsIw 
 filename : SA_130_stories_GOLD.txt
 lineno : 5979
-line : sAmagrIsaf_kalanArWam mama waxA gIwArAmAyaNamahABArawAxigranWAnAm AvaSyakawA ApawiwA 
+line : sAmagrIsafkalanArWam mama waxA gIwArAmAyaNamahABArawAxigranWAnAm AvaSyakawA ApawiwA 
 filename : SA_130_stories_GOLD.txt
 lineno : 5988
 line : aham yasya awiWiH Asam saH sanAwanaXarmasaBAyAH karmaTaH saxasyaH avarwawa 
@@ -5385,7 +5385,7 @@ lineno : 7000
 line : na ca anyAyam karowi sma 
 filename : SA_130_stories_GOLD.txt
 lineno : 7008
-line : ekavAram SikRakaH kakRAm praviSya eva yaxA iwaswawaH BakRiwamux_gaPalInAm AvaraNAni vikIrNAni apaSyaw waxA kena ixam xurAcariwam iwi punaH punaH pqRtvA api yaxA kuwaSciw SikRArWinaH uwwaram na prApwavAn waxA xaNdabalena uwwaram prApwum icCayA saH prawyekam SikRArWinaH svahaswO prasArayiwum AxiSya haswayoH vewreNa AGAwam karwum pravqwwaH 
+line : ekavAram SikRakaH kakRAm praviSya eva yaxA iwaswawaH BakRiwamuxgaPalInAm AvaraNAni vikIrNAni apaSyaw waxA kena ixam xurAcariwam iwi punaH punaH pqRtvA api yaxA kuwaSciw SikRArWinaH uwwaram na prApwavAn waxA xaNdabalena uwwaram prApwum icCayA saH prawyekam SikRArWinaH svahaswO prasArayiwum AxiSya haswayoH vewreNa AGAwam karwum pravqwwaH 
 filename : SA_130_stories_GOLD.txt
 lineno : 7054
 line : bAlagafgAXaram api haswO prasArayiwum SikRakaH sawarjanam AxiRtavAn 
@@ -5394,7 +5394,7 @@ lineno : 7064
 line : kinwu saH haswO na prasArya uxawaraw 
 filename : SA_130_stories_GOLD.txt
 lineno : 7073
-line : aham mux_gaPalIH na aKAxam yaxi warhi vewraGAwam kim saheya 
+line : aham muxgaPalIH na aKAxam yaxi warhi vewraGAwam kim saheya 
 filename : SA_130_stories_GOLD.txt
 lineno : 7085
 line : warhi yaH BakRiwavAn wasya eva nAma kaWaya 
@@ -5433,7 +5433,7 @@ lineno : 7218
 line : wawra ekasyAm paNdiwasaBAyAm svakIyam SAswrArWam prAramBamANaH saH evam aBARawa 
 filename : SA_130_stories_GOLD.txt
 lineno : 7230
-line : aham svakIyAm ekAm laGuSaf_kAm praswOmi 
+line : aham svakIyAm ekAm laGuSafkAm praswOmi 
 filename : SA_130_stories_GOLD.txt
 lineno : 7238
 line : yaw
@@ -5442,7 +5442,7 @@ lineno : 7242
 line : maXye eva wam nivArayan sammuKasWaH SAswrArWI vixvAn kaWiwavAn 
 filename : SA_130_stories_GOLD.txt
 lineno : 7253
-line : mahASaya BavaxIyA laGuSaf_kA Bavawu xIrGaSaf_kA vA 
+line : mahASaya BavaxIyA laGuSafkA Bavawu xIrGaSafkA vA 
 filename : SA_130_stories_GOLD.txt
 lineno : 7262
 line : wAm svamuKe eva rakRawu 
@@ -5451,7 +5451,7 @@ lineno : 7269
 line : ixam sWAnam waxarWam na aswi 
 filename : SA_130_stories_GOLD.txt
 lineno : 7277
-line : ixam SruwvA yawra saByAH uccEH hasiwavanwaH wawra laGuSaf_kAkAriNaH muKAkqwiH xarSanIyA eva AsIw iwi 
+line : ixam SruwvA yawra saByAH uccEH hasiwavanwaH wawra laGuSafkAkAriNaH muKAkqwiH xarSanIyA eva AsIw iwi 
 filename : SA_130_stories_GOLD.txt
 lineno : 7293
 line : purA vixvawwAparIkRaNam kaWam Bavawi sma 
@@ -5640,7 +5640,7 @@ lineno : 7983
 line : banXo evam mA kriyawAm 
 filename : SA_130_stories_GOLD.txt
 lineno : 7990
-line : mama SIGrAwiSIGram gamanam awyAvaSyakam_ aswi 
+line : mama SIGrAwiSIGram gamanam awyAvaSyakam aswi 
 filename : SA_130_stories_GOLD.txt
 lineno : 7998
 line : mama sarvasvaH BarwA xehalyAm akRixanwena acewanaH cikiwsAlaye praveSiwaH aswi 
@@ -5835,7 +5835,7 @@ lineno : 8658
 line : kinwu kaxAciw pramAxena waw asmin AyAwam syAw iwi vicArya sA saxyaH eva parAvarwayiwum puwrIm preRiwavawI 
 filename : SA_130_stories_GOLD.txt
 lineno : 8676
-line : viwarakaH anena sanwuRtaH_san puwryA saha wawgqham prApwaH 
+line : viwarakaH anena sanwuRtaHsan puwryA saha wawgqham prApwaH 
 filename : SA_130_stories_GOLD.txt
 lineno : 8686
 line : wawra wasyAH mAwuH SuciwayA praBAviwaH BUwvA yawra puwryAH SikRAwaH AraBya vivAhaparyanwam sarvam BAram samBAliwavAn wawra mAwuH api samuciwAm BaraNapoRaNavyavasWAm sampAxya svakIyAm viSAlahqxayawAm eva pramANiwavAn iwi 
@@ -6051,7 +6051,7 @@ lineno : 9494
 line : wava pAlanam poRaNam api samyak karwum na Sakyawe 
 filename : SA_130_stories_GOLD.txt
 lineno : 9505
-line : sasaf_kocam piwA puwram prAboXayaw 
+line : sasafkocam piwA puwram prAboXayaw 
 filename : SA_130_stories_GOLD.txt
 lineno : 9512
 line : svakAryam kqwvA Kaniwram mahyam api xaxAwu 
@@ -6087,7 +6087,7 @@ lineno : 9599
 line : SyAmaH mAwApiwqByAm saha grAmawaH nagaram Agawya gqhanirmANe vigawaxaSavarReByaH SramikaH AsIw
 filename : SA_130_stories_GOLD.txt
 lineno : 9612
-line : maXye maXye saH yaxA-kaxA grAmam api prawyAgacCawi sma 
+line : maXye maXye saH yaxAkaxA grAmam api prawyAgacCawi sma 
 filename : SA_130_stories_GOLD.txt
 lineno : 9623
 line : ekaxA akAle Apawiwe AjIvikAyAH alABena mAwApiwarO xivam gawO AswAm 
@@ -6195,7 +6195,7 @@ lineno : 9997
 line : mahAwmA ASramasWavqkRawaH ekaM PalaM wrotayiwvA wena waM rAjAnaM sawkqwavAn 
 filename : SA_130_stories_GOLD.txt
 lineno : 10009
-line : rAjA Palasya anAsvAxiwapUrvaM mAXuryaM yaxA BUri prASaMsaw waxA mahAwmA akaWayaw yaw sax_guNavawaH rAjFaH SAsane sarvaM sax_guNamayam eva sampaxyawe 
+line : rAjA Palasya anAsvAxiwapUrvaM mAXuryaM yaxA BUri prASaMsaw waxA mahAwmA akaWayaw yaw saxguNavawaH rAjFaH SAsane sarvaM saxguNamayam eva sampaxyawe 
 filename : SA_130_stories_GOLD.txt
 lineno : 10030
 line : rAjA jijFAsiwavAn yaw kiM xurguNavawi rAjFi evaM na Bavawi 
@@ -6315,10 +6315,10 @@ lineno : 10474
 line : ime janwavaH asmAkaM rakRakAH sanwi 
 filename : SA_130_stories_GOLD.txt
 lineno : 10482
-line : eRAm anupasWiwO_sawi nAgarikAH asmAn Cewsyanwi karwayiRyanwi ca eva 
+line : eRAm anupasWiwOsawi nAgarikAH asmAn Cewsyanwi karwayiRyanwi ca eva 
 filename : SA_130_stories_GOLD.txt
 lineno : 10493
-line : kim_ ixam icCaWa yUyam 
+line : kim ixam icCaWa yUyam 
 filename : SA_130_stories_GOLD.txt
 lineno : 10500
 line : waruNAH waxvacane XyAnaM na xawwavanwaH 
@@ -6501,7 +6501,7 @@ lineno : 11105
 line : sAXupramuKaH pUjakam AhUya upaxiRtavAn 
 filename : SA_130_stories_GOLD.txt
 lineno : 11112
-line : ahaf_kAraH kAryasixXO bAXakaH Bavawi 
+line : ahafkAraH kAryasixXO bAXakaH Bavawi 
 filename : SA_130_stories_GOLD.txt
 lineno : 11119
 line : pUjakaH wam anumoxayan avaxaw 
@@ -6510,7 +6510,7 @@ lineno : 11126
 line : sawyam aswi 
 filename : SA_130_stories_GOLD.txt
 lineno : 11131
-line : svAcaraNe mama ahaf_kAraH AsIw 
+line : svAcaraNe mama ahafkAraH AsIw 
 filename : SA_130_stories_GOLD.txt
 lineno : 11138
 line : paraninxAyAH karaNe SravaNe ca mama AnanxaH AyAwi sma 
@@ -6585,7 +6585,7 @@ lineno : 11425
 line : mawwaH eva yAciwvA saH paTawi 
 filename : SA_130_stories_GOLD.txt
 lineno : 11433
-line : prawixinam yAcanAyAm saf_kocam anuBavan saH samAcarapawram samAcArapawraviwarakAw eva gqhNAwi 
+line : prawixinam yAcanAyAm safkocam anuBavan saH samAcarapawram samAcArapawraviwarakAw eva gqhNAwi 
 filename : SA_130_stories_GOLD.txt
 lineno : 11445
 line : punaH kaxAciw paTiwam mahyam xaxAwi 
@@ -6714,7 +6714,7 @@ lineno : 11887
 line : ixam AkarNya SiRyAH ekawaH apasqwAH 
 filename : SA_130_stories_GOLD.txt
 lineno : 11895
-line : kevalam guroH priyawamaH SiRyaH SivavIraH eva svaprANAn api agaNayan eva sPotasya pUyam mahawA premNA cURiwvA sarvAn_ vismApayan iva guroH manasi mahawIm prIwim uwpAxiwavAn 
+line : kevalam guroH priyawamaH SiRyaH SivavIraH eva svaprANAn api agaNayan eva sPotasya pUyam mahawA premNA cURiwvA sarvAn vismApayan iva guroH manasi mahawIm prIwim uwpAxiwavAn 
 filename : SA_130_stories_GOLD.txt
 lineno : 11921
 line : vaswuwaH guruH SiRyAn parIkRiwum pAxe kqRNamuKam maXurarasaBariwam mqxulam ekam Amram karpatapattikayA AveRtya sPotajaniwAm pIdAm aBinayan AsIw iwi 
@@ -6837,7 +6837,7 @@ lineno : 12381
 line : mahAwmAnam mahAwmA parAvqwwam mahAwmA mahAwmA 
 filename : SA_130_stories_GOLD.txt
 lineno : 12408
-line : sawyAH vERNavasanwaH hi svaxoRapariSuxXaye saf_kocam nEva kurvanwi kaxA api yAciwum kRamAm
+line : sawyAH vERNavasanwaH hi svaxoRapariSuxXaye safkocam nEva kurvanwi kaxA api yAciwum kRamAm
 filename : SA_130_stories_GOLD.txt
 lineno : 12422
 line : awyalpaH eva samayaH avaSiRtaH aswi 
@@ -6915,7 +6915,7 @@ lineno : 12709
 line : wvam eva kRewram mA krINIhi 
 filename : SA_130_stories_GOLD.txt
 lineno : 12717
-line : aham api uwwejiwaH BUwvA kqRNAfgAreNa wawkAlam eva BUmO kRewrasImAm af_kiwvA kaWiwavAn- 
+line : aham api uwwejiwaH BUwvA kqRNAfgAreNa wawkAlam eva BUmO kRewrasImAm afkiwvA kaWiwavAn 
 filename : SA_130_stories_GOLD.txt
 lineno : 12731
 line : paSya wvam 
@@ -6924,7 +6924,7 @@ lineno : 12736
 line : ixam kRewram aham krIwavAn asmi 
 filename : SA_130_stories_GOLD.txt
 lineno : 12744
-line : ayam api punaH mama kRewre mahiRIm af_kiwvA prokwavAn 
+line : ayam api punaH mama kRewre mahiRIm afkiwvA prokwavAn 
 filename : SA_130_stories_GOLD.txt
 lineno : 12755
 line : iyam me mahiRI aswi 
@@ -7065,7 +7065,7 @@ lineno : 13177
 line : sA wu suKam SAnwim ca icCawi 
 filename : SA_130_stories_GOLD.txt
 lineno : 13186
-line : warhi waxicCAviruxXam yuxXAgnO sEnikAnAm nipAwanam niraparAXa-janawAyAH ca hawyA sarvaWA anEwikam eva karma aswi 
+line : warhi waxicCAviruxXam yuxXAgnO sEnikAnAm nipAwanam niraparAXajanawAyAH ca hawyA sarvaWA anEwikam eva karma aswi 
 filename : SA_130_stories_GOLD.txt
 lineno : 13202
 line : evam eva iwi 
@@ -7080,7 +7080,7 @@ lineno : 13243
 line : viSvAsaGAwakarwA yaH aswi narakaM saH aXigacCawi 
 filename : SA_130_stories_GOLD.txt
 lineno : 13252
-line : canxraXaraH SreRTirAmaxAsasya gqhe_ karmacArI AsIw 
+line : canxraXaraH SreRTirAmaxAsasya gqhe karmacArI AsIw 
 filename : SA_130_stories_GOLD.txt
 lineno : 13260
 line : kena api kAraNena wawaH ruRtaH saH sevAM wyakwvA nirgawaH 
@@ -7107,7 +7107,7 @@ lineno : 13344
 line : canxraXaraH cOrANAm vacane vAram vAram mananam kqwavAn 
 filename : SA_130_stories_GOLD.txt
 lineno : 13354
-line : saH vyacinwayaw- 
+line : saH vyacinwayaw 
 filename : SA_130_stories_GOLD.txt
 lineno : 13359
 line : praWamam wu mayA SreRTirAmaxAsasya eva lavaNam BakRiwam 
@@ -7131,7 +7131,7 @@ lineno : 13424
 line : ruRtaH yeRAm canxraXaraH kasya viSvAsaGAwI 
 filename : SA_130_stories_GOLD.txt
 lineno : 13450
-line : jIvax_ByaH api janeByaH saH vanxyawAm mqwagarxaBaH
+line : jIvaxByaH api janeByaH saH vanxyawAm mqwagarxaBaH
 filename : SA_130_stories_GOLD.txt
 lineno : 13459
 line : pattIm viBAjanArWam yaH nirmame aXvani sarpiwum 
@@ -7164,7 +7164,7 @@ lineno : 13553
 line : ekaH mqwaH garxaBaH viBAjanapattikAyAH nirmANam kqwvA yaw kAryam kqwavAn waw kAryam aXunAvaXi aneke jIvanwaH api garxaBAH nEva kqwavanwaH 
 filename : SA_130_stories_GOLD.txt
 lineno : 13575
-line : iyam_ AsIw jane jane carcA iwi 
+line : iyam AsIw jane jane carcA iwi 
 filename : SA_130_stories_GOLD.txt
 lineno : 13584
 line : rAjamArge vasawivAsinaH xviwIyavAram kAryam jane 
@@ -7182,13 +7182,13 @@ lineno : 13629
 line : wasyAH pUrwiH asamBavA 
 filename : SA_130_stories_GOLD.txt
 lineno : 13635
-line : wIrWayAwrArWam prasWiwaH ekaH sixXapuruRaH mArge samAyAwasya ekasya sax_gqhasWasya awiWiH aBavaw 
+line : wIrWayAwrArWam prasWiwaH ekaH sixXapuruRaH mArge samAyAwasya ekasya saxgqhasWasya awiWiH aBavaw 
 filename : SA_130_stories_GOLD.txt
 lineno : 13649
 line : pawiH pawnI ca miliwvA wasya sarvAwmanA sevAm akuruwAm 
 filename : SA_130_stories_GOLD.txt
 lineno : 13660
-line : wawsevayA sanwuRtaH saH svajatArakRiwam sparSamaNim niHsArya sax_gqhasWam kaWiwavAn 
+line : wawsevayA sanwuRtaH saH svajatArakRiwam sparSamaNim niHsArya saxgqhasWam kaWiwavAn 
 filename : SA_130_stories_GOLD.txt
 lineno : 13671
 line : asya sparSena lohaH suvarNe parivarwiwaH Bavawi 
@@ -7212,7 +7212,7 @@ lineno : 13719
 line : yAwrAwaH wrimAsAnanwaram nivqwwaH aham imam grahIRyAmi 
 filename : SA_130_stories_GOLD.txt
 lineno : 13728
-line : evam ukwvA wasmin gawe sax_gqhasWaH gqhasya sarvANi lohavaswUni maNinA suvarNasya vaswUni kqwavAn 
+line : evam ukwvA wasmin gawe saxgqhasWaH gqhasya sarvANi lohavaswUni maNinA suvarNasya vaswUni kqwavAn 
 filename : SA_130_stories_GOLD.txt
 lineno : 13743
 line : ApaNawaH api loham krIwvA suvarNam nirmAwum vyacArayaw 
@@ -7230,10 +7230,10 @@ lineno : 13781
 line : nirXAriwe samaye sixXapuruRaH prawinivqwwaH 
 filename : SA_130_stories_GOLD.txt
 lineno : 13788
-line : svamUrKawAyAm paScAwwapawA sax_gqhasWena sparSamaNiH sixXapuruRAya xeyaH eva aBUw iwi 
+line : svamUrKawAyAm paScAwwapawA saxgqhasWena sparSamaNiH sixXapuruRAya xeyaH eva aBUw iwi 
 filename : SA_130_stories_GOLD.txt
 lineno : 13800
-line : sixXapuruRaH xawwavaswuni sax_gqhasWAw kim iyam 
+line : sixXapuruRaH xawwavaswuni saxgqhasWAw kim iyam 
 filename : SA_130_stories_GOLD.txt
 lineno : 13826
 line : apavyayam na kurvanwi buxXimanwaH mahAjanAH
@@ -7431,7 +7431,7 @@ lineno : 14518
 line : wam nigrahIwum ArakRiNaH uxyawAH aBavan 
 filename : SA_130_stories_GOLD.txt
 lineno : 14526
-line : nigrahaNaBayAw cOraH iwaswawaH palAyamAnaH wasya eva vqxXa-puruRasya gqhaxvAri Agawya mUrCiwaH nyapawaw 
+line : nigrahaNaBayAw cOraH iwaswawaH palAyamAnaH wasya eva vqxXapuruRasya gqhaxvAri Agawya mUrCiwaH nyapawaw 
 filename : SA_130_stories_GOLD.txt
 lineno : 14540
 line : vqxXaH xayAluH AsIw 
@@ -7446,7 +7446,7 @@ lineno : 14565
 line : yAvaw saH pUrNarUpeNa svasWaH sabalaH ca na aBavaw wAvaw wam saH samyak upacariwavAn api 
 filename : SA_130_stories_GOLD.txt
 lineno : 14582
-line : svasWe sabale ca saFjAwe_sawi wam kaWiwavAn 
+line : svasWe sabale ca saFjAwesawi wam kaWiwavAn 
 filename : SA_130_stories_GOLD.txt
 lineno : 14591
 line : gqhANa maxIyam imam uRtram 
@@ -7500,7 +7500,7 @@ lineno : 14773
 line : upasWiwAya wasmE saH svasAmarWyAnusAreNa sampAxiwena sarasaBojanena saha sAXAraNIm rUkRAm sWUlAm rotIm BakRaNAya axaxAw 
 filename : SA_130_stories_GOLD.txt
 lineno : 14789
-line : ixam xqRtvA sampannasya nAsABUsaf_kocaH ajAyawa 
+line : ixam xqRtvA sampannasya nAsABUsafkocaH ajAyawa 
 filename : SA_130_stories_GOLD.txt
 lineno : 14797
 line : saH sarasam Bojanam wu kqwavAn 
@@ -7719,7 +7719,7 @@ lineno : 15517
 line : kinwu saPalawA nEva miliwA 
 filename : SA_130_stories_GOLD.txt
 lineno : 15524
-line : rAjajyowiRiNA wasya xIrGAyuRyam janmapawrawaH xqRtvA ekaH upAyaH kaWiwaH yaw yaxi kAciw sawI-sAXvI swrI rAjakumAram xaRtasWAne spqSew warhi ayam svasWaH Bavew 
+line : rAjajyowiRiNA wasya xIrGAyuRyam janmapawrawaH xqRtvA ekaH upAyaH kaWiwaH yaw yaxi kAciw sawIsAXvI swrI rAjakumAram xaRtasWAne spqSew warhi ayam svasWaH Bavew 
 filename : SA_130_stories_GOLD.txt
 lineno : 15548
 line : rAjFaH anekapawnyaH Asan 
@@ -7773,7 +7773,7 @@ lineno : 15735
 line : xaNdyanwe we kimarWam na pAmarAH piSiwASanAH 
 filename : SA_130_stories_GOLD.txt
 lineno : 15744
-line : yawra prAwaH gavAm xarSanam puNyam manyawe wawra wAsAm sAmUhikarUpe mqwyum xqRtvA goBakwAnAm mahAn sammarxaH nAnA ASaf_kAH prakatayawi sma 
+line : yawra prAwaH gavAm xarSanam puNyam manyawe wawra wAsAm sAmUhikarUpe mqwyum xqRtvA goBakwAnAm mahAn sammarxaH nAnA ASafkAH prakatayawi sma 
 filename : SA_130_stories_GOLD.txt
 lineno : 15765
 line : kaSciw kaWayawi sma yaw amukajAwIyAH janAH viRam xawwvA ewAH mAriwavanwaH 
@@ -7923,7 +7923,7 @@ lineno : 16263
 line : sA wasmin bahu snihyawi 
 filename : SA_130_stories_GOLD.txt
 lineno : 16270
-line : kinwu Saf_kiwaciwwA vimAwA SiSum spraRtum api wAm nivArayawi 
+line : kinwu SafkiwaciwwA vimAwA SiSum spraRtum api wAm nivArayawi 
 filename : SA_130_stories_GOLD.txt
 lineno : 16281
 line : varAkyAH niRkapataH snehaH SuRkaH eva wiRTawi 
@@ -7944,7 +7944,7 @@ lineno : 16328
 line : mama pawixevasya nagarAnware parivarwanena mama api wawra gamanam anivAryam aBavaw eva 
 filename : SA_130_stories_GOLD.txt
 lineno : 16342
-line : awaH yaxA gqhasya sarvAm sAmagrIm saf_kaliwAm kqwvA aham yAnam AroDum uxyawA eva Asam yaw sA upasWiwA 
+line : awaH yaxA gqhasya sarvAm sAmagrIm safkaliwAm kqwvA aham yAnam AroDum uxyawA eva Asam yaw sA upasWiwA 
 filename : SA_130_stories_GOLD.txt
 lineno : 16361
 line : mAm ca waWAviXAm xqRtvA swabXA iva saFjAwA 
@@ -8034,7 +8034,7 @@ lineno : 16667
 line : xInArwavacasA kaH api Bagavanwam swavIwa cew warhi wam saH pariwrAwum svayam saxyaH samewi hi
 filename : SA_130_stories_GOLD.txt
 lineno : 16684
-line : mahAgrAheNa gqhIwapAxaH gajarAjaH yaxA wawaH mocayiwum ArwasvareNa Bagavanwam prArWiwavAn waxA wawkRaNam eva BagavAn_ svakIye suxqDe ArakRiviBAge vixyamAne_sawi api kaWam ekAkI eva wam pariwrAwum upasWiwaH 
+line : mahAgrAheNa gqhIwapAxaH gajarAjaH yaxA wawaH mocayiwum ArwasvareNa Bagavanwam prArWiwavAn waxA wawkRaNam eva BagavAn svakIye suxqDe ArakRiviBAge vixyamAnesawi api kaWam ekAkI eva wam pariwrAwum upasWiwaH 
 filename : SA_130_stories_GOLD.txt
 lineno : 16711
 line : SrAvakasya imam praSnam samAXAwum kaWAvAcakaH xqRtAnwam imam praswuwavAn 
@@ -8067,7 +8067,7 @@ lineno : 16799
 line : rAjakumAram nipawiwam xqRtvA rAjA wawkRaNam eva wam rakRiwum naxyAm kUrxiwavAn 
 filename : SA_130_stories_GOLD.txt
 lineno : 16812
-line : anena xqRtAnwena kaWAvacakaH samasAXayaw yaw yaWA anyeRu AwmIyeRu vixyamAneRu_sawsu api rAjA samyak eva puwram pariwrAwum samuxyawaH waWA eva BagavAn api gajarAjam rakRiwum svayam eva ekAkI upasWiwaH aBUw iwi 
+line : anena xqRtAnwena kaWAvacakaH samasAXayaw yaw yaWA anyeRu AwmIyeRu vixyamAneRusawsu api rAjA samyak eva puwram pariwrAwum samuxyawaH waWA eva BagavAn api gajarAjam rakRiwum svayam eva ekAkI upasWiwaH aBUw iwi 
 filename : SA_130_stories_GOLD.txt
 lineno : 16843
 line : SrAvakaH kaWAvAcakaH BagavAn kim anayA 
@@ -8085,10 +8085,10 @@ lineno : 16896
 line : awra wvam suKI BaviwAsi 
 filename : SA_130_stories_GOLD.txt
 lineno : 16903
-line : Bayena kampamAnam 20-25varRIyam yuvakam senAXyakRaH ASvAsayaw 
+line : Bayena kampamAnam varRIyam yuvakam senAXyakRaH ASvAsayaw 
 filename : SA_130_stories_GOLD.txt
 lineno : 16912
-line : hA_hanwa aham sEnikEH apahqwaH asmi 
+line : hAhanwa aham sEnikEH apahqwaH asmi 
 filename : SA_130_stories_GOLD.txt
 lineno : 16920
 line : vqxXO mAwApawarO mAm prawIkRewe 
@@ -8109,7 +8109,7 @@ lineno : 16958
 line : aXunA vikAryawAm svAm vinaRtAm eva jAnIhi 
 filename : SA_130_stories_GOLD.txt
 lineno : 16967
-line : asmAkam pakRe sammilya svaxeSam prawi Awaf_kakArI Bava 
+line : asmAkam pakRe sammilya svaxeSam prawi AwafkakArI Bava 
 filename : SA_130_stories_GOLD.txt
 lineno : 16977
 line : ayam svaxeSaH eva we SikRiwasya api vikAryawAyAH hewuH Bavawi 
@@ -8142,7 +8142,7 @@ lineno : 17048
 line : kaWam wvam jIviwaH wiRTasi 
 filename : SA_130_stories_GOLD.txt
 lineno : 17055
-line : senAXyakRasya saf_kewena sEnikAH wam nirjane nIwvA mArayanwi 
+line : senAXyakRasya safkewena sEnikAH wam nirjane nIwvA mArayanwi 
 filename : SA_130_stories_GOLD.txt
 lineno : 17065
 line : gulikASabxaH SUnye vilInaH Bavawi iwi 
@@ -8169,7 +8169,7 @@ lineno : 17149
 line : mArge ekawra rAwrO viSrAmaH kalpiwaH 
 filename : SA_130_stories_GOLD.txt
 lineno : 17157
-line : sarveRu supweRu_sawsu ekaH sevakaH AsIw 
+line : sarveRu supweRusawsu ekaH sevakaH AsIw 
 filename : SA_130_stories_GOLD.txt
 lineno : 17166
 line : yaH kenaciw kAraNena ruRtaH AsIw 
@@ -8187,7 +8187,7 @@ lineno : 17199
 line : warhi kecana anye svam sahacaram wawra anavApya wam eva aparAXinam mawvA wasya anveRaNAya nirgawAH 
 filename : SA_130_stories_GOLD.txt
 lineno : 17216
-line : kiyaw-xUre palAyamAnam wam nigqhya we svaSreRTisammuKe upasWApiwavanwaH 
+line : kiyawxUre palAyamAnam wam nigqhya we svaSreRTisammuKe upasWApiwavanwaH 
 filename : SA_130_stories_GOLD.txt
 lineno : 17226
 line : wam xaNdayiwum ca wawaH AxeSam yAciwavanwaH 
@@ -8247,7 +8247,7 @@ lineno : 17422
 line : kinwu gamanalAlasAvaSIBUwAH we gurvAjFayA gqham ganwum prasWiwAH 
 filename : SA_130_stories_GOLD.txt
 lineno : 17432
-line : kiFciw xUram gacCanwaH we mArge prasqwam wIkRNakaNtakAnAm ekam bqhaw-rASim xqRtavanwaH 
+line : kiFciw xUram gacCanwaH we mArge prasqwam wIkRNakaNtakAnAm ekam bqhawrASim xqRtavanwaH 
 filename : SA_130_stories_GOLD.txt
 lineno : 17445
 line : nagnapAxeRu weRu ekaH wawaH AwmAnam surakRya yaWAkaWaFciw agre nirgawaH 
@@ -8262,7 +8262,7 @@ lineno : 17485
 line : yena anyeRAm paWikAnAm we kaNtakAH kaRtaxAyinaH na BaveyuHsambanXaH 
 filename : SA_130_stories_GOLD.txt
 lineno : 17496
-line : weRAm pqRTe pqRTe AgacCan wEH ca SiRyEH saha axqSyamAnaH AcAryaH ixam sarvam apaSyaw_ 
+line : weRAm pqRTe pqRTe AgacCan wEH ca SiRyEH saha axqSyamAnaH AcAryaH ixam sarvam apaSyaw 
 filename : SA_130_stories_GOLD.txt
 lineno : 17512
 line : wAn sarvAn niroXya wqwIyaH vyavahArikaSikRAyAm uwwIrNaH iwi uxGoRya wam gqhe preRiwavAn 
@@ -8313,7 +8313,7 @@ lineno : 17743
 line : anena vexanApIdiwaH guruH wO xvO api SiRyO jadamawI mawvA svasevAwaH xUrIkqwavAn iwi 
 filename : SA_130_stories_GOLD.txt
 lineno : 17758
-line : xvO guruH praWama-SiRye grAmAw svArWI 
+line : xvO guruH praWamaSiRye grAmAw svArWI 
 filename : SA_130_stories_GOLD.txt
 lineno : 17784
 line : apakArI vaSe yAwi upakAreNa kevalam
@@ -8526,7 +8526,7 @@ lineno : 18511
 line : mAwApiwarO puwryE viviXAni bahumUlyAni svarNABURaNAni api xawwavanwO 
 filename : SA_130_stories_GOLD.txt
 lineno : 18521
-line : yaxA eBiH ABURaNEH alaf_kqwA sA pawigqham AyAwA waxA wAM xraRtum AyAwAH prawiveSinyaH sambanXinyaH ca mahilAH ABURaNAnAM wasyAH mAwApiwroH ca bahubahupraSaMsAM kqwavawyaH 
+line : yaxA eBiH ABURaNEH alafkqwA sA pawigqham AyAwA waxA wAM xraRtum AyAwAH prawiveSinyaH sambanXinyaH ca mahilAH ABURaNAnAM wasyAH mAwApiwroH ca bahubahupraSaMsAM kqwavawyaH 
 filename : SA_130_stories_GOLD.txt
 lineno : 18545
 line : vqxXAyE ewaw na arocawa 
@@ -8559,13 +8559,13 @@ lineno : 18643
 line : waxA kaSciw yuvakaH vqxXAm afgulIyakaviRaye pqRtavAn 
 filename : SA_130_stories_GOLD.txt
 lineno : 18652
-line : wawsambanXe ca kAMSciw_ praSaMsASabxAn api kaWiwavAn 
+line : wawsambanXe ca kAMSciw praSaMsASabxAn api kaWiwavAn 
 filename : SA_130_stories_GOLD.txt
 lineno : 18661
 line : vqxXA svaM SiraH sPotayanwI avocaw 
 filename : SA_130_stories_GOLD.txt
 lineno : 18669
-line : are_mUrKa pUrvam eva kiM na afgulIyakaM praSaMsiwavAn 
+line : aremUrKa pUrvam eva kiM na afgulIyakaM praSaMsiwavAn 
 filename : SA_130_stories_GOLD.txt
 lineno : 18679
 line : ahaM svahaswena kiM svaM gqham agninA ayojayiRyam iwi kaWayiwvA uccEH uccEH roxiwuM pravqwwA iwi 
@@ -8580,7 +8580,7 @@ lineno : 18736
 line : paranwu BikRArWaM saH nagaraM eva gacCawi sma 
 filename : SA_130_stories_GOLD.txt
 lineno : 18746
-line : wasya BakweRu sax_gqhasWAH aXikAriNaH karmacAriNaH ca Asan 
+line : wasya BakweRu saxgqhasWAH aXikAriNaH karmacAriNaH ca Asan 
 filename : SA_130_stories_GOLD.txt
 lineno : 18756
 line : mArge ekasyAH veSyAyAH AvAsaH AsIw 
@@ -8712,7 +8712,7 @@ lineno : 19151
 line : senApawiH ekAM sunxarIM yuvawiM AxAya upasWiwaH 
 filename : SA_130_stories_GOLD.txt
 lineno : 19160
-line : yuvawiH avanawamuKI saf_kocaSIlA Bayena kampamAnA ca avarwawa 
+line : yuvawiH avanawamuKI safkocaSIlA Bayena kampamAnA ca avarwawa 
 filename : SA_130_stories_GOLD.txt
 lineno : 19170
 line : kroXena rakwamuKaH SivAjiH senApawiM GoraSabxEH vininxan Barwsayan ca kaWiwavAn 
@@ -8808,7 +8808,7 @@ lineno : 19529
 line : surasAmuKam iva ekawaH varXamAnA mahArGawA xrOpaxISAtikA iva anyawaH anwahInA niwyaM navanavAnAm upaBogyavaswUnAM lipsA xvAByAm api uwpIdiwaH
 filename : SA_130_stories_GOLD.txt
 lineno : 19548
-line : sureSaH gqhawyAge eva kalyANam_ amanyawa 
+line : sureSaH gqhawyAge eva kalyANam amanyawa 
 filename : SA_130_stories_GOLD.txt
 lineno : 19556
 line : vinA sUcanAxAnaM yaH saH ekavAraM nirgawaH nirgawaH eva 
@@ -8823,7 +8823,7 @@ lineno : 19591
 line : wasya vivaraNaM xawwam aBavaw 
 filename : SA_130_stories_GOLD.txt
 lineno : 19598
-line : qNaSoXanArWaM wasmin pawre nirxiRtam AsIw_ 
+line : qNaSoXanArWaM wasmin pawre nirxiRtam AsIw 
 filename : SA_130_stories_GOLD.txt
 lineno : 19606
 line : xvO api mAwApuwrO waM pUrvaM nagare eva anviRtavanwO 
@@ -8865,7 +8865,7 @@ lineno : 19755
 line : sureSaH wasya mAwA sureSaH icCAH 
 filename : SA_130_stories_GOLD.txt
 lineno : 19783
-line : pawnyAH AgraheNa ekaH sAmAnyaH vewanaBogI karmacArI_san api mama miwraM svasya KAxyapeyapariXeyAxisAmagrIRu vyaye nyUnawAM kqwvA waWA iwaswawaH qNaM gqhIwvA ca svasmE ekaM gqhaM krIwavAn
+line : pawnyAH AgraheNa ekaH sAmAnyaH vewanaBogI karmacArIsan api mama miwraM svasya KAxyapeyapariXeyAxisAmagrIRu vyaye nyUnawAM kqwvA waWA iwaswawaH qNaM gqhIwvA ca svasmE ekaM gqhaM krIwavAn
 filename : SA_130_stories_GOLD.txt
 lineno : 19810
 line : BAtakagqhaM pariwyajya wawra nivaswum api prArabXavAn 
@@ -8907,7 +8907,7 @@ lineno : 19948
 line : sAyaM gqhaM prawyAvqwwaH pawnImuKAw eva ixaM vqwwaM jFAwavAn mama suhqw 
 filename : SA_130_stories_GOLD.txt
 lineno : 19961
-line : viRaNNahqxayaH saH pawnIM kevalam ixam eva akaWayaw eva xinAw mama miwrapawnI Awmakqwaye paScAwwapanwI iva vikRipwAvasWAM prApwA aswi iwi yaw yaxi kaSciw asmax-gqhe api evaM vyavAhariRyaw warhi kIxqSI asmaxIyA xurgawiH aBaviRyaw 
+line : viRaNNahqxayaH saH pawnIM kevalam ixam eva akaWayaw eva xinAw mama miwrapawnI Awmakqwaye paScAwwapanwI iva vikRipwAvasWAM prApwA aswi iwi yaw yaxi kaSciw asmaxgqhe api evaM vyavAhariRyaw warhi kIxqSI asmaxIyA xurgawiH aBaviRyaw 
 filename : SA_130_stories_GOLD.txt
 lineno : 19993
 line : waxA wu sA na kiFciw ukwavawI 
@@ -8925,7 +8925,7 @@ lineno : 20041
 line : vewanaBogI wasya pawiH pawnI kasyaciw 
 filename : SA_130_stories_GOLD.txt
 lineno : 20069
-line : viSvakarmaNA vAraM vAraM navanavarUpe nirmiwam api sarvasuKasuviXA-sampannam anupamaM BavanaM mahenxrAya yaxA na eva arocawa waxA KinnamanAH viSvakarmA viRNum upagawya samasyAsamAXAnaM paryapqcCaw
+line : viSvakarmaNA vAraM vAraM navanavarUpe nirmiwam api sarvasuKasuviXAsampannam anupamaM BavanaM mahenxrAya yaxA na eva arocawa waxA KinnamanAH viSvakarmA viRNum upagawya samasyAsamAXAnaM paryapqcCaw
 filename : SA_130_stories_GOLD.txt
 lineno : 20093
 line : mAyApawiH wam ASvAsya nyavarwayaw 
@@ -9270,7 +9270,7 @@ lineno : 21402
 line : anwe wasya puwravaXUH wasmE parAmarSaM xawwavawI 
 filename : SA_130_stories_GOLD.txt
 lineno : 21411
-line : piwaH wawaH ayaM varaH yAcyawAM yaw asmax-gqhe SAnwiH prema ca yaWApUrvaM wiRTawu 
+line : piwaH wawaH ayaM varaH yAcyawAM yaw asmaxgqhe SAnwiH prema ca yaWApUrvaM wiRTawu 
 filename : SA_130_stories_GOLD.txt
 lineno : 21426
 line : SreRTine ayaM parAmarSaH BqSam arocawa 
@@ -9441,7 +9441,7 @@ lineno : 22136
 line : SqNu wAwa wrikAlaxarSine sarvasixXisampannAya vexavyAsAya kim api xuRkaraM na AsIw 
 filename : SA_130_stories_GOLD.txt
 lineno : 22149
-line : svagranWAnAM leKanArWaM saH ASuleKakaM Saf_karapuwraM SrIgaNeSaM wapasA sanwoRya niyukwaM kqwavAn 
+line : svagranWAnAM leKanArWaM saH ASuleKakaM SafkarapuwraM SrIgaNeSaM wapasA sanwoRya niyukwaM kqwavAn 
 filename : SA_130_stories_GOLD.txt
 lineno : 22162
 line : gaNeSaH wasya avEwanikaH leKakaH AsIw 
@@ -9462,10 +9462,10 @@ lineno : 22230
 line : vexavyAsaH mahAn cawuraH AsIw 
 filename : SA_130_stories_GOLD.txt
 lineno : 22237
-line : agre leKanIyaM viRayaM vicinwayiwuM samayam apekRamANaH saH maXye maXye svaleKe kAzSciw kUtaS_lokAn rakRawi sma 
+line : agre leKanIyaM viRayaM vicinwayiwuM samayam apekRamANaH saH maXye maXye svaleKe kAzSciw kUtaSlokAn rakRawi sma 
 filename : SA_130_stories_GOLD.txt
 lineno : 22254
-line : yena yAvaw gaNeSaH weRAm ASayaM jFAwvA agre leKayiwuM saf_kewayewa wAvaw saH api svaleKanIyaviRayaM saf_kalayawu 
+line : yena yAvaw gaNeSaH weRAm ASayaM jFAwvA agre leKayiwuM safkewayewa wAvaw saH api svaleKanIyaviRayaM safkalayawu 
 filename : SA_130_stories_GOLD.txt
 lineno : 22271
 line : anayA kalayA wvayA upari carciwAH samaswAH api granWAH BagavawA vexavyAsena viracayya lipibaxXAH kqwAH 
@@ -9669,7 +9669,7 @@ lineno : 22971
 line : kinwu kiyax xUraM gawaM waM punaH AhUya pUrvavaw eva sawAdanaM niragamayaw 
 filename : SA_130_stories_GOLD.txt
 lineno : 22985
-line : evaM saH 10-20vAraM kqwavAn 
+line : evaM saH vAraM kqwavAn 
 filename : SA_130_stories_GOLD.txt
 lineno : 22992
 line : anwe wasya kroXahInawAM praSAnwawAM ca xqRtvA wasya caraNayoH nipawya svaXqRtawAyAH kqwe vAraM vAraM wawaH kRamAm ayAcawa 
@@ -9744,7 +9744,7 @@ lineno : 23267
 line : waxA BojaH nagarIsurakRAvyavasWAM xraRtuM nirgawaH AsIw 
 filename : SA_130_stories_GOLD.txt
 lineno : 23276
-line : cOraH sarvAM svABIRtAM sAmagrIM saf_kaliwAM kqwvA caliwum eva uxyawaH aBavaw yaw wawra ewasmin pAwre rakRiwe miRtAnne wasya xqRtiH nyapawaw 
+line : cOraH sarvAM svABIRtAM sAmagrIM safkaliwAM kqwvA caliwum eva uxyawaH aBavaw yaw wawra ewasmin pAwre rakRiwe miRtAnne wasya xqRtiH nyapawaw 
 filename : SA_130_stories_GOLD.txt
 lineno : 23298
 line : saH wax BakRiwavAn 
@@ -9774,7 +9774,7 @@ lineno : 23393
 line : xurmuKaH sAXuH xurmuKaH rAjA xurmuKaH 
 filename : SA_130_stories_GOLD.txt
 lineno : 23421
-line : are_re kim ixaM kriyawe
+line : arere kim ixaM kriyawe
 filename : SA_130_stories_GOLD.txt
 lineno : 23428
 line : AwmahawyA wu mahaw pApam aswi 
@@ -9783,7 +9783,7 @@ lineno : 23436
 line : viramyawAM viramyawAm 
 filename : SA_130_stories_GOLD.txt
 lineno : 23441
-line : akasmAw mahAwmanaH uxboXanaM SruwvA kif_karwavyavimUDaH galapASaM vimucya akaWayaw 
+line : akasmAw mahAwmanaH uxboXanaM SruwvA kifkarwavyavimUDaH galapASaM vimucya akaWayaw 
 filename : SA_130_stories_GOLD.txt
 lineno : 23452
 line : mahAwman kiM kriyawAm 
@@ -10083,7 +10083,7 @@ lineno : 24412
 line : warpaNaM kurvawaH eva wasya haswO pUrvavaw eva prakatO aBavawAm 
 filename : SA_130_stories_GOLD.txt
 lineno : 24424
-line : prawyAgawya saH SafKaM prasannaH_san axarSayaw 
+line : prawyAgawya saH SafKaM prasannaHsan axarSayaw 
 filename : SA_130_stories_GOLD.txt
 lineno : 24432
 line : SafKaH kaWiwavAn 
@@ -10119,7 +10119,7 @@ lineno : 24525
 line : BaviRye kaxApi XarmaviruxXaM na Acara 
 filename : SA_130_stories_GOLD.txt
 lineno : 24533
-line : ayam eva we mama prANapriyAya sahoxarAya upaxeSaH aswi iwi SafKaH liKiwaM samAS_liRya avocaw iwi 
+line : ayam eva we mama prANapriyAya sahoxarAya upaxeSaH aswi iwi SafKaH liKiwaM samASliRya avocaw iwi 
 filename : SA_130_stories_GOLD.txt
 lineno : 24550
 line : liKiwaH wawra rAjA liKiwasya iyaM 
@@ -10221,7 +10221,7 @@ lineno : 24896
 line : agrime sWERaNe asmawkakRe ekaH prODaH janaH praviRtaH 
 filename : SA_130_stories_GOLD.txt
 lineno : 24907
-line : rElayAne prasWiwe_sawi saH vAlmIkirAmAyaNaM niHsArya paTiwuM prAvarwwawa 
+line : rElayAne prasWiwesawi saH vAlmIkirAmAyaNaM niHsArya paTiwuM prAvarwwawa 
 filename : SA_130_stories_GOLD.txt
 lineno : 24917
 line : paScAw pqRtaH saH kaWiwavAn yaw vigawacawvAriMSaxvarReByaH ahaM rAmAyaNasya niwyaM pArAyaNaM kurvan asmi 
@@ -10323,10 +10323,10 @@ lineno : 25221
 line : paranwu gafgAguruH na eva apasqwaH 
 filename : SA_130_stories_GOLD.txt
 lineno : 25229
-line : paFcapaNAnAm_ eva xAnaM karwuM waM bAXyam akuruwa 
+line : paFcapaNAnAm eva xAnaM karwuM waM bAXyam akuruwa 
 filename : SA_130_stories_GOLD.txt
 lineno : 25239
-line : waxA kqpaNaH svagqhasya saf_kewaM xawvA wawra niSciwaxivase wam upasWAwum akaWayaw 
+line : waxA kqpaNaH svagqhasya safkewaM xawvA wawra niSciwaxivase wam upasWAwum akaWayaw 
 filename : SA_130_stories_GOLD.txt
 lineno : 25252
 line : gafgAguruH waWA eva kqwavAn 
@@ -10359,7 +10359,7 @@ lineno : 25322
 line : wasmE svaskanXaM xawvA eva gamiRyAmi iwi ukwvA wawra eva saMsWiwaH 
 filename : SA_130_stories_GOLD.txt
 lineno : 25335
-line : kqpaNasya saf_kewena gqhe roxanaM vilapanaM ca prArabXam 
+line : kqpaNasya safkewena gqhe roxanaM vilapanaM ca prArabXam 
 filename : SA_130_stories_GOLD.txt
 lineno : 25345
 line : bAhyAH sambanXinaH ca SavayAwrAyAM sammeliwum AgacCan 
@@ -10371,7 +10371,7 @@ lineno : 25363
 line : SavaH ciwAyAm upasWApiwaH 
 filename : SA_130_stories_GOLD.txt
 lineno : 25369
-line : kqpaNaH puwraM saf_kewena AhUwavAn pqRtavAn ca 
+line : kqpaNaH puwraM safkewena AhUwavAn pqRtavAn ca 
 filename : SA_130_stories_GOLD.txt
 lineno : 25378
 line : saH gafgAguruH gawaH na vA 
@@ -10515,7 +10515,7 @@ lineno : 25906
 line : saH kaToraM wapaH karowi sma 
 filename : SA_130_stories_GOLD.txt
 lineno : 25914
-line : kinwu punaH api wasmE BagavAn_ svaxarSanaM na eva xawwavAn 
+line : kinwu punaH api wasmE BagavAn svaxarSanaM na eva xawwavAn 
 filename : SA_130_stories_GOLD.txt
 lineno : 25926
 line : anena asanwuRtaH saH saxA prArWayawe sma 
@@ -10589,9 +10589,6 @@ filename : SA_130_stories_GOLD.txt
 lineno : 26113
 line : kaWam iyaM xarixrawA Bavawe AgawA 
 filename : SA_130_stories_GOLD.txt
-lineno : 26121
-line : BikRukaH uxawaraw 
-filename : SA_130_stories_GOLD.txt
 lineno : 26130
 line : ixaM kaWayAmi 
 filename : SA_130_stories_GOLD.txt
@@ -10620,7 +10617,7 @@ lineno : 26223
 line : mAM parivAre roxiwuM kaSciw api na eva aswi 
 filename : SA_130_stories_GOLD.txt
 lineno : 26234
-line : wawaH ahaM BikRukaH BUwvA iwaswawaH Bagavax-guNAn gAyan pariBramAmi 
+line : wawaH ahaM BikRukaH BUwvA iwaswawaH BagavaxguNAn gAyan pariBramAmi 
 filename : SA_130_stories_GOLD.txt
 lineno : 26245
 line : BakwajanEH yawkiFciw xawwena AwmAnaM XArayAmi ca 
@@ -10812,7 +10809,7 @@ lineno : 26984
 line : smaraNaSakwiH wasyAH wIvrA AsIw 
 filename : SA_130_stories_GOLD.txt
 lineno : 26991
-line : ekaxA sA gqhaxAsIM imaM S_lokaM SrAviwavawI 
+line : ekaxA sA gqhaxAsIM imaM SlokaM SrAviwavawI 
 filename : SA_130_stories_GOLD.txt
 lineno : 27000
 line : saha sA vixaXIwa na kriyAm 
@@ -10824,7 +10821,7 @@ lineno : 27022
 line : sA api wawaH praBAviwA 
 filename : SA_130_stories_GOLD.txt
 lineno : 27029
-line : imam eva S_lokam anyawra yawra sA kAryaM karowi sma wawrawyAM gqhasvAminIm aSrAvayaw 
+line : imam eva Slokam anyawra yawra sA kAryaM karowi sma wawrawyAM gqhasvAminIm aSrAvayaw 
 filename : SA_130_stories_GOLD.txt
 lineno : 27044
 line : sA wu svaSayanakakRe sWUlasWUlAkRareRu imaM leKayiwvA upayukwasWAne surakRiwavawI 
@@ -10833,7 +10830,7 @@ lineno : 27055
 line : xviwIyasmin eva xine vyApArAya xaSapaFcaxaSavarReByaH vixeSe kqwapravAsaH wasyAH pawiH rAwrO prawinivqwwaH 
 filename : SA_130_stories_GOLD.txt
 lineno : 27069
-line : saH pawnyAH kakRe waruNaM hqRtaM puRtaM yuvakaM SayAnaM xqRtvA pawnIM ca xurAcAriNIM mawvA yAvaw eva waM hanwuM pravqwwaH wAvaw eva wasya xqRtO uparyukwaH S_lokaH ApawiwaH 
+line : saH pawnyAH kakRe waruNaM hqRtaM puRtaM yuvakaM SayAnaM xqRtvA pawnIM ca xurAcAriNIM mawvA yAvaw eva waM hanwuM pravqwwaH wAvaw eva wasya xqRtO uparyukwaH SlokaH ApawiwaH 
 filename : SA_130_stories_GOLD.txt
 lineno : 27097
 line : viramya saH kiFciw vicArayiwuM pravqwwaH 
@@ -10848,7 +10845,7 @@ lineno : 27141
 line : SvaSuraH api anena AwmAnaM gOravAnviwam amanyawa 
 filename : SA_130_stories_GOLD.txt
 lineno : 27150
-line : punaH prAyaSciwwAvaXO samApwe gqhaM prawyAvqwwaM BAraviM piwA api pravahaxAnanxASrupUraH punaH punaH samAS_liRya BUri BUri mukwakaNTam aBinanxiwavAn iwi 
+line : punaH prAyaSciwwAvaXO samApwe gqhaM prawyAvqwwaM BAraviM piwA api pravahaxAnanxASrupUraH punaH punaH samASliRya BUri BUri mukwakaNTam aBinanxiwavAn iwi 
 filename : SA_130_stories_GOLD.txt
 lineno : 27170
 line : piwA anena piwA BAraviH asya 
@@ -11028,7 +11025,7 @@ lineno : 27822
 line : awaH eva upakArakAn asmAn saH mahArAjena samamAnayaw 
 filename : SA_130_stories_GOLD.txt
 lineno : 27832
-line : pqWvImAwA weRAm_ imAM nirAXAravArwAM na asahawa 
+line : pqWvImAwA weRAm imAM nirAXAravArwAM na asahawa 
 filename : SA_130_stories_GOLD.txt
 lineno : 27841
 line : sA vyaxIryawa 
@@ -11244,7 +11241,7 @@ lineno : 28566
 line : ixaM xqRtvA wu sA xevare awiruRtA api muKena waM kim api na kaWiwavawI 
 filename : SA_130_stories_GOLD.txt
 lineno : 28582
-line : apiwu Awmajam eva af_ke uwWApya svaprakoRTe AnIya paryaf_ke sA lAlayanwI SAyiwavawI 
+line : apiwu Awmajam eva afke uwWApya svaprakoRTe AnIya paryafke sA lAlayanwI SAyiwavawI 
 filename : SA_130_stories_GOLD.txt
 lineno : 28596
 line : svalpe eva samaye sASrunayanA xevarapawnI Agawya svaBarwwuH xurAcArAya wAM kRamAM yAciwavawI 
@@ -11496,13 +11493,13 @@ lineno : 143
 line : mune wvayA ye bahavaH xurlaBAH guNAH kIrwiwAH
 filename : SR_GOLD.txt
 lineno : 154
-line : ahaM buxX_vA vakRyAmi
+line : ahaM buxXvA vakRyAmi
 filename : SR_GOLD.txt
 lineno : 161
 line : wEH yukwaH naraH SrUyawAm
 filename : SR_GOLD.txt
 lineno : 169
-line : he mune niyawAwmA mahAvIryaH xyuwimAn XqwimAn vaSI ikRvAkuvaMSapraBavaH rAmaH nAma janEH SruwaH- aswi 
+line : he mune niyawAwmA mahAvIryaH xyuwimAn XqwimAn vaSI ikRvAkuvaMSapraBavaH rAmaH nAma janEH SruwaH aswi 
 filename : SR_GOLD.txt
 lineno : 185
 line :  rAmaH buxXimAn nIwimAn vAggmI SrImAn SawrunibarhaNaH vipulAMsaH mahAbAhuH kambugrIvaH mahAhanuH ca aswi 
@@ -11526,7 +11523,7 @@ lineno : 281
 line :  rAmaH sarvaSAswrArWawawvajFaH smqwimAn prawiBAvAn sarvalokapriyaH sAXuH axInAwmA vicakRaNaH ca aswi 
 filename : SR_GOLD.txt
 lineno : 295
-line :  rAmaH sarvaxA saxBiH samuxraH iva aBigawaH- Bavawi 
+line :  rAmaH sarvaxA saxBiH samuxraH iva aBigawaH Bavawi 
 filename : SR_GOLD.txt
 lineno : 305
 line :  saH AryaH sarvasamaH saxA eva priyaxarSanaH ca aswi 
@@ -11562,7 +11559,7 @@ lineno : 458
 line : janakasya kule jAwA xevamAyA iva nirmiwA rAmasya xayiwA niwyaM prANasamA hiwA BAryA sarvalakRaNasampannA nArINAm uwwamA vaXUH sIwA api yaWA SaSinaM rohiNI anugawA waWA rAmam anugawA
 filename : SR_GOLD.txt
 lineno : 487
-line : pOrEH piwrA-xaSaraWena ca xUram anugawaH XarmAwmA rAmaH Sqfgaverapure niRAxAXipawiM priyaM guham AsAxya gafgAkule sUwaM vyasarjayaw
+line : pOrEH piwrAxaSaraWena ca xUram anugawaH XarmAwmA rAmaH Sqfgaverapure niRAxAXipawiM priyaM guham AsAxya gafgAkule sUwaM vyasarjayaw
 filename : SR_GOLD.txt
 lineno : 506
 line : guhena lakRmaNena sIwayA ca sahiwaH rAmaH vanena vanaM gawvA bahUxakAH naxIH wIrwvA BaraxvAjasya SAsanAw ciwrakUtam anuprApya vane ramyam AvasaWaM akarow 
@@ -11595,7 +11592,7 @@ lineno : 644
 line : Barawe gawe SrImAn sawyasanXaH jiwenxriyaH ekAgraH rAmaH nAgarasya janasya ca wawra Agamanam punaH AlakRya xaNdakAn praviveSa ha
 filename : SR_GOLD.txt
 lineno : 665
-line : rAjIvalocanaH rAmaH mahAraNyaM praviSya virAXaM rAkRasaM hawvA SaraBafgaM suwIkRNam agaswyaM waWA-ca agaswyaBrAwaraM xaxarSa ha
+line : rAjIvalocanaH rAmaH mahAraNyaM praviSya virAXaM rAkRasaM hawvA SaraBafgaM suwIkRNam agaswyaM waWAca agaswyaBrAwaraM xaxarSa ha
 filename : SR_GOLD.txt
 lineno : 683
 line : paramaprIwaH rAmaH agaswyavacanAw SarAsanaM EnxraM Kadgam akRayasAyakO wUNI ca jagrAha
@@ -11616,10 +11613,10 @@ lineno : 751
 line : wawaH SUrpaNaKAvAkyAx uxyukwAn sarvarAkRasAn wawra viSiRtaM KaraM wriSirasaM xURaNaM ca rAkRasaM weRAM paxAnugAn ca raNe eva rAmaH nijaGAna virupiwA 
 filename : SR_GOLD.txt
 lineno : 774
-line : wasmin vane nivasawA rAmeNa janasWAnanivAsinAM rakRasAM cawurxaSa-sahasrANi nihawAni-Asan
+line : wasmin vane nivasawA rAmeNa janasWAnanivAsinAM rakRasAM cawurxaSasahasrANi nihawAniAsan
 filename : SR_GOLD.txt
 lineno : 786
-line : wawaH jFAwivaXaM SruwvA rAvaNaH kroXamUrCiwaH aBavaw nihawAni-Asan 
+line : wawaH jFAwivaXaM SruwvA rAvaNaH kroXamUrCiwaH aBavaw nihawAniAsan 
 filename : SR_GOLD.txt
 lineno : 797
 line :  saH mArIcaM nAma rAkRasaM sahAyaM varayAmAsa
@@ -11631,7 +11628,7 @@ lineno : 835
 line :  rAvaNaH wena mAyAvinA nqpAwmajO xUram apavAhya gqXraM jatAyuRaM hawvA rAmasya BAryAM jahAra
 filename : SR_GOLD.txt
 lineno : 851
-line : gqXraM ca nihawaM xqRt_vA mEWilIM ca hqwAM SruwvA SokasanwapwaH AkulenxriyaH rAGavaH vilalApa
+line : gqXraM ca nihawaM xqRtvA mEWilIM ca hqwAM SruwvA SokasanwapwaH AkulenxriyaH rAGavaH vilalApa
 filename : SR_GOLD.txt
 lineno : 867
 line : wawaH wena eva Sokena yukwaH rAGavaH gqXraM jatAyuRaM xagXvA vane sIwAM mArgamANaH rUpeNa vikqwaM GoraxarSanaM kabanXaM nAma rAkRasaM sanxaxarSa ha vilalApa 
@@ -11655,7 +11652,7 @@ lineno : 942
 line : pampAwIre vAnareNa hanumawA safgawaH
 filename : SR_GOLD.txt
 lineno : 950
-line : hanumaxvacanAw ca-eva sugrIveNa samAgawaH 
+line : hanumaxvacanAw caeva sugrIveNa samAgawaH 
 filename : SR_GOLD.txt
 lineno : 959
 line : mahAbalaH rAmaH sugrIvAya AxiwaH waw sarvam aSaMsaw
@@ -11673,10 +11670,10 @@ lineno : 1006
 line : waxA ca rAmeNa vAlivaXaM prawi prawijFAwam Avexiwama
 filename : SR_GOLD.txt
 lineno : 1017
-line : vAnaraH sugrIvaH rAGave vIryeNa niwyaM SafkiwaH-AsIw ca prawijFAwam 
+line : vAnaraH sugrIvaH rAGave vIryeNa niwyaM SafkiwaHAsIw ca prawijFAwam 
 filename : SR_GOLD.txt
 lineno : 1029
-line :  saH wawra vAlinaH balaM ca kaWayAmAsa SafkiwaH-AsIw 
+line :  saH wawra vAlinaH balaM ca kaWayAmAsa SafkiwaHAsIw 
 filename : SR_GOLD.txt
 lineno : 1040
 line : sugrIvaH rAGavaprawyayArWaM wu mahAparvawasanniBaM xunxuBeH uwwamaM kAyaM xarSayAmAsa
@@ -11718,7 +11715,7 @@ lineno : 1206
 line :  wawaH hanumAn aBijFAnaM nivexayiwvA pravqwwiM ca rAmasya vinivexya vExahIM samASvAsya ca woraNaM marxayAmAsa xaxarSa 
 filename : SR_GOLD.txt
 lineno : 1224
-line :  saH-hanumAn paFca senAgragAn sapwa manwrisuwAn ca hawvA SUram akRam api niRpiRya grahaNaM samupAgamaw
+line :  saHhanumAn paFca senAgragAn sapwa manwrisuwAn ca hawvA SUram akRam api niRpiRya grahaNaM samupAgamaw
 filename : SR_GOLD.txt
 lineno : 1241
 line :  wawaH hanumAn pEwAmahAw varAw aswreNa AwmAnam unmukwaM jFAwvA yanwriNaH wAn rAkRasAn yaxqcCayA marRayan rAvaNaM prApwavAn samupAgamaw 
@@ -11802,13 +11799,13 @@ lineno : 1577
 line : nagarANi rARtrANi ca XanaXAnyayuwAni BaviRyanwi 
 filename : SR_GOLD.txt
 lineno : 1586
-line : sarve waWA pramuxiwAH-BaviRyanwi yaWA kqwayuge Asan
+line : sarve waWA pramuxiwAHBaviRyanwi yaWA kqwayuge Asan
 filename : SR_GOLD.txt
 lineno : 1596
-line : mahAyaSAH rAGavaH aSvameXaSawEH bahusuvarNakEH iRt_vA gavAM kot_yayuwaM asaMKyeya XanaM ca vixvaxByaH brAhmaNeByaH viXiparvUkaM xawwvA rAjavaMSAn SawaguNAn sWApayiRyawi
+line : mahAyaSAH rAGavaH aSvameXaSawEH bahusuvarNakEH iRtvA gavAM kotyayuwaM asaMKyeya XanaM ca vixvaxByaH brAhmaNeByaH viXiparvUkaM xawwvA rAjavaMSAn SawaguNAn sWApayiRyawi
 filename : SR_GOLD.txt
 lineno : 1617
-line : asmin loke cAwurvarNyaM sve-sve Xarme niyokRyawi ca sWApayiRyawi 
+line : asmin loke cAwurvarNyaM svesve Xarme niyokRyawi ca sWApayiRyawi 
 filename : SR_GOLD.txt
 lineno : 1629
 line : rAmaH xaSavarRasahasrANi xaSavarRaSawAni ca rAjyam upAsiwvA brahmalokaM prayAsyawi
@@ -11820,7 +11817,7 @@ lineno : 1658
 line : ewax AyuRyam AKyAnaM rAmAyaNaM paTan naraH sapuwrapOwraH sagaNaH prewya svarge mahIyawe
 filename : SR_GOLD.txt
 lineno : 1673
-line : xvijaH paTan vAgqRaBawvam IyAw-syAw
+line : xvijaH paTan vAgqRaBawvam IyAwsyAw
 filename : SR_GOLD.txt
 lineno : 1681
 line : vaNigjanaH paNyaPalawvam IyAw

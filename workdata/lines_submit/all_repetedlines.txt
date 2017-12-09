@@ -23,5 +23,8 @@ filename : SA_130_stories_GOLD.txt
 lineno : 19122
 line : Am Am 
 filename : SA_130_stories_GOLD.txt
+lineno : 26121
+line : BikRukaH uxawaraw 
+filename : SA_130_stories_GOLD.txt
 lineno : 26126
 line : Am 
