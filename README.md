@@ -26,6 +26,9 @@
 - input files from folders(unique integer number)from dir workdata/lines_submit/wrong_lines/sorteddata/ , workdata/lines_submit/correct_lines/sorteddata/
 - output to same folders 
 
+## display.ipynb
+- just check and view
+
 
 # daily work
 ##23/11/17 
