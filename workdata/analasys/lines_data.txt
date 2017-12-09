@@ -1,0 +1,5 @@
+total_lines = 3953
+unique lines = 3943
+input errors = 1
+complete analasys = 3002
+incomplete analasys = 940
