@@ -3,6 +3,9 @@
 ## project.zip
 - zip of all files 
 
+## showdata.ipynb
+- notebook to show data for given folder name in  workdata/lines_submit/wrong_lines/sorteddata/ or workdata/lines_submit/correct_lines/sorteddata/
+
 ## sortinputdatafile.ipynb
 - get all lines from dir( = workdata/GOLD_SENT_WIT_POS/) files
 - store them in dir( = workdata/lines_submit/) as all_lines.txt,all_uniquelines.txt,all_repeated.lines.txt
