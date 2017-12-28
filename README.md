@@ -89,7 +89,20 @@
  ##08/12/17
  -got sandhi and stored possible values.
  
- 
+ ##09/12/17
+-adjusted to show tables 
+
+##10 -19 /12/17
+-left for home
+
+##20 - 23/12/2007
+-worked of getting rid of problem words with '_','m/M' to minimize pbwords 
+
+##24-25/12/2007
+-not done work (had some other work to be completed)
+
+##26 - 27/12/2007
+-worked on mapping to map every word in dependency structure
  
    
    
