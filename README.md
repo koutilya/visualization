@@ -111,6 +111,6 @@
 -writing code to get path of combination words and get mapped,and tryin to get a spread sheet to show different cases
    
 ##6-7/1/2008
--got path for 1334 lines combinaion words and changed them for next path .
+-got path for 1334 lines combinaion words and changed them for next phase.
 
 
