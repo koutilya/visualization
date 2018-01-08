@@ -104,5 +104,13 @@
 ##26 - 27/12/2007
 -worked on mapping to map every word in dependency structure
  
+##28-29/12/2007
+-got 1361 lines fully mapped out of 3227 and started trying to divide remaining lines 
+
+##2-5/1/2008
+-writing code to get path of combination words and get mapped,and tryin to get a spread sheet to show different cases
    
-   
+##6-7/1/2008
+-got path for 1334 lines combinaion words and changed them for next path .
+
+
