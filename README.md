@@ -112,5 +112,6 @@
    
 ##6-7/1/2008
 -got path for 1334 lines combinaion words and changed them for next phase.
-
+##8-9/1/2008
+-classifying remaining lines to sets 
 
