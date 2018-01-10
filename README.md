@@ -113,6 +113,6 @@
 ##6-7/1/2008
 -got path for 1334 lines combinaion words and changed them for next phase.
 ##8-9/1/2008
--classifying remaining lines to sets 
+-classifying remaining lines to sets and got 1434 corrected for now out of 1776
 ##10/1/2018
 -classified phase2 probs,start to classify phase1 probs
