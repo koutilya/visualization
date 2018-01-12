@@ -116,3 +116,5 @@
 -classifying remaining lines to sets and got 1434 corrected for now out of 1776
 ##10/1/2018
 -classified phase2 probs,start to classify phase1 probs
+##11/1/2018
+-corected mistake in files giving to phase 3. trying to understand phase1 problems .
