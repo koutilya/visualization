@@ -118,3 +118,7 @@
 -classified phase2 probs,start to classify phase1 probs
 ##11/1/2018
 -corected mistake in files giving to phase 3. trying to understand phase1 problems .
+##12/1/2018
+-trying to identify patterns in phase1 error words
+##13/1/2018
+-clarified missingeditdistance123 words in phase2 . ...
