@@ -112,13 +112,26 @@
    
 ##6-7/1/2008
 -got path for 1334 lines combinaion words and changed them for next phase.
+
 ##8-9/1/2008
 -classifying remaining lines to sets and got 1434 corrected for now out of 1776
+
 ##10/1/2018
 -classified phase2 probs,start to classify phase1 probs
+
 ##11/1/2018
 -corected mistake in files giving to phase 3. trying to understand phase1 problems .
+
 ##12/1/2018
 -trying to identify patterns in phase1 error words
+
 ##13/1/2018
--clarified missingeditdistance123 words in phase2 . ...
+-clarified missingeditdistance123 words in phase2 .
+##14/1/2018-15/1/2019
+-checking phase1 problem words manually to understand
+##16/1/2018
+-done calculating dep,pos,how many from phase1to phase3,sentences <3 words and started classification phase1 problem words
+##17/1/2018
+-classified about 80/600 words 
+##18/1/2018
+-changing dep with ? corrected,further clasifying words now about 100/600
