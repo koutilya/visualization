@@ -127,11 +127,16 @@
 
 ##13/1/2018
 -clarified missingeditdistance123 words in phase2 .
+
 ##14/1/2018-15/1/2019
 -checking phase1 problem words manually to understand
+
 ##16/1/2018
 -done calculating dep,pos,how many from phase1to phase3,sentences <3 words and started classification phase1 problem words
+
 ##17/1/2018
 -classified about 80/600 words 
+
 ##18/1/2018
 -changing dep with ? corrected,further clasifying words now about 100/600
+
