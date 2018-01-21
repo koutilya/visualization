@@ -140,3 +140,11 @@
 ##18/1/2018
 -changing dep with ? corrected,further clasifying words now about 100/600
 
+##19/1/2018
+-started newly classification . try to organize my work neatly in docs
+
+##20/1/2018
+-done classification . completed small work given that day .
+
+##21/12018
+-working on dep -relation .
