@@ -1,0 +1,1054 @@
+mAm mama puwrasya aham samskqwajFe 
+
+aham
+ANALYSIS:
+1.	mAm	SN	xraRtum,gqhe
+2.	mama	SN	puwraH,kim
+3.	puwrasya	NP	viRaye,AganwukaH
+4.	aham	SN	wam,kim
+5.	samskqwajFe		asamskqwajFe,ca
+
+
+
+yuvakasya sAXuH Barwsanena gqhasWaH sawyAH 
+
+sAXuH
+ANALYSIS:
+1.	yuvakasya		manaH,uxvignam
+2.	sAXuH	NV	wam,kim
+3.	Barwsanena		yuvakaH,kim
+4.	gqhasWaH	NP	yuvakena,saha
+5.	sawyAH		vERNavasanwaH,kim
+
+
+
+pawiH cOraH maXumakRikAH cOraH yukwibalaM 
+
+cOraH
+ANALYSIS:
+1.	pawiH	NP	pawnIM,kim
+2.	cOraH	NP	waxA,kim
+3.	maXumakRikAH		cOraM,kim
+4.	cOraH	NP	kaWaM,palAyiwaH
+5.	yukwibalaM		kAryaM,kaxA
+
+
+
+prawiveSinyaH vqxXA prawiveSinaH vqxXA yuvakaH 
+
+prawiveSinaH
+ANALYSIS:
+1.	prawiveSinyaH	NP	sambanXinyaH,mahilAH
+2.	vqxXA	NP	praSaMsAM,prApwuM
+3.	prawiveSinaH	NP	kiM,vicArya
+4.	vqxXA	NP	wAn,kiM
+5.	yuvakaH	NP	vqxXAM,kiM
+
+
+
+vIraSivAjiwulyAH senApawiH senApawiH SivAjiH iyaM 
+
+senApawiH
+ANALYSIS:
+1.	vIraSivAjiwulyAH		janAH,kIxqSAH
+2.	senApawiH	NP	SivAjiMsABivAxanaM,kiM
+3.	senApawiH	NP	kiM,vaswu
+4.	SivAjiH	NS	senApawiM,Barwsayan
+5.	iyaM	AB	kaWA,kAM
+
+
+
+vIraSivAjiwulyAH senApawiH senApawiH SivAjiH iyaM 
+
+iyam
+ANALYSIS:
+1.	vIraSivAjiwulyAH		janAH,kIxqSAH
+2.	senApawiH	NP	SivAjiMsABivAxanaM,kiM
+3.	senApawiH	NP	kiM,vaswu
+4.	SivAjiH	NS	senApawiM,Barwsayan
+5.	iyaM	AB	kaWA,kAM
+
+
+
+guruM varawanwuH vAraM kOwsaH vixyAhrAsasya 
+
+vixyAhrAsasya
+ANALYSIS:
+1.	guruM		varawanwuM,wasya
+2.	varawanwuH		kOwsaM,kiM
+3.	vAraM	DV	vAraM,nivexanena
+4.	kOwsaH		gurave,xakRiNAM
+5.	vixyAhrAsasya		kiM,kAraNam
+
+
+
+mahAwmanaH puruRaH mahAwmA kiM mahApApaM 
+
+mahApApam
+ANALYSIS:
+1.	mahAwmanaH	NV	uxboXanaM,kIxqSam
+2.	puruRaH	NP	waM,kim
+3.	mahAwmA	NP	waM,kiM
+4.	kiM	DV	puruRaH,mahAwmanaH
+5.	mahApApaM		kim,aswi
+
+
+
+nataH waxvacanaM natanatIByAM waxA paNdiwaH 
+
+paNdiwaH
+ANALYSIS:
+1.	nataH	NV	natIM,prawi
+2.	waxvacanaM		SruwvA,natanatIByAM
+3.	natanatIByAM		xAnasya,kAraNaM
+4.	waxA	A	rAja,kim
+5.	paNdiwaH	NP	kiM,jAnAwi?
+
+
+
+sureSasya BarwA sureSaH puwraH iyaM 
+
+BarwA
+ANALYSIS:
+1.	sureSasya	NS	puwravaXUH,svaBarwAraM
+2.	BarwA	NP	waxA,kiM
+3.	sureSaH	NS	puwraM,kim
+4.	puwraH	NP	waxA,kim
+5.	iyaM	AB	kaWA,kiM
+
+
+
+sureSasya BarwA sureSaH puwraH iyaM 
+
+puwraH
+ANALYSIS:
+1.	sureSasya	NS	puwravaXUH,svaBarwAraM
+2.	BarwA	NP	waxA,kiM
+3.	sureSaH	NS	puwraM,kim
+4.	puwraH	NP	waxA,kim
+5.	iyaM	AB	kaWA,kiM
+
+
+
+sureSasya BarwA sureSaH puwraH iyaM 
+
+iyam
+ANALYSIS:
+1.	sureSasya	NS	puwravaXUH,svaBarwAraM
+2.	BarwA	NP	waxA,kiM
+3.	sureSaH	NS	puwraM,kim
+4.	puwraH	NP	waxA,kim
+5.	iyaM	AB	kaWA,kiM
+
+
+
+mAwA kiM yaxi kiM iyaM 
+
+iyam
+ANALYSIS:
+1.	mAwA	NP	puwraM,kim
+2.	kiM	DV	saH,asya
+3.	yaxi	AVK	nahi,,warhi
+4.	kiM	DV	harikaWASravaNaM,nirarWakaM
+5.	iyaM	AB	kaWA,kiM
+
+
+
+xevarasvaBAvaH xevaraH wasyAH xevaravyavahAre kiM 
+
+xevarasvaBAvaH
+ANALYSIS:
+1.	xevarasvaBAvaH		kIxqSaH,AsIw
+2.	xevaraH		wasyAH,puwraM
+3.	wasyAH	SN	samIpe,
+4.	xevaravyavahAre	SN	
+5.	kiM	DV	
+
+
+
+vqkaM CAgI kUpAw svArWI iyaM 
+
+svArWI
+ANALYSIS:
+1.	vqkaM		kUpAw,paSavaH
+2.	CAgI		vqkaM,kiM
+3.	kUpAw	NP	CAgIM,kaH
+4.	svArWI		kIxqSaH,Bavawi
+5.	iyaM	AB	kaWA,kiM
+
+
+
+vqkaM CAgI kUpAw svArWI iyaM 
+
+iyam
+ANALYSIS:
+1.	vqkaM		kUpAw,paSavaH
+2.	CAgI		vqkaM,kiM
+3.	kUpAw	NP	CAgIM,kaH
+4.	svArWI		kIxqSaH,Bavawi
+5.	iyaM	AB	kaWA,kiM
+
+
+
+aham aham aham yaw+gqhe iyam 
+
+iyam
+ANALYSIS:
+1.	aham	SN	yasya,awiWiH
+2.	aham	SN	kAm,svIyAm
+3.	aham	SN	svakIye,BARaNe
+4.	yaw+gqhe		gIwArAmAyaNAxayaH,na
+5.	iyam	SN	kaWA,kAm
+
+
+
+rawnavyavasAyI kutIsvAmI rawnavyavasAyinaH xasyavaH rawnavyavasAyI 
+
+xasyavaH
+ANALYSIS:
+1.	rawnavyavasAyI		kuwra,prApwaH?
+2.	kutIsvAmI		vyAkulaH,kim
+3.	rawnavyavasAyinaH		parAmarSena,saH
+4.	xasyavaH		kim,akurvan?
+5.	rawnavyavasAyI		kutIsvAminam,kaWam
+
+
+
+nAraxaH viRNuH nAraxasya mahawwamAH iyam 
+
+iyam
+ANALYSIS:
+1.	nAraxaH	NS	viRNum,kim
+2.	viRNuH	NS	
+3.	nAraxasya		sanwoRaH,viRNoH
+4.	mahawwamAH		ke,sanwi?
+5.	iyam	SN	kaWA,kim
+
+
+
+kruxXaH gOwamabuxXaH brAhmaNasya gOwamabuxXaH gOwamabuxXaH 
+
+gOwamabuxXaH
+ANALYSIS:
+1.	kruxXaH	NP	brAhmaNaH,gOwamabuxXAya
+2.	gOwamabuxXaH		wam,brAhmaNam
+3.	brAhmaNasya	NP	waxA,kim
+4.	gOwamabuxXaH		brAhmaNam,kim
+5.	gOwamabuxXaH		kIxqSaH,AsIw?
+
+
+
+kruxXaH gOwamabuxXaH brAhmaNasya gOwamabuxXaH gOwamabuxXaH 
+
+brAhmaNasya
+ANALYSIS:
+1.	kruxXaH	NP	brAhmaNaH,gOwamabuxXAya
+2.	gOwamabuxXaH		wam,brAhmaNam
+3.	brAhmaNasya	NP	waxA,kim
+4.	gOwamabuxXaH		brAhmaNam,kim
+5.	gOwamabuxXaH		kIxqSaH,AsIw?
+
+
+
+kruxXaH gOwamabuxXaH brAhmaNasya gOwamabuxXaH gOwamabuxXaH 
+
+gOwamabuxXaH
+ANALYSIS:
+1.	kruxXaH	NP	brAhmaNaH,gOwamabuxXAya
+2.	gOwamabuxXaH		wam,brAhmaNam
+3.	brAhmaNasya	NP	waxA,kim
+4.	gOwamabuxXaH		brAhmaNam,kim
+5.	gOwamabuxXaH		kIxqSaH,AsIw?
+
+
+
+sAXumaNdalI vqxXapUjakaH sAXupramuKaH kAryasixXO asyAH 
+
+sAXupramuKaH
+ANALYSIS:
+1.	sAXumaNdalI		kuwra,viSrAmam
+2.	vqxXapUjakaH		sAXupramuKam,kim
+3.	sAXupramuKaH		kim,uxawaraw?
+4.'ahaf_kAraH	kAryasixXO		bAXakaH',iyam
+5.	asyAH	SN	ukweH,praBAvaH
+
+
+
+yaSolipsoH saH paNdiwaH rAjA kIxqSaH 
+
+paNdiwaH
+ANALYSIS:
+1.	yaSolipsoH		rAjFaH,kim
+2.	saH	SSN	paNdiwam,kim
+3.	paNdiwaH	NP	wam,rAjAnam
+4.	rAjA	NP	wawaH,kim
+5.	kIxqSaH	SNV	sammAnaH,yaSaskaraH
+
+
+
+mama aham prawiveSI aham mama 
+
+aham
+ANALYSIS:
+1.	mama	SN	prawiveSI,kIxqSaH
+2.	aham	SN	KinnaH,BUwvA
+3.	prawiveSI	NP	mAm,kim
+4.	aham	SN	waxA,wam
+5.	mama	SN	uwwareNa,saH
+
+
+
+samarWaguruH SiRyAn SivavIraH samarWagururAmaxAsasya 
+
+SivavIraH
+ANALYSIS:
+1.	samarWaguruH		rAmaxAsaH,kaWam
+2.	SiRyAn	NP	saH,kim
+3.	SivavIraH		kim,kqwavAn
+3.	samarWagururAmaxAsasya		waw+AcaraNam,kimarWam
+
+
+
+grAmAnwaram wawaH pawnyAH kqpaNaH kqpaNaH 
+
+kqpaNaH
+ANALYSIS:
+1.	grAmAnwaram	NP	gawaH,kqpaNaH
+2.	wawaH	A	pawnI,kim
+3.	pawnyAH	NP	uwwareNa,kqpaNasya
+4.	kqpaNaH	NV	kasmAw,BIwaH
+5.	kqpaNaH	NV	kim,na
+
+
+
+mahAwmAnam mahAwmA parAvqwwam mahAwmA mahAwmA 
+
+mahAwmA
+ANALYSIS:
+1.	mahAwmAnam		wIrWayAwrixalam,kim
+2.	mahAwmA	NP	wasmE,kim
+3.	parAvqwwam		wIrWayAwrixalam,mahAwmAne
+4.	mahAwmA	NP	wawaH,kim
+5.	mahAwmA	NP	kim,akaWayaw
+
+
+
+nirmANaSAlAXyakRaH yuvakaH sambanXI yuvakaH nirmANaSAlAXyakRaH 
+
+yuvakaH
+ANALYSIS:
+1.	nirmANaSAlAXyakRaH		sAkRAwkArArWam,upasWiwam
+2.	yuvakaH	NP	wam,kim
+3.	sambanXI	NP	yuvakam,kim
+4.	yuvakaH	NP	nirmANaSAlAXyakRam,punaH
+5.	nirmANaSAlAXyakRaH		yuvakam,kim
+
+
+
+ruRtaH yeRAm canxraXaraH kasya viSvAsaGAwI 
+
+canxraXaraH
+ANALYSIS:
+1.	ruRtaH	KN	karmacArI,canxraXaraH
+2.	yeRAm	SSN	kusafgawO,saH
+3.	canxraXaraH		waxA,kim
+4.	kasya	SN	viSvAsaGAwaH,na
+5.	viSvAsaGAwI		kuwra,gacCawi?
+
+
+
+sixXapuruRaH xawwavaswuni saxgqhasWAw kim iyam 
+
+iyam
+ANALYSIS:
+1.	sixXapuruRaH		sax_gqhasWAya,kim
+2.	xawwavaswuni		kA,viSeRawA
+3.	sax_gqhasWAw		svavaswu,sixXapuruRaH
+4.	kim	AP	xawwavaswunaH,upayogam
+5.	iyam	SN	kaWA,kim
+
+
+
+SrIpuruRowwamaxAsaH wasmE puruRowwamaxAsaH anayA buxXimanwaH 
+
+anayA
+ANALYSIS:
+1.	SrIpuruRowwamaxAsaH		cEkapawram,kasya
+2.	wasmE	SN	leKanIxAwA,waxA
+3.	puruRowwamaxAsaH		leKanIm,parAvarwayan
+4.	anayA	SN	kaWayA,puruRowwamaxAsasya
+5.	buxXimanwaH	NV	mahApuruRAH,kIxqSAH
+
+
+
+nirXanaH prArWanAm punaH sajjanaH anyaxuHKAni 
+
+sajjanaH
+ANALYSIS:
+1.	nirXanaH	NV	BakwaH,govinxaxevam
+2.	prArWanAm	NP	kqwvA,parAvqwwaH
+3.	punaH	A	saH,Bagavanwam
+4.	sajjanaH	NP	kIxqSaH,Bavawi?
+5.	anyaxuHKAni		xqRtvA,sajjanaH
+
+
+
+cOraH vqxXaH yaxi kArye iyam 
+
+iyam
+ANALYSIS:
+1.	cOraH	NP	kasya,puwram
+2.	vqxXaH	NP	cOreNa,saha
+3.	yaxi	AVK	cOraH,vqxXasya
+4.	kArye	NP	vilambakaraNasya,kaH
+5.	iyam	SN	kaWA,kim
+
+
+
+sampannaH sAXAraNaH asya punaH iyam 
+
+iyam
+ANALYSIS:
+1.	sampannaH	KN	svajanmaxine,kim
+2.	sAXAraNaH	NV	janaH,svajanmaxine
+3.	asya	SN	prawikriyAm,sampannaH
+4.	punaH	A	gacCawA,kAlena
+5.	iyam	SN	kaWA,kAm
+
+
+
+rAjapuruRAH BikRukasya rAjA BikRukaH ekaH 
+
+BikRukasya
+ANALYSIS:
+1.	rAjapuruRAH	NP	BikRukam,kim
+2.	BikRukasya		waxA,kim
+3.	rAjA	NP	BikRukam,kim
+4.	BikRukaH	NP	rAjAnam,kim
+5.	ekaH	SMKY
+
+
+
+yavakrIwasya pop inxraH kim inxraH vixyAlABaH 
+
+inxraH
+ANALYSIS:
+1.	yavakrIwasya		wapasyAyAH,pqRTe
+2.	inxraH	NS	wam,kim
+3.	kim	AP	inxrasya,praboXanasya
+4.	inxraH	NS	yavakrIwam,praboXayiwum
+5.	vixyAlABaH		kif_karaNena,Bavawi
+
+
+
+inxumawI wayA nagarAnware kim vimAwA 
+
+vimAwA
+ANALYSIS:
+1.	inxumawI		sanwuRtA,kim
+2.	wayA	SN	saha,vimAwA
+3.	nagarAnware		prasWAwum,uxyawAm
+4.	kim	AP	inxumawyAH,smqwiH
+5.	vimAwA		kim,na
+
+
+
+rAjAnam cinwAyAH niScinwaH sixXapuruRaH svawanwrawAsOKyam 
+
+sixXapuruRaH
+ANALYSIS:
+1.	rAjAnam	NP	kA,cinwA
+2.	cinwAyAH	NP	nirAkaraNam,kaWam
+3.	niScinwaH	KN	rAjA,kuwra
+4.	sixXapuruRaH		kim,akarow
+5.	svawanwrawAsOKyam		kaH,na
+
+
+
+SrAvakaH kaWAvAcakaH BagavAn kim anayA 
+
+anayA
+ANALYSIS:
+1.	SrAvakaH	NP	kaWAvAcakam,kim
+2.	kaWAvAcakaH		SrAvakam,kam
+3.	BagavAn	NP	rakRaNAya,kaxA
+4.	kim	AP	ArwaprArWanA,vyarWA
+5.	anayA	SN	kaWayA,kIxqSaH
+
+
+
+sevakaH anye SreRTI SreRTinaH iyam 
+
+sevakaH
+ANALYSIS:
+1.	sevakaH	NP	kim,kqwvA
+2.	anye	SN	wawsahacarAH,kim
+3.	SreRTI	NS	wAn,kim
+4.	SreRTinaH	NV	kaWanasya,palAyanakarwari
+5.	iyam	SN	kaWA,kim
+
+
+
+sevakaH anye SreRTI SreRTinaH iyam 
+
+iyam
+ANALYSIS:
+1.	sevakaH	NP	kim,kqwvA
+2.	anye	SN	wawsahacarAH,kim
+3.	SreRTI	NS	wAn,kim
+4.	SreRTinaH	NV	kaWanasya,palAyanakarwari
+5.	iyam	SN	kaWA,kim
+
+
+
+jalam GataH somaxawwaH guruH vixyA 
+
+guruH
+ANALYSIS:
+1.	jalam	NP	AnewuM,Gatam
+2.	GataH	NP	manuRyavAcA,somaxawwaM
+3.	somaxawwaH	NS	wawaH,kim
+4.	guruH	NV	waxA,wasmE
+5.	vixyA	NP	kuwaH,milawi
+
+
+
+saMnyAsinaM saMnyAsI mqwyusamaye veSyA saMnyAsI 
+
+saMnyAsI
+ANALYSIS:
+1.	saMnyAsinaM		veSyA,kiM
+2.	saMnyAsI	NP	waxA,kim
+3.	mqwyusamaye		nikate,Agawe
+4.	veSyA		waM,kim
+5.	saMnyAsI	NP	veSyAM,swrIpuruRayoH
+
+
+
+kavirAjaH sahqw+ kavirAjaH vicArANAM anayA 
+
+anayA
+ANALYSIS:
+1.	kavirAjaH		suhqxaM,kaxA
+2.	sahqw+		waM,waxA
+3.	kavirAjaH		suhqxaH,praSnasya
+4.	vicArANAM		leKanena,kiM
+5.	anayA	SN	kaWayA,kA
+
+
+
+xarixrawA SreRTI puwravaXUH wasya xarixrawA 
+
+SreRTI
+ANALYSIS:
+1.	xarixrawA	NP	SreRTinaM,rAmaXanaM
+2.	SreRTI	NS	waxA,xarixrawAM
+3.	puwravaXUH		SreRTinaM,xarixrawAM
+4.	wasya	SN	varasya,yAcanayA
+5.	xarixrawA	NP	lakRmIH,ca
+
+
+
+siMhaH kiM siMhaH SyAmaH XEryaXAraNena 
+
+XEryaXAraNena
+ANALYSIS:
+1.	siMhaH	NP	SyAmaM,kim
+2.	kiM	DV	SyAmaH,siMhasya
+3.	siMhaH	NP	SyAmaM,kuwra
+4.	SyAmaH	NV	siMhanigrahaNawaH,AwmAnaM
+5.	XEryaXAraNena		kiM,Bavawi
+
+
+
+ajAH wAsu wqwIyA paFcamyAH ISvaraH 
+
+ISvaraH
+ANALYSIS:
+1.	ajAH	NP	avayaH,ca
+2.	wAsu	NS	ekA,kim
+3.	wqwIyA	SMKY	ajA,kiM
+4.	paFcamyAH		ajAyAH,BARaNaM
+5.	ISvaraH	NP	kiM,na
+
+
+
+gqhasWaH saMnyAsI gqhasWaH saMnyAsI kaH 
+
+saMnyAsI
+ANALYSIS:
+1.	gqhasWaH	NP	saMnyAsinaM,kim
+2.	saMnyAsI	NP	kim,uwwaraM
+3.	gqhasWaH	NP	10-20,vAraM
+4.	saMnyAsI	NP	praSaMsAyogyaM,kaM
+5.	kaH	SN	saxA,praSAnwaH
+
+
+
+sanXyopAsanArWaM mahAwmAnaM mahAwmA sarvawra paxe 
+
+mahAwmA
+ANALYSIS:
+1.	sanXyopAsanArWaM		mahAwmani,upaviRte
+2.	mahAwmAnaM	NV	vyAkulaM,xqRtvA
+3.	mahAwmA	NP	waxA,kim
+4.	sarvawra	A	saxA,nirBayaH
+5.	paxe	NP	paxe,vipaxgraswaH
+
+
+
+gafgAguruH kqpaNaH gafgAguruwaH anwe kqpaNaH 
+
+kqpaNaH
+ANALYSIS:
+1.	gafgAguruH		kqpaNaM,kiM
+2.	kqpaNaH	NV	gafgAguruM,kim
+3.	gafgAguruwaH		AwmAnaM,mocayiwuM
+4.	anwe	NP	vijayaH,kasya
+5.	kqpaNaH	NV	kIxqSaH,Bavawi
+
+
+
+wapasvI BagavawaH wapasvI BikRukaH anayA 
+
+anayA
+ANALYSIS:
+1.	wapasvI	NS	BagavanwaM,kiM
+2.	BagavawaH	NP	xUwaH,wapasvinaM
+3.	wapasvI	NS	BikRukaM,kiM
+4.	BikRukaH	NP	wapasvinaM,kim
+5.	anayA	SN	kaWayA,kA
+
+
+
+qRiH SiRyAH jAwapakRAH SamIkaM anayA 
+
+SiRyAH
+ANALYSIS:
+1.SamIkaH	qRiH	NP	SiRyAn,kim
+2.	SiRyAH	NP	kim,akurvan
+3.	jAwapakRAH		gqXrISAvakAH,AwmAnaM
+4.	SamIkaM		praNamya,SAvakAH
+5.	anayA	SN	kaWayA,kA
+
+
+
+qRiH SiRyAH jAwapakRAH SamIkaM anayA 
+
+anayA
+ANALYSIS:
+1.SamIkaH	qRiH	NP	SiRyAn,kim
+2.	SiRyAH	NP	kim,akurvan
+3.	jAwapakRAH		gqXrISAvakAH,AwmAnaM
+4.	SamIkaM		praNamya,SAvakAH
+5.	anayA	SN	kaWayA,kA
+
+
+
+rAjA wena xasyuBiH mahAwmA ISvaraH 
+
+rAjA
+ANALYSIS:
+1.	rAjA	NP	kIxqSaH,AsIw?
+2.	wena	SN	sammAniwena,mahAwmanA
+3.	xasyuBiH		saha,mahAwmanaH
+4.	mahAwmA	NP	AwmanaH,roxanasya
+5.	ISvaraH	NP	kasmin,wuRtaH
+
+
+
+arjunaH kqRNasya arjunAya arjunaH mahAwmA 
+
+kqRNasya
+ANALYSIS:
+1.	arjunaH	NS	kqRNaM,kiM
+2.	kqRNasya	NS	waxA,uwwaraM
+3.	arjunAya	NS	kqRNaH,kiM
+4.	arjunaH	NS	mahAwmAnaM,kim
+5.	mahAwmA	NP	arjunaM,kiM
+
+
+
+kruxXaH gOwamabuxXaH brAhmaNasya gOwamabuxXaH gOwamabuxXaH 
+
+gOwamabuxXaH
+ANALYSIS:
+1.	kruxXaH	NP	brAhmaNaH,gOwamabuxXAya
+2.	gOwamabuxXaH		wam,brAhmaNam
+3.	brAhmaNasya	NP	waxA,kim
+4.	gOwamabuxXaH		brAhmaNam,kim
+5.	gOwamabuxXaH		kIxqSaH,AsIw?
+
+
+
+kruxXaH gOwamabuxXaH brAhmaNasya gOwamabuxXaH gOwamabuxXaH 
+
+brAhmaNasya
+ANALYSIS:
+1.	kruxXaH	NP	brAhmaNaH,gOwamabuxXAya
+2.	gOwamabuxXaH		wam,brAhmaNam
+3.	brAhmaNasya	NP	waxA,kim
+4.	gOwamabuxXaH		brAhmaNam,kim
+5.	gOwamabuxXaH		kIxqSaH,AsIw?
+
+
+
+kruxXaH gOwamabuxXaH brAhmaNasya gOwamabuxXaH gOwamabuxXaH 
+
+gOwamabuxXaH
+ANALYSIS:
+1.	kruxXaH	NP	brAhmaNaH,gOwamabuxXAya
+2.	gOwamabuxXaH		wam,brAhmaNam
+3.	brAhmaNasya	NP	waxA,kim
+4.	gOwamabuxXaH		brAhmaNam,kim
+5.	gOwamabuxXaH		kIxqSaH,AsIw?
+
+
+
+sAXumaNdalI vqxXapUjakaH sAXupramuKaH kAryasixXO asyAH 
+
+sAXupramuKaH
+ANALYSIS:
+1.	sAXumaNdalI		kuwra,viSrAmam
+2.	vqxXapUjakaH		sAXupramuKam,kim
+3.	sAXupramuKaH		kim,uxawaraw?
+4.'ahaf_kAraH	kAryasixXO		bAXakaH',iyam
+5.	asyAH	SN	ukweH,praBAvaH
+
+
+
+samarWaguruH SiRyAn SivavIraH samarWagururAmaxAsasya 
+
+SivavIraH
+ANALYSIS:
+1.	samarWaguruH		rAmaxAsaH,kaWam
+2.	SiRyAn	NP	saH,kim
+3.	SivavIraH		kim,kqwavAn
+3.	samarWagururAmaxAsasya		waw+AcaraNam,kimarWam
+
+
+
+grAmAnwaram wawaH pawnyAH kqpaNaH kqpaNaH 
+
+kqpaNaH
+ANALYSIS:
+1.	grAmAnwaram	NP	gawaH,kqpaNaH
+2.	wawaH	A	pawnI,kim
+3.	pawnyAH	NP	uwwareNa,kqpaNasya
+4.	kqpaNaH	NV	kasmAw,BIwaH
+5.	kqpaNaH	NV	kim,na
+
+
+
+mahAwmAnam mahAwmA parAvqwwam mahAwmA mahAwmA 
+
+mahAwmA
+ANALYSIS:
+1.	mahAwmAnam		wIrWayAwrixalam,kim
+2.	mahAwmA	NP	wasmE,kim
+3.	parAvqwwam		wIrWayAwrixalam,mahAwmAne
+4.	mahAwmA	NP	wawaH,kim
+5.	mahAwmA	NP	kim,akaWayaw
+
+
+
+ruRtaH yeRAm canxraXaraH kasya viSvAsaGAwI 
+
+canxraXaraH
+ANALYSIS:
+1.	ruRtaH	KN	karmacArI,canxraXaraH
+2.	yeRAm	SSN	kusafgawO,saH
+3.	canxraXaraH		waxA,kim
+4.	kasya	SN	viSvAsaGAwaH,na
+5.	viSvAsaGAwI		kuwra,gacCawi?
+
+
+
+sixXapuruRaH xawwavaswuni saxgqhasWAw kim iyam 
+
+iyam
+ANALYSIS:
+1.	sixXapuruRaH		sax_gqhasWAya,kim
+2.	xawwavaswuni		kA,viSeRawA
+3.	sax_gqhasWAw		svavaswu,sixXapuruRaH
+4.	kim	AP	xawwavaswunaH,upayogam
+5.	iyam	SN	kaWA,kim
+
+
+
+SrIpuruRowwamaxAsaH wasmE puruRowwamaxAsaH anayA buxXimanwaH 
+
+anayA
+ANALYSIS:
+1.	SrIpuruRowwamaxAsaH		cEkapawram,kasya
+2.	wasmE	SN	leKanIxAwA,waxA
+3.	puruRowwamaxAsaH		leKanIm,parAvarwayan
+4.	anayA	SN	kaWayA,puruRowwamaxAsasya
+5.	buxXimanwaH	NV	mahApuruRAH,kIxqSAH
+
+
+
+nirXanaH prArWanAm punaH sajjanaH anyaxuHKAni 
+
+sajjanaH
+ANALYSIS:
+1.	nirXanaH	NV	BakwaH,govinxaxevam
+2.	prArWanAm	NP	kqwvA,parAvqwwaH
+3.	punaH	A	saH,Bagavanwam
+4.	sajjanaH	NP	kIxqSaH,Bavawi?
+5.	anyaxuHKAni		xqRtvA,sajjanaH
+
+
+
+rAjapuruRAH BikRukasya rAjA BikRukaH ekaH 
+
+BikRukasya
+ANALYSIS:
+1.	rAjapuruRAH	NP	BikRukam,kim
+2.	BikRukasya		waxA,kim
+3.	rAjA	NP	BikRukam,kim
+4.	BikRukaH	NP	rAjAnam,kim
+5.	ekaH	SMKY
+
+
+
+yavakrIwasya pop inxraH kim inxraH vixyAlABaH 
+
+inxraH
+ANALYSIS:
+1.	yavakrIwasya		wapasyAyAH,pqRTe
+2.	inxraH	NS	wam,kim
+3.	kim	AP	inxrasya,praboXanasya
+4.	inxraH	NS	yavakrIwam,praboXayiwum
+5.	vixyAlABaH		kif_karaNena,Bavawi
+
+
+
+inxumawI wayA nagarAnware kim vimAwA 
+
+vimAwA
+ANALYSIS:
+1.	inxumawI		sanwuRtA,kim
+2.	wayA	SN	saha,vimAwA
+3.	nagarAnware		prasWAwum,uxyawAm
+4.	kim	AP	inxumawyAH,smqwiH
+5.	vimAwA		kim,na
+
+
+
+rAjAnam cinwAyAH niScinwaH sixXapuruRaH svawanwrawAsOKyam 
+
+sixXapuruRaH
+ANALYSIS:
+1.	rAjAnam	NP	kA,cinwA
+2.	cinwAyAH	NP	nirAkaraNam,kaWam
+3.	niScinwaH	KN	rAjA,kuwra
+4.	sixXapuruRaH		kim,akarow
+5.	svawanwrawAsOKyam		kaH,na
+
+
+
+SrAvakaH kaWAvAcakaH BagavAn kim anayA 
+
+anayA
+ANALYSIS:
+1.	SrAvakaH	NP	kaWAvAcakam,kim
+2.	kaWAvAcakaH		SrAvakam,kam
+3.	BagavAn	NP	rakRaNAya,kaxA
+4.	kim	AP	ArwaprArWanA,vyarWA
+5.	anayA	SN	kaWayA,kIxqSaH
+
+
+
+jalam GataH somaxawwaH guruH vixyA 
+
+guruH
+ANALYSIS:
+1.	jalam	NP	AnewuM,Gatam
+2.	GataH	NP	manuRyavAcA,somaxawwaM
+3.	somaxawwaH	NS	wawaH,kim
+4.	guruH	NV	waxA,wasmE
+5.	vixyA	NP	kuwaH,milawi
+
+
+
+xarixrawA SreRTI puwravaXUH wasya xarixrawA 
+
+SreRTI
+ANALYSIS:
+1.	xarixrawA	NP	SreRTinaM,rAmaXanaM
+2.	SreRTI	NS	waxA,xarixrawAM
+3.	puwravaXUH		SreRTinaM,xarixrawAM
+4.	wasya	SN	varasya,yAcanayA
+5.	xarixrawA	NP	lakRmIH,ca
+
+
+
+siMhaH kiM siMhaH SyAmaH XEryaXAraNena 
+
+XEryaXAraNena
+ANALYSIS:
+1.	siMhaH	NP	SyAmaM,kim
+2.	kiM	DV	SyAmaH,siMhasya
+3.	siMhaH	NP	SyAmaM,kuwra
+4.	SyAmaH	NV	siMhanigrahaNawaH,AwmAnaM
+5.	XEryaXAraNena		kiM,Bavawi
+
+
+
+gafgAguruH kqpaNaH gafgAguruwaH anwe kqpaNaH 
+
+kqpaNaH
+ANALYSIS:
+1.	gafgAguruH		kqpaNaM,kiM
+2.	kqpaNaH	NV	gafgAguruM,kim
+3.	gafgAguruwaH		AwmAnaM,mocayiwuM
+4.	anwe	NP	vijayaH,kasya
+5.	kqpaNaH	NV	kIxqSaH,Bavawi
+
+
+
+qRiH SiRyAH jAwapakRAH SamIkaM anayA 
+
+SiRyAH
+ANALYSIS:
+1.SamIkaH	qRiH	NP	SiRyAn,kim
+2.	SiRyAH	NP	kim,akurvan
+3.	jAwapakRAH		gqXrISAvakAH,AwmAnaM
+4.	SamIkaM		praNamya,SAvakAH
+5.	anayA	SN	kaWayA,kA
+
+
+
+qRiH SiRyAH jAwapakRAH SamIkaM anayA 
+
+anayA
+ANALYSIS:
+1.SamIkaH	qRiH	NP	SiRyAn,kim
+2.	SiRyAH	NP	kim,akurvan
+3.	jAwapakRAH		gqXrISAvakAH,AwmAnaM
+4.	SamIkaM		praNamya,SAvakAH
+5.	anayA	SN	kaWayA,kA
+
+
+
+rAjA wena xasyuBiH mahAwmA ISvaraH 
+
+rAjA
+ANALYSIS:
+1.	rAjA	NP	kIxqSaH,AsIw?
+2.	wena	SN	sammAniwena,mahAwmanA
+3.	xasyuBiH		saha,mahAwmanaH
+4.	mahAwmA	NP	AwmanaH,roxanasya
+5.	ISvaraH	NP	kasmin,wuRtaH
+
+
+
+arjunaH kqRNasya arjunAya arjunaH mahAwmA 
+
+kqRNasya
+ANALYSIS:
+1.	arjunaH	NS	kqRNaM,kiM
+2.	kqRNasya	NS	waxA,uwwaraM
+3.	arjunAya	NS	kqRNaH,kiM
+4.	arjunaH	NS	mahAwmAnaM,kim
+5.	mahAwmA	NP	arjunaM,kiM
+
+
+
+nAraxaH viRNuH nAraxasya mahawwamAH iyam 
+
+iyam
+ANALYSIS:
+1.	nAraxaH	NS	viRNum,kim
+2.	viRNuH	NS	
+3.	nAraxasya		sanwoRaH,viRNoH
+4.	mahawwamAH		ke,sanwi?
+5.	iyam	SN	kaWA,kim
+
+
+
+mama aham prawiveSI aham mama 
+
+aham
+ANALYSIS:
+1.	mama	SN	prawiveSI,kIxqSaH
+2.	aham	SN	KinnaH,BUwvA
+3.	prawiveSI	NP	mAm,kim
+4.	aham	SN	waxA,wam
+5.	mama	SN	uwwareNa,saH
+
+
+
+cOraH vqxXaH yaxi kArye iyam 
+
+iyam
+ANALYSIS:
+1.	cOraH	NP	kasya,puwram
+2.	vqxXaH	NP	cOreNa,saha
+3.	yaxi	AVK	cOraH,vqxXasya
+4.	kArye	NP	vilambakaraNasya,kaH
+5.	iyam	SN	kaWA,kim
+
+
+
+sampannaH sAXAraNaH asya punaH iyam 
+
+iyam
+ANALYSIS:
+1.	sampannaH	KN	svajanmaxine,kim
+2.	sAXAraNaH	NV	janaH,svajanmaxine
+3.	asya	SN	prawikriyAm,sampannaH
+4.	punaH	A	gacCawA,kAlena
+5.	iyam	SN	kaWA,kAm
+
+
+
+sevakaH anye SreRTI SreRTinaH iyam 
+
+sevakaH
+ANALYSIS:
+1.	sevakaH	NP	kim,kqwvA
+2.	anye	SN	wawsahacarAH,kim
+3.	SreRTI	NS	wAn,kim
+4.	SreRTinaH	NV	kaWanasya,palAyanakarwari
+5.	iyam	SN	kaWA,kim
+
+
+
+sevakaH anye SreRTI SreRTinaH iyam 
+
+iyam
+ANALYSIS:
+1.	sevakaH	NP	kim,kqwvA
+2.	anye	SN	wawsahacarAH,kim
+3.	SreRTI	NS	wAn,kim
+4.	SreRTinaH	NV	kaWanasya,palAyanakarwari
+5.	iyam	SN	kaWA,kim
+
+
+
+ajAH wAsu wqwIyA paFcamyAH ISvaraH 
+
+ISvaraH
+ANALYSIS:
+1.	ajAH	NP	avayaH,ca
+2.	wAsu	NS	ekA,kim
+3.	wqwIyA	SMKY	ajA,kiM
+4.	paFcamyAH		ajAyAH,BARaNaM
+5.	ISvaraH	NP	kiM,na
+
+
+
+wapasvI BagavawaH wapasvI BikRukaH anayA 
+
+anayA
+ANALYSIS:
+1.	wapasvI	NS	BagavanwaM,kiM
+2.	BagavawaH	NP	xUwaH,wapasvinaM
+3.	wapasvI	NS	BikRukaM,kiM
+4.	BikRukaH	NP	wapasvinaM,kim
+5.	anayA	SN	kaWayA,kA
+
+
+
