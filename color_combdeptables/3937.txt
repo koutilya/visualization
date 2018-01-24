@@ -1,0 +1,9 @@
+wordorder,word,POS,dep,head
+1,rAmaH,NS,karwA,8.0
+2,xaSavarRasahasrANi,NP,samucciwam,4.0
+3,xaSavarRaSawAni,SMK,samucciwam,4.0
+4,ca,APY,kriyAviSeRaNam,6.0
+5,rAjyam,NP,karma,6.0
+6,upAsiwvA,KN,pUrvakAlaH,8.0
+7,brahmalokam,NP,karma,8.0
+8,prayAsyawi,KP,,

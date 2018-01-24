@@ -1,0 +1,10 @@
+wordorder,word,POS,dep,head
+1,wawaH,A,anuyogI,10
+2,xuHKiwena,KNV,viSeRaNam,3
+3,vAnararAjena,NV,karwA,9
+4,vErAnukaWanam,NP,upapaxasambanXaH,5
+5,prawi,AUP,sambanXaH,9
+6,rAmAya,NS,sampraxAnam,9
+7,sarvam,SN,karma,9
+8,praNayAw,NP,hewuH,9
+9,Avexiwam,,prawiyogI,1

@@ -1,0 +1,9 @@
+wordorder,word,POS,dep,head
+1,asmin,SN,viSeRaNam,2.0
+2,loke,NP,xeSAXikaraNam,6.0
+3,cAwurvarNyam,,karma,6.0
+4,svesve,,viSeRaNam,5.0
+5,Xarme,NP,viRayAXikaraNam,6.0
+6,niyokRyawi,KP,samucciwam,7.0
+7,ca,APY,,
+8,sWApayiRyawi,KP,samucciwam,7.0

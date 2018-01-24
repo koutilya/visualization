@@ -1,0 +1,6 @@
+wordorder,word,POS,dep,head
+1,prawyAgawya,KKS,pUrvakAlaH,5.0
+2,saH,SSN,karwA,5.0
+3,SafKam,,karma,5.0
+4,prasannaHsan,,karwqsamAnAXikaraNam,5.0
+5,axarSayaw,KP,,

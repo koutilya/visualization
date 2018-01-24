@@ -1,0 +1,4 @@
+wordorder,word,POS,dep,head
+1,AScaryam,NP,vIpsA,2.0
+2,mahaxAScaryam,,karwA,3.0
+3,aswi,KP,,

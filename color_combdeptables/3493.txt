@@ -1,0 +1,9 @@
+wordorder,word,POS,dep,head
+1,AwmanaH,SN,RaRTIsambanXaH,2.0
+2,wrutaye,,wAxarWyam,4.0
+3,pAxayoH,NP,aXikaraNam,4.0
+4,praNipawya,KKS,pUrvakAlaH,8.0
+5,punaH,A,vIpsA,6.0
+6,punaH,A,aXikaraNam,8.0
+7,kRamAm,NP,karma,8.0
+8,aBiyAce,NP,,

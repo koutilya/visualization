@@ -1,0 +1,16 @@
+wordorder,word,POS,dep,head
+1,pOrEH,NP,samucciwam,3.0
+2,piwrAxaSaraWena,,samucciwam,3.0
+3,ca,APY,karwA,5.0
+4,xUram,NP,kriyAviSeRaNam,5.0
+5,anugawaH,KNV,viSeRaNam,7.0
+6,XarmAwmA,NV,viSeRaNam,7.0
+7,rAmaH,NS,karwA,15.0
+8,Sqfgaverapure,,xeSAXikaraNam,12.0
+9,niRAxAXipawim,NV,viSeRaNam,11.0
+10,priyam,NV,viSeRaNam,11.0
+11,guham,,karma,12.0
+12,AsAxya,KN,pUrvakAlaH,15.0
+13,gafgAkule,,xeSAXikaraNam,15.0
+14,sUwam,NP,karma,15.0
+15,vyasarjayaw,KP,,

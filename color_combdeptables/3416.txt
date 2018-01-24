@@ -1,0 +1,8 @@
+wordorder,word,POS,dep,head
+1,yaxi,AVK,,
+2,aham,SN,,
+3,wawra,A,aXikaraNam,6.0
+4,kAFciw,A,viSeRaNam,5.0
+5,sahAyawAm,NP,karma,6.0
+6,karwum,KKS,prayojanam,7.0
+7,SaknuyAm,KP,,

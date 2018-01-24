@@ -1,0 +1,6 @@
+wordorder,word,POS,dep,head
+1,cikiwsayA,,karaNam,3.0
+2,api,AVK,sambanXaH,1.0
+3,lABaH,NP,karwA,5.0
+4,na,AN,sambanXaH,5.0
+5,xqSyawe,KP,,

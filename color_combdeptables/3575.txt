@@ -1,0 +1,10 @@
+wordorder,word,POS,dep,head
+1,waWA,AVK,kriyAviSeRaNam,9.0
+2,asmaByam,SN,sampraxAnam,3.0
+3,xawwam,KN,viSeRaNam,4.0
+4,SApam,NP,karma,5.0
+5,parAvarwayiwum,,prayojanam,9.0
+6,api,AVK,sambanXaH,5.0
+7,wam,SNV,karma,9.0
+8,sAgraham,,kriyAviSeRaNam,9.0
+9,nyavexayaw,KP,,

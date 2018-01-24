@@ -1,0 +1,17 @@
+wordorder,word,POS,dep,head
+1,snAnam,,karma,2.0
+2,kqwvA,KKS,pUrvakAlaH,14.0
+3,gafgAwaH,,upapaxasambanXaH,5.0
+4,saH,SSN,karwA,6.0
+5,bahiH,AUP,aXikaraNam,6.0
+6,AgawaH,KN,prawiyogI,8.0
+7,eva,INTF,sambanXaH,6.0
+8,yaw,A,anuyogI,9.0
+9,BagavAn,NP,karwA,14.0
+10,gafgAguruH,,karwqsamAnAXikaraNam,11.0
+11,BUwvA,KKS,pUrvakAlaH,14.0
+12,wasya,SN,RaRTIsambanXaH,13.0
+13,sammuKe,NP,aXikaraNam,14.0
+14,upasWiwaH,KN,samucciwam,16.0
+15,kaWiwavAn,KN,samucciwam,16.0
+16,ca,APY,,

@@ -1,0 +1,8 @@
+wordorder,word,POS,dep,head
+1,yaWA,AVK,,
+2,sA,SN,karwA,6.0
+3,prANarakRArWam,A,prayojanam,6.0
+4,palAyamAnA,,karwqsamAnAXikaraNam,6.0
+5,eva,INTF,sambanXaH,4.0
+6,axqSyawa,KP,,
+7,iwi,AUD,sambanXaH,6.0

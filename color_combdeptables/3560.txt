@@ -1,0 +1,8 @@
+wordorder,word,POS,dep,head
+1,we,SN,karwA,7.0
+2,eva,INTF,sambanXaH,1.0
+3,keRuciw,A,viSeRaNam,4.0
+4,mAseRu,NP,aXikaraNam,5.0
+5,parAvqwya,KKS,pUrvakAlaH,7.0
+6,AwmAnam,NP,karma,7.0
+7,paricAyayanwaH,NP,,

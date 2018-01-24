@@ -1,0 +1,6 @@
+wordorder,word,POS,dep,head
+1.0,sanXyopAsanArWam,,mahAwmani,upaviRte
+2.0,mahAwmAnam,NV,vyAkulaM,xqRtvA
+3.0,mahAwmA,NP,waxA,kim
+4.0,sarvawra,A,saxA,nirBayaH
+5.0,paxe,NP,paxe,vipaxgraswaH

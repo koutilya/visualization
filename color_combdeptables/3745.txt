@@ -1,0 +1,9 @@
+wordorder,word,POS,dep,head
+1,wAdanAwaH,,apAxAnam,2.0
+2,awirikwam,,viSeRaNam,5.0
+3,sA,SN,karwA,8.0
+4,wawaH,A,apAxAnam,8.0
+5,kim,AP,karma,8.0
+6,api,AVK,sambanXaH,5.0
+7,na,AN,sambanXaH,8.0
+8,alaBawa,KP,,

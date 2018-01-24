@@ -1,0 +1,13 @@
+wordorder,word,POS,dep,head
+1,sahasA,KV,kriyAviSeRaNam,2.0
+2,waxIyavyavahAraparivarwanasya,,RaRTIsambanXaH,3.0
+3,kAraNam,NP,hewuH,8.0
+4,navAganwukam,,viSeRaNam,6.0
+5,BAgyaSAlinam,,viSeRaNam,6.0
+6,SiSum,NP,karma,8.0
+7,eva,INTF,sambanXaH,6.0
+8,amanyanwa,INTF,,
+9,sarve,SN,viSeRaNam,11.0
+10,api,AVK,sambanXaH,9.0
+11,janAH,NP,karwA,8.0
+12,iwi,AUD,sambanXaH,8.0

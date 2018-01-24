@@ -1,0 +1,15 @@
+wordorder,word,POS,dep,head
+1,grAmam,,karma,2.0
+2,prApya,KN,pUrvakAlaH,14.0
+3,saH,SSN,karwA,14.0
+4,grAmAXipaweH,,RaRTIsambanXaH,6.0
+5,eva,INTF,sambanXaH,4.0
+6,gqhAw,NP,apAxAnam,9.0
+7,bahumUlyAni,NV,viSeRaNam,8.0
+8,vaswUni,NP,karma,9.0
+9,corayiwvA,,pUrvakAlaH,14.0
+10,gqham,NP,karma,11.0
+11,AnIya,KKS,pUrvakAlaH,14.0
+12,mAwuH,NP,upapaxasambanXaH,13.0
+13,samIpe,NP,aXikaraNam,14.0
+14,arakRaw,KP,,

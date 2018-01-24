@@ -1,0 +1,15 @@
+wordorder,word,POS,dep,head
+1,kAruNikaH,,viSeRaNam,2.0
+2,SamIkaH,,karwA,14.0
+3,sawwvavanwaH,,samucciwam,5.0
+4,AyuRmanwaH,,samucciwam,5.0
+5,ca,APY,viSeRaNam,6.0
+6,ime,SNV,karwA,7.0
+7,sanwi,KP,prawiyogI,8.0
+8,iwi,AUD,anuyogI,9.0
+9,ukwvA,KKS,pUrvakAlaH,14.0
+10,wAn,SN,karma,12.0
+11,svASrame,,aXikaraNam,12.0
+12,AnIya,KKS,pUrvakAlaH,14.0
+13,yaWociwAhArapAnapraxAnAxinA,,kriyAviSeRaNam,14.0
+14,apoRayaw,KP,,

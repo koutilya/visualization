@@ -1,0 +1,17 @@
+wordorder,word,POS,dep,head
+1,SrIkqRNaH,NS,karwA,15.0
+2,manxam,DV,vIpsA,3.0
+3,manxam,DV,kriyAviSeRaNam,4.0
+4,smayamAnaH,,karwqsamAnAXikaraNam,15.0
+5,svakIyam,,viSeRaNam,6.0
+6,kAryam,NP,karma,7.0
+7,karwum,KKS,prayojanam,15.0
+8,yaWA,AVK,sambanXaH,11.0
+9,eva,INTF,sambanXaH,8.0
+10,pravqwwaH,KP,prawiyogI,8.0
+11,waWA,AVK,anuyogI,15.0
+12,eva,INTF,sambanXaH,11.0
+13,girinirJarawaH,,apAxAnam,15.0
+14,jalavahanam,,karma,15.0
+15,prArabXam,NP,,
+16,iwi,AUD,sambanXaH,15.0

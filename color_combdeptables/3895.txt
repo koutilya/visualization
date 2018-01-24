@@ -1,0 +1,14 @@
+wordorder,word,POS,dep,head
+1,rAmaH,NS,karwA,13.0
+2,waxA,A,kAlAXikaraNam,4.0
+3,prawyayam,NP,karma,4.0
+4,janayan,KNV,samAnakAlaH,13.0
+5,ekena,SMKY,viSeRaNam,6.0
+6,maheRuNA,NV,karaNam,13.0
+7,sapwa,SMKY,viSeRaNam,8.0
+8,sAlAn,NP,samucciwam,11.0
+9,girim,,samucciwam,11.0
+10,rasAwalam,NP,samucciwam,11.0
+11,ca,APY,karma,13.0
+12,punaH,A,kriyAviSeRaNam,13.0
+13,biBexa,KP,,

@@ -1,0 +1,8 @@
+wordorder,word,POS,dep,head
+1,wawaH,A,anuyogI,7.0
+2,rAmaH,NS,karwA,6.0
+3,janasaMsaxi,NP,xeSAXikaraNam,6.0
+4,wAm,SN,gONakarma,6.0
+5,paruRam,NV,muKyakarma,6.0
+6,uvAca,KP,prawiyogI,1.0
+7,upAgamaw,KP,,

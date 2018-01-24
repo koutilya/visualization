@@ -1,0 +1,14 @@
+wordorder,word,POS,dep,head
+1,wawaH,A,anuyogI,13.0
+2,mahAkapiH,NV,karwA,12.0
+3,mEWilIm,,viSeRaNam,4.0
+4,sIwAm,NS,upapaxasambanXaH,5.0
+5,qwe,AUP,sambanXaH,8.0
+6,lafkAm,NS,viSeRaNam,7.0
+7,purIm,NP,karma,8.0
+8,xagXvA,KKS,pUrvakAlaH,12.0
+9,rAmAya,NS,wAxarWyam,10.0
+10,priyamAKyAwum,,prayojanam,12.0
+11,punaH,A,kriyAviSeRaNam,12.0
+12,AyAw,KP,prawiyogI,1.0
+13,prApwavAn,KN,,

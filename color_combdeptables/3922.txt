@@ -1,0 +1,13 @@
+wordorder,word,POS,dep,head
+1,waxA,A,kAlAXikaraNam,7.0
+2,sugrIvasahiwaH,KN,viSeRaNam,3.0
+3,rAmaH,NS,karwA,12.0
+4,waw,SN,viSeRaNam,5.0
+5,puRpakam,,karma,7.0
+6,punaH,A,kriyAviSeRaNam,7.0
+7,samAruhya,KKS,pUrvakAlaH,12.0
+8,AKyAyikAm,,karma,9.0
+9,jalpan,KNV,samAnakAlaH,12.0
+10,waxA,A,kAlAXikaraNam,12.0
+11,nanxigrAmam,NS,karma,12.0
+12,yayO,KP,,

@@ -1,0 +1,11 @@
+wordorder,word,POS,dep,head
+1,yawaH,A,hewuH,9.0
+2,hi,A,sambanXaH,1.0
+3,eRaH,SNV,karwA,9.0
+4,wasya,SN,RaRTIsambanXaH,5.0
+5,mahanIyawamasya,,viSeRaNam,7.0
+6,aSikRiwasya,,viSeRaNam,7.0
+7,BikRukasya,,RaRTIsambanXaH,8.0
+8,pAxayoH,NP,aXikaraNam,9.0
+9,wiRTawi,KP,,
+10,iwi,AUD,sambanXaH,9.0

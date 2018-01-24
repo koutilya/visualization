@@ -1,0 +1,4 @@
+wordorder,word,POS,dep,head
+1,pArSvasWagirinirJarawaH,,apAxAnam,2.0
+2,gqhIwvA,KKS,pUrvakAlaH,3.0
+3,piba,NP,,
