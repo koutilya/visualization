@@ -1,0 +1,9 @@
+wordorder,word,POS,dep,head
+1,SrIH,NV,karwA,7.0
+2,api,AVK,sambanXaH,1.0
+3,svAm,,karma,7.0
+4,BAgyam,NP,prawiyogI,5.0
+5,vinA,A,anuyogI,7.0
+6,kaFciw,SN,viSeRaNam,4.0
+7,xarSayawe,SN,,
+8,nahi,AN,sambanXaH,7.0

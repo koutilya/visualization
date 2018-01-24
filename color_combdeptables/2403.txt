@@ -1,0 +1,5 @@
+wordorder,word,POS,dep,head
+1,imam,SNV,karma,4.0
+2,svopayogArWam,,prayojanam,4.0
+3,svasamIpe,NP,aXikaraNam,4.0
+4,rakRawAm,NP,,

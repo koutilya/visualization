@@ -1,0 +1,8 @@
+wordorder,word,POS,dep,head
+1,yavakrIwaH,,karwA,7.0
+2,punaH,A,kriyAviSeRaNam,7.0
+3,api,AVK,sambanXaH,2.0
+4,wapasyAwaH,,apAxAnam,7.0
+5,virawaH,KN,karwqsamAnAXikaraNam,7.0
+6,na,AN,sambanXaH,7.0
+7,aBavaw,KP,,

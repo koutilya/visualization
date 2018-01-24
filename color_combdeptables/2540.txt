@@ -1,0 +1,6 @@
+wordorder,word,POS,dep,head
+1,ayam,SN,viSeRaNam,4.0
+2,wu,A,sambanXaH,1.0
+3,sArvajanikaH,,viSeRaNam,4.0
+4,mArgaH,NP,karwA,5.0
+5,aswi,KP,,

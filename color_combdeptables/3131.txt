@@ -1,0 +1,9 @@
+wordorder,word,POS,dep,head
+1,mqNmayapAwreRu,,aXikaraNam,3.0
+2,pUjAsAmagrIm,,karma,3.0
+3,niXAya,KKS,pUrvakAlaH,6.0
+4,raGuH,NS,karwA,8.0
+5,kOwsam,,karma,6.0
+6,sawkarwum,,prayojanam,8.0
+7,xvAri,NP,aXikaraNam,8.0
+8,upasWiwaH,KN,,

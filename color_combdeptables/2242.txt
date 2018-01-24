@@ -1,0 +1,7 @@
+wordorder,word,POS,dep,head
+1,lokApavAxawaH,,hewuH,2.0
+2,BIwaH,KP,karwqsamAnAXikaraNam,4.0
+3,kqpaNaH,NV,karwA,4.0
+4,jAyawe,KP,,
+5,na,AN,sambanXaH,4.0
+6,hi,A,sambanXaH,4.0

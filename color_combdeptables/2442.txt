@@ -1,0 +1,8 @@
+wordorder,word,POS,dep,head
+1,aho,KP,,
+2,BagavAn,,samboXyaH,7.0
+3,wvawkqpayA,,hewu,7.0
+4,mama,SN,RaRTIsambanXaH,5.0
+5,pAxO,NP,karwA,7.0
+6,wu,A,sambanXaH,5.0
+7,varwewe,KP,,

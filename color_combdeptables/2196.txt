@@ -1,0 +1,10 @@
+wordorder,word,POS,dep,head
+1,prawixinam,NP,kAlAXikaraNam,9.0
+2,yAcanAyAm,,aXikaraNam,
+3,safkocam,NP,karma,4.0
+4,anuBavan,KKS,samAnakAlaH,9.0
+5,saH,SSN,karwA,9.0
+6,samAcarapawram,,karma,9.0
+7,samAcArapawraviwarakAw,,apAxAnam,9.0
+8,eva,INTF,sambanXaH,7.0
+9,gqhNAwi,KP,,

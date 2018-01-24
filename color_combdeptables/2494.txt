@@ -1,0 +1,7 @@
+wordorder,word,POS,dep,head
+1,sarasam,NV,viSeRaNam,2.0
+2,Bojanam,NP,karma,5.0
+3,labXvA,KN,pUrvakAlaH,6.0
+4,nIrasam,,karwA,6.0
+5,na,AN,sambanXaH,6.0
+6,ApamAnayew,AN,,

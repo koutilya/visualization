@@ -1,0 +1,4 @@
+wordorder,word,POS,dep,head
+1,cOrAH,NP,karwA,3.0
+2,svamanIRiwam,,karma,3.0
+3,asAXayan,NP,,

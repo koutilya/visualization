@@ -1,0 +1,9 @@
+wordorder,word,POS,dep,head
+1,eRAm,SN,RaRTIsambanXaH,2.0
+2,anupasWiwOsawi,,BAvalakRaNasapwamI_samAnakAlaH,5.0
+3,nAgarikAH,NP,karwA,5.0
+4,asmAn,SN,karma,5.0
+5,Cewsyanwi,,samucciwam,7.0
+6,karwayiRyanwi,,samucciwam,7.0
+7,ca,APY,,
+8,eva,INTF,sambanXaH,7.0

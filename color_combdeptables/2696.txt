@@ -1,0 +1,7 @@
+wordorder,word,POS,dep,head
+1,Bayena,NP,hewuH,6.0
+2,kampamAnam,KN,viSeRaNam,4.0
+3,varRIyam,,viSeRaNam,4.0
+4,yuvakam,NP,karma,6.0
+5,senAXyakRaH,,karwA,6.0
+6,ASvAsayaw,NP,,

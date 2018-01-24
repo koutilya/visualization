@@ -1,0 +1,8 @@
+wordorder,word,POS,dep,head
+1,na,AN,sambanXaH,7.0
+2,ca,APY,sambanXaH,1.0
+3,nivAsArWam,,prayojanam,7.0
+4,kAciw,SN,viSeRaNam,5.0
+5,kutI,,karma,7.0
+6,eva,INTF,sambanXaH,5.0
+7,nirmiwA,INTF,,

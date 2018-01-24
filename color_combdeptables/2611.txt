@@ -1,0 +1,5 @@
+wordorder,word,POS,dep,head
+1,awaH,AVK,hewuH,4.0
+2,wapasyAm,,karma,4.0
+3,imAm,SNV,viSeRaNam,2.0
+4,AcarAmi,SNV,,

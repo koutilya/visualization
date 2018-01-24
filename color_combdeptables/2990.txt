@@ -1,0 +1,9 @@
+wordorder,word,POS,dep,head
+1,asmin,SN,viSeRaNam,3.0
+2,eva,INTF,sambanXaH,1.0
+3,anwarAle,NP,aXikaraNam,8.0
+4,kaSciw,SN,viSeRaNam,6.0
+5,wejasvI,NV,viSeRaNam,6.0
+6,janaH,NP,karwA,8.0
+7,wawra,A,aXikaraNam,8.0
+8,upasWiwaH,KN,,

@@ -1,0 +1,5 @@
+wordorder,word,POS,dep,head
+1,vivAhe,NP,aXikaraNam,4.0
+2,bahu,NP,viSeRaNam,3.0
+3,yOwukam,,karma,4.0
+4,miliwam,KN,,

@@ -1,0 +1,9 @@
+wordorder,word,POS,dep,head
+1,kinwu,AVK,,
+2,smaraNIyam,,prawiyogI,2.0
+3,yaw,A,anuyogI,4.0
+4,cURakaH,,karwA,8.0
+5,punaH,A,kriyAviSeRaNam,8.0
+6,jIviwaH,KNV,karwqsamAnAXikaraNam,8.0
+7,na,AN,sambanXaH,8.0
+8,sWAsyawi,KP,,

@@ -1,0 +1,5 @@
+wordorder,word,POS,dep,head
+1,saH,SSN,karwA,4.0
+2,AwmanaH,SN,RaRTIsambanXaH,3.0
+3,rIwinIwI,,karma,4.0
+4,suXArayawu,SN,,

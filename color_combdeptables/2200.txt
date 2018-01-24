@@ -1,0 +1,16 @@
+wordorder,word,POS,dep,head
+1,awaH,AVK,hewuH,8.0
+2,yaxA,A,kAlAXikaraNam,8.0
+3,viwarakaH,,karwA,8.0
+4,mAsAnwe,NP,aXikaraNam,8.0
+5,samAcArapawrasya,,RaRTIsambanXaH,6.0
+6,mUlyam,NP,muKyakarma,8.0
+7,mAm,SN,gONakarma,8.0
+8,ayAcawa,SN,,
+9,waxA,A,kAlAXikaraNam,14.0
+10,aham,SN,karwA,15.0
+11,wam,SN,karma,14.0
+12,prawiveSinaH,NP,apAxAnam,14.0
+13,eva,INTF,sambanXaH,12.0
+14,grahIwum,KN,prayojanam,15.0
+15,preriwavAn,KN,,

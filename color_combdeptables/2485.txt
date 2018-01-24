@@ -1,0 +1,7 @@
+wordorder,word,POS,dep,head
+1,gacCa,KP,,
+2,anena,SN,prawiyogI,1.0
+3,saha,AUP,anuyogI,1.0
+4,xruwawaram,KN,kriyAviSeRaNam,1.0
+5,eva,INTF,sambanXaH,4.0
+6,suxUraxeSe,,aXikaraNam,1.0

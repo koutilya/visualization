@@ -1,0 +1,7 @@
+wordorder,word,POS,dep,head
+1,BikRukaH,NP,karwA,6.0
+2,svecCayA,NP,kriyAviSeRaNam,3.0
+3,apasqwya,,pUrvakAlaH,6.0
+4,rAjFe,NP,sampraxAnam,6.0
+5,mArgam,NP,karma,6.0
+6,xawwavAn,KN,,

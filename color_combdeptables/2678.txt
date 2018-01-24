@@ -1,0 +1,15 @@
+wordorder,word,POS,dep,head
+1,xInArwavacasA,,karaNam,5.0
+2,kaH,SN,karwA,5.0
+3,api,AVK,sambanXaH,2.0
+4,Bagavanwam,NV,karma,5.0
+5,swavIwa,,prawiyogI,6.0
+6,cew,AVK,sambanXaH,7.0
+7,warhi,APY,anuyogI,13.0
+8,wam,SN,karma,10.0
+9,saH,SSN,karwA,13.0
+10,pariwrAwum,KKS,prayojanam,13.0
+11,svayam,SN,viSeRaNam,9.0
+12,saxyaH,A,aXikaraNam,13.0
+13,samewi,A,,
+14,hi,A,sambanXaH,13.0

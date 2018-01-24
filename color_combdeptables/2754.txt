@@ -1,0 +1,9 @@
+wordorder,word,POS,dep,head
+1,yena,SN,hewuH,8.0
+2,anyeRAm,SNV,viSeRaNam,3.0
+3,paWikAnAm,NP,RaRTIsambanXaH,6.0
+4,we,SN,viSeRaNam,5.0
+5,kaNtakAH,,karwA,8.0
+6,kaRtaxAyinaH,,karwqsamAnAXikaraNam,8.0
+7,na,AN,sambanXaH,8.0
+8,BaveyuHsambanXaH,AN,,

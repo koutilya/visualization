@@ -1,0 +1,6 @@
+wordorder,word,POS,dep,head
+1,weRu,SN,nirXAraNam,3.0
+2,keciw,SN,viSeRaNam,3.0
+3,SreRTinam,NP,karma,4.0
+4,upacariwum,,prayojanam,5.0
+5,pravqwwAH,KN,,

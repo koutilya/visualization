@@ -1,0 +1,6 @@
+wordorder,word,POS,dep,head
+1.0,vewanaBogI,,karmacArI,kiM
+2.0,wasya,SN,pawnI,kiM
+3.0,pawiH,NP,wAM,kiM
+4.0,pawnI,NP,vikRipwAvasWAM,kaWaM
+5.0,kasyaciw,SNV,gqhaXvaMsanena,kiM

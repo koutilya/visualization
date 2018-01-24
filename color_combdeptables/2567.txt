@@ -1,0 +1,8 @@
+wordorder,word,POS,dep,head
+1,anyAn,SN,karma,2.0
+2,ca,APY,sambanXaH,7.0
+3,api,AVK,sambanXaH,2.0
+4,xayAyukwA,,viSeRaNam,5.0
+5,jaganmAwA,,prawiyogI,6.0
+6,iva,ASD,anuyogI,7.0
+7,rakRawi,KP,,

@@ -1,0 +1,10 @@
+wordorder,word,POS,dep,head
+1,uxarapUram,NP,viSeRaNam,3.0
+2,ca,APY,sambanXaH,1.0
+3,Bojanam,NP,karma,4.0
+4,kArayiwvA,KKS,pUrvakAlaH,8.0
+5,sAmAnyaSuRkarotikAyAH,,RaRTIsambanXaH,7.0
+6,api,AVK,sambanXaH,5.0
+7,mahawwvam,NP,karma,8.0
+8,aboXayaw,KP,,
+9,iwi,AUD,sambanXaH,8.0

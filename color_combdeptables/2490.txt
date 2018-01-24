@@ -1,0 +1,6 @@
+wordorder,word,POS,dep,head
+1,aXunA,A,aXikaraNam,4.0
+2,anyaH,NP,viSeRaNam,3.0
+3,puwrahawyAprawiSoXagrahaNaXarmaH,NP,,
+4,pAlanIyaH,KN,karwqsamAnAXikaraNam,5.0
+5,avaSiRyawe,KP,,

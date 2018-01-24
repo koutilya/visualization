@@ -1,0 +1,8 @@
+wordorder,word,POS,dep,head
+1,aremUrKa,,samboXyaH,7.0
+2,pUrvam,NP,aXikaraNam,7.0
+3,eva,INTF,sambanXaH,2.0
+4,kim,DV,wAxarWyam,7.0
+5,na,AN,sambanXaH,7.0
+6,afgulIyakam,,karma,7.0
+7,praSaMsiwavAn,KN,,

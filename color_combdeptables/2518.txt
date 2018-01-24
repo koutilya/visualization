@@ -1,0 +1,6 @@
+wordorder,word,POS,dep,head
+1,samAjasya,NP,RaRTIsambanXaH,3.0
+2,ekA,SMKY,viSeRaNam,3.0
+3,vyakwiH,,karwA,5.0
+4,vikAryawAgraswA,,karwqsamAnAXikaraNam,5.0
+5,wiRTew,KP,,

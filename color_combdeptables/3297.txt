@@ -1,0 +1,9 @@
+wordorder,word,POS,dep,head
+1,sanXyopAsanAwaH,,apAxAnam,2.0
+2,nivqwwaH,KN,viSeRaNam,3.0
+3,mahAwmA,NP,karwA,8.0
+4,punaH,A,aXikaraNam,8.0
+5,agre,NP,aXikaraNam,8.0
+6,SiRyeNa,NP,prawiyogI,7.0
+7,saha,AUP,anuyogI,3.0
+8,prasWiwaH,KN,,

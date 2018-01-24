@@ -1,0 +1,7 @@
+wordorder,word,POS,dep,head
+1,AwmahawyAkArI,,karwA,6.0
+2,maraNowwaram,,aXikaraNam,6.0
+3,api,AVK,sambanXaH,2.0
+4,SAnwim,NP,karma,6.0
+5,na,AN,sambanXaH,6.0
+6,prApnowi,KP,,

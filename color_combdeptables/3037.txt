@@ -1,0 +1,10 @@
+wordorder,word,POS,dep,head
+1,saH,SSN,viSeRaNam,2.0
+2,yuvakaH,NP,karwA,9.0
+3,wu,A,sambanXaH,2.0
+4,bahiH,AUP,aXikaraNam,9.0
+5,AgacCan,KNV,,
+6,kasmEciw,SN,viSeRaNam,7.0
+7,XanikAya,,wAxarWyam,8.0
+8,wawPalam,,karma,9.0
+9,vikrIwavAn,KN,,

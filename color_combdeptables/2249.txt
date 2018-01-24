@@ -1,0 +1,8 @@
+wordorder,word,POS,dep,head
+1,mahABAge,,samboXyaH,7.0
+2,xIpam,NP,karma,3.0
+3,jvAlayiwvA,,pUrvakAlaH,7.0
+4,wElam,NP,karma,7.0
+5,kim,AP,sambanXaH,7.0
+6,vqWA,A,kriyAviSeRaNam,7.0
+7,apavyayase,A,,

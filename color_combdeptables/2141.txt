@@ -1,0 +1,8 @@
+wordorder,word,POS,dep,head
+1,saH,SSN,karwA,7.0
+2,imam,SNV,viSeRaNam,5.0
+3,apUrvaxqRtam,,viSeRaNam,5.0
+4,api,AVK,sambanXaH,3.0
+5,sambanXinam,NP,karma,7.0
+6,sacaraNasparSam,,kriyAviSeRaNam,7.0
+7,aByavanxawa,NP,,

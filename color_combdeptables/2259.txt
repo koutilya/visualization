@@ -1,0 +1,13 @@
+wordorder,word,POS,dep,head
+1,pawnyAH,NP,RaRTIsambanXaH,4.0
+2,ewena,SN,viSeRaNam,4.0
+3,sopAlamBena,,viSeRaNam,4.0
+4,uwwareNa,SN,hewuH,11.0
+5,kqpaNasya,NV,viSeRaNam,6.0
+6,pawyuH,NP,RaRTIsambanXaH,7.0
+7,muKam,NP,karma,9.0
+8,waxA,A,kAlAXikaraNam,9.0
+9,xarSanIyam,KN,prawiyogI,10.0
+10,eva,INTF,anuyogI,11.0
+11,AsIw,KP,,
+12,iwi,AUD,sambanXaH,11.0

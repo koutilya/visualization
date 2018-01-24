@@ -1,0 +1,9 @@
+wordorder,word,POS,dep,head
+1,wasmE,SN,sampraxAnam,7.0
+2,XarmavqXyarWam,,wAxarWyam,5.0
+3,svakIyam,NV,viSeRaNam,5.0
+4,amoGam,NV,viSeRaNam,5.0
+5,ASIrvAxam,NP,karma,7.0
+6,api,AVK,sambanXaH,5.0
+7,xawwavAn,KN,,
+8,iwi,AUD,sambanXaH,7.0

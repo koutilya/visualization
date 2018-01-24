@@ -1,0 +1,8 @@
+wordorder,word,POS,dep,head
+1,wena,SN,hewuH,4.0
+2,inxraH,NS,karwA,7.0
+3,prakataH,NP,karwA,4.0
+4,BUwvA,KKS,pUrvakAlaH,7.0
+5,wam,SN,karma,6.0
+6,wapasyAkAraNam,,karma,4.0
+7,pqRtavAn,KN,,

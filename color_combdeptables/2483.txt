@@ -1,0 +1,7 @@
+wordorder,word,POS,dep,head
+1,svasWe,NP,samucciwam,3.0
+2,sabale,,samucciwam,3.0
+3,ca,APY,karwA,4.0
+4,saFjAwesawi,,BAvalakRaNAsapwamI_pUrvakAlaH,6.0
+5,wam,SN,karma,6.0
+6,kaWiwavAn,KN,,

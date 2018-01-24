@@ -1,0 +1,11 @@
+wordorder,word,POS,dep,head
+1,anyawaH,KN,,
+2,ca,APY,sambanXaH,1.0
+3,sasammAnam,,kriyAviSeRaNam,6.0
+4,gqham,NP,prawiyogI,5.0
+5,prawi,AUP,anuyogI,6.0
+6,nivarwanasya,,RaRTIsambanXaH,7.0
+7,lAlasA,NP,karwA,10.0
+8,api,AVK,sambanXaH,7.0
+9,varXiwum,KKS,prayojanam,10.0
+10,prAraBawa,KP,,

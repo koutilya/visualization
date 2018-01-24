@@ -1,0 +1,10 @@
+wordorder,word,POS,dep,head
+1,yasya,SN,RaRTIsambanXaH,2.0
+2,lavaNam,,karma,3.0
+3,BakRyawe,KP,,
+4,wam,SNV,prawiyogI,5.0
+5,prawi,AUP,anuyogI,6.0
+6,viSvASaGAwaH,,karwA,9.0
+7,na,AN,sambanXaH,9.0
+8,nEwikaH,,karwqsamAnAXikaraNam,9.0
+9,aswi,KP,,

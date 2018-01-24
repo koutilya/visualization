@@ -1,0 +1,10 @@
+wordorder,word,POS,dep,head
+1,kinwu,AVK,,
+2,praSAsanawaH,,apAxAnam,9.0
+3,weByaH,SN,sampraxAnam,9.0
+4,ASvAsanawaH,,apAxAnam,5.0
+5,awirikwam,NP,karwA,9.0
+6,kim,AP,karwqsamAnAXikaraNam,9.0
+7,api,AVK,sambanXaH,6.0
+8,nEva,AN,sambanXaH,9.0
+9,miliwam,KN,,

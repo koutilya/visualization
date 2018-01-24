@@ -1,0 +1,9 @@
+wordorder,word,POS,dep,head
+1,Sawruxalam,,karma,6
+2,mahAvAyunA,,kriyAviSeRaNam,6
+3,meGaxalam,,prawiyogI,4
+4,iva,ASD,anuyogI,)
+5,sarvaWA,A,aXikaraNam,6
+6,ucCinnam,A,,
+7,asmAkam,NP,RaRTIsambanXaH,8
+8,senayA,NP,karwA,6

@@ -1,0 +1,7 @@
+wordorder,word,POS,dep,head
+1,awaH,AVK,hewuH,6.0
+2,eva,INTF,sambanXaH,1.0
+3,wu,A,sambanXaH,2.0
+4,sAkRikam,,viSeRaNam,5.0
+5,Bavanwam,SN,karma,6.0
+6,pqcCAmi,KP,,

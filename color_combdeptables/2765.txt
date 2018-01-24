@@ -1,0 +1,7 @@
+wordorder,word,POS,dep,head
+1,kinwu,AVK,,
+2,mAnasikaH,,viSeRaNam,3.0
+3,asanwoRaH,NP,karwA,6.0
+4,varXamAnaH,NP,karwqsamAnAXikaraNam,6.0
+5,eva,INTF,sambanXaH,4.0
+6,AsIw,KP,,
