@@ -1,0 +1,204 @@
+gAmBIrye saH samuxraH iva XEryeNa himavAn iva ca vIrye viRNunA saxqSaH aswi 
+samuxraH
+gAmBIrye
+samAnaXarma?
+ANALYSIS:
+1	gAmBIrye	NV	samAnaXarma?,3
+2	saH	SSN	karwA,12
+3	samuxraH	NP	prawiyogI,4
+4	iva	ASD	samucciwam,8
+5	XEryeNa	NP	samAnaXarma?,6
+6	himavAn	KN	prawiyogI,7
+7	iva	ASD	samucciwam,8
+8	ca	APY	anuyogI,2
+9	vIrye	NV	samAnaXarma?,10
+10	viRNunA	NS	upapaxasambanXaH,11
+11	saxqSaH	NP	viSeRaNam,2
+12	aswi	KP	
+
+
+
+gAmBIrye saH samuxraH iva XEryeNa himavAn iva ca vIrye viRNunA saxqSaH aswi 
+himavAn
+XEryeNa
+samAnaXarma?
+ANALYSIS:
+1	gAmBIrye	NV	samAnaXarma?,3
+2	saH	SSN	karwA,12
+3	samuxraH	NP	prawiyogI,4
+4	iva	ASD	samucciwam,8
+5	XEryeNa	NP	samAnaXarma?,6
+6	himavAn	KN	prawiyogI,7
+7	iva	ASD	samucciwam,8
+8	ca	APY	anuyogI,2
+9	vIrye	NV	samAnaXarma?,10
+10	viRNunA	NS	upapaxasambanXaH,11
+11	saxqSaH	NP	viSeRaNam,2
+12	aswi	KP	
+
+
+
+gAmBIrye saH samuxraH iva XEryeNa himavAn iva ca vIrye viRNunA saxqSaH aswi 
+viRNunA
+vIrye
+samAnaXarma?
+ANALYSIS:
+1	gAmBIrye	NV	samAnaXarma?,3
+2	saH	SSN	karwA,12
+3	samuxraH	NP	prawiyogI,4
+4	iva	ASD	samucciwam,8
+5	XEryeNa	NP	samAnaXarma?,6
+6	himavAn	KN	prawiyogI,7
+7	iva	ASD	samucciwam,8
+8	ca	APY	anuyogI,2
+9	vIrye	NV	samAnaXarma?,10
+10	viRNunA	NS	upapaxasambanXaH,11
+11	saxqSaH	NP	viSeRaNam,2
+12	aswi	KP	
+
+
+
+ saH kroXe kAlAgnisaxqSaH kRamayA ca pqWivIsamaH wyAge Xanaxena samaH sawye aparaH XarmaH iva aswi 
+kAlAgnisaxqSaH
+kroXe
+samAnaXarma?
+ANALYSIS:
+1	saH	SSN	karwA,14
+2	kroXe	NV	samAnaXarma?,3
+3	kAlAgnisaxqSaH		prawiyogI,5
+4	kRamayA	NV	samAnaXarma?,6
+5	ca	APY	anuyogI,1
+6	pqWivIsamaH	ASD	prawiyogI,5
+7	wyAge	NP	samAnaXarma?,8
+8	Xanaxena		upapaxasambanXaH,9
+9	samaH	SN	viSeRaNam,1
+10	sawye	NP	samAnaXarma?,12
+11	aparaH	SNV	viSeRaNam,12
+12	XarmaH	NP	prawiyogI,13
+13	iva	ASD	anuyogI,1
+14	aswi	KP	
+
+
+
+ saH kroXe kAlAgnisaxqSaH kRamayA ca pqWivIsamaH wyAge Xanaxena samaH sawye aparaH XarmaH iva aswi 
+pqWivIsamaH
+kRamayA
+samAnaXarma?
+ANALYSIS:
+1	saH	SSN	karwA,14
+2	kroXe	NV	samAnaXarma?,3
+3	kAlAgnisaxqSaH		prawiyogI,5
+4	kRamayA	NV	samAnaXarma?,6
+5	ca	APY	anuyogI,1
+6	pqWivIsamaH	ASD	prawiyogI,5
+7	wyAge	NP	samAnaXarma?,8
+8	Xanaxena		upapaxasambanXaH,9
+9	samaH	SN	viSeRaNam,1
+10	sawye	NP	samAnaXarma?,12
+11	aparaH	SNV	viSeRaNam,12
+12	XarmaH	NP	prawiyogI,13
+13	iva	ASD	anuyogI,1
+14	aswi	KP	
+
+
+
+ saH kroXe kAlAgnisaxqSaH kRamayA ca pqWivIsamaH wyAge Xanaxena samaH sawye aparaH XarmaH iva aswi 
+Xanaxena
+wyAge
+samAnaXarma?
+ANALYSIS:
+1	saH	SSN	karwA,14
+2	kroXe	NV	samAnaXarma?,3
+3	kAlAgnisaxqSaH		prawiyogI,5
+4	kRamayA	NV	samAnaXarma?,6
+5	ca	APY	anuyogI,1
+6	pqWivIsamaH	ASD	prawiyogI,5
+7	wyAge	NP	samAnaXarma?,8
+8	Xanaxena		upapaxasambanXaH,9
+9	samaH	SN	viSeRaNam,1
+10	sawye	NP	samAnaXarma?,12
+11	aparaH	SNV	viSeRaNam,12
+12	XarmaH	NP	prawiyogI,13
+13	iva	ASD	anuyogI,1
+14	aswi	KP	
+
+
+
+ saH kroXe kAlAgnisaxqSaH kRamayA ca pqWivIsamaH wyAge Xanaxena samaH sawye aparaH XarmaH iva aswi 
+XarmaH
+sawye
+samAnaXarma?
+ANALYSIS:
+1	saH	SSN	karwA,14
+2	kroXe	NV	samAnaXarma?,3
+3	kAlAgnisaxqSaH		prawiyogI,5
+4	kRamayA	NV	samAnaXarma?,6
+5	ca	APY	anuyogI,1
+6	pqWivIsamaH	ASD	prawiyogI,5
+7	wyAge	NP	samAnaXarma?,8
+8	Xanaxena		upapaxasambanXaH,9
+9	samaH	SN	viSeRaNam,1
+10	sawye	NP	samAnaXarma?,12
+11	aparaH	SNV	viSeRaNam,12
+12	XarmaH	NP	prawiyogI,13
+13	iva	ASD	anuyogI,1
+14	aswi	KP	
+
+
+
+ rAmaH somavaw priyaxarSanaH aswi 
+rAmaH
+somavaw
+upamAnam?
+ANALYSIS:
+1	rAmaH	NS	karwA,4
+2	somavaw	ASD	upamAnam?,1
+3	priyaxarSanaH	NV	karwqsamAnAXikaraNam,4
+4	aswi	KP	
+
+
+
+gafgAyAH purI kroSO
+purI
+gafgAyAH
+??
+ANALYSIS:
+1	gafgAyAH	NS	??,2
+2	purI	NP	
+3	kroSO		??,2
+
+
+
+gafgAyAH purI kroSO
+purI
+kroSO
+??
+ANALYSIS:
+1	gafgAyAH	NS	??,2
+2	purI	NP	
+3	kroSO		??,2
+
+
+
+vApI nagarAw kroSO
+vApI
+nagarAw
+??
+ANALYSIS:
+1	vApI		
+2	nagarAw	NP	??,1
+3	kroSO		??,1
+
+
+
+vApI nagarAw kroSO
+vApI
+kroSO
+??
+ANALYSIS:
+1	vApI		
+2	nagarAw	NP	??,1
+3	kroSO		??,1
+
+
+
