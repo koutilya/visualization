@@ -148,3 +148,13 @@
 
 ##21/12018
 -working on dep -relation .
+
+##22/1/2018
+-Rested 
+
+##23/1/2018
+-try the pattern at given devanagiri file , updated old sheets at google .
+
+##24/1/2018
+-reading the basics .
+
