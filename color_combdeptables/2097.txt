@@ -1,0 +1,9 @@
+wordorder,word,POS,dep,head
+1,saparivArAH,NP,viSeRaNam,4.0
+2,sarve,SN,viSeRaNam,4.0
+3,api,AVK,sambanXaH,2.0
+4,janwavaH,NP,karwA,7.0
+5,vane,NP,aXikaraNam,7.0
+6,premNA,NP,kriyAviSeRaNam,7.0
+7,vasanwi,KP,,
+8,sma,A,sambanXaH,7.0

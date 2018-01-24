@@ -1,0 +1,8 @@
+wordorder,word,POS,dep,head
+1,wasya,SN,RaRTIsambanXaH,2.0
+2,apasArakam,,karma,5.0
+3,ca,APY,sambanXaH,3.0
+4,svasammuKe,,xeSAXikaraNam,5.0
+5,upasWApayiwum,KKS,prayojanam,7.0
+6,sevakam,NP,karma,7.0
+7,AxiSaw,KP,,

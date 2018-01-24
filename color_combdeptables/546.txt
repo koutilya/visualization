@@ -1,0 +1,13 @@
+wordorder,word,POS,dep,head
+1,wawaH,A,,
+2,BrAwqSarIram,,karma,3.0
+3,agnisAwkqwvA,,pUrvakAlaH,9.0
+4,punaH,A,kriyAviSeRaNam,9.0
+5,navIkqwavEXavyaxuHKayA,,hewuH,9.0
+6,mayA,SN,karwA,12.0
+7,wvaxIyam,,viSeRaNam,8.0
+8,xeSam,NP,karma,9.0
+9,avawIrya,KKS,pUrvakAlaH,12.0
+10,ime,SNV,viSeRaNam,11.0
+11,kASAye,,karma,12.0
+12,gqhIwe,KP,,

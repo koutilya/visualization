@@ -1,0 +1,9 @@
+wordorder,word,POS,dep,head
+1,aham,SN,karma,4.0
+2,yena,SN,karwA,4.0
+3,iRtipaSumAram,,kriyAviSeRaNam,4.0
+4,mAriwaH,KN,,
+5,saH,SSN,karma,8.0
+6,anena,SN,viSeRaNam,7.0
+7,svAgawena,,karaNam,8.0
+8,aBinanxyawe,SN,,

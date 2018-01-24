@@ -1,0 +1,7 @@
+wordorder,word,POS,dep,head
+1,aham,SN,karwA,4.0
+2,wAn,SN,karma,4.0
+3,BojanAxixvArA,,kriyAviSeRaNam,4.0
+4,sawkaromi,,samucciwam,6.0
+5,pUjayAmi,KP,samucciwam,6.0
+6,ca,APY,,

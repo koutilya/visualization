@@ -1,0 +1,7 @@
+wordorder,word,POS,dep,head
+1,ekAkinIm,NV,viSeRaNam,2.0
+2,mAm,SN,karma,4.0
+3,prasupwAm,,viSeRaNam,2.0
+4,ujjahiwvA,,pUrvakAlaH,5.0
+5,gawaH,KN,,
+6,AryapuwraH,NP,karwA,5.0

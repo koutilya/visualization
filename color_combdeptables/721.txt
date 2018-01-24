@@ -1,0 +1,4 @@
+wordorder,word,POS,dep,head
+1,mqgO,,karma,2.0
+2,ahanyawAm,,,
+3,vyAXEH,,karwA,2.0

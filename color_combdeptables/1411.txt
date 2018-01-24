@@ -1,0 +1,4 @@
+wordorder,word,POS,dep,head
+1,paryavekRakaH,NP,karwA,3.0
+2,kim,AP,karma,3.0
+3,akarow,KP,,

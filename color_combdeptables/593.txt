@@ -1,0 +1,9 @@
+wordorder,word,POS,dep,head
+1,hemnaH,,RaRTIsambanXaH,5.0
+2,saMlakRyawe,,,
+3,hi,A,sambanXaH,4.0
+4,agnO,NP,aXikaraNam,2.0
+5,viSuxXiH,NP,anyawaraH,8.0
+6,SyAmikA,,anyawaraH,8.0
+7,api,AVK,sambanXaH,6.0
+8,vA,AVK,karwA,2.0

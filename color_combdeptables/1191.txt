@@ -1,0 +1,6 @@
+wordorder,word,POS,dep,head
+1,uwwareNa,SN,karaNam,5.0
+2,sanyAsinaH,,RaRTIsambanXaH,3.0
+3,manaHsWiwiH,NP,karwA,5.0
+4,kA,SNV,karwqsamAnAXikaraNam,5.0
+5,aBavaw,KP,,

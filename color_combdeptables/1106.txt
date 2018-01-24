@@ -1,0 +1,10 @@
+wordorder,word,POS,dep,head
+1,kimarWam,AP,sambanXaH,9.0
+2,mama,SN,samucciwam,4.0
+3,arjunasya,NS,samucciwam,4.0
+4,ca,APY,RaRTIsambanXaH,5.0
+5,sahajaBrAwqBAvam,,karma,6.0
+6,uwpAtya,KKS,pUrvakAlaH,9.0
+7,BIkaraxveRaparyavasAyi,,viSeRaNam,8.0
+8,vEram,NP,karma,9.0
+9,uwpAxiwam,KN,,

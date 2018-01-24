@@ -1,0 +1,14 @@
+wordorder,word,POS,dep,head
+1,anye,SN,viSeRaNam,5.0
+2,api,AVK,sambanXaH,1.0
+3,prakoRTasWAH,,viSeRaNam,5.0
+4,sarve,SN,viSeRaNam,5.0
+5,janAH,NP,karwA,12.0
+6,vqxXAyAH,,RaRTIsambanXaH,8.0
+7,ixam,SN,viSeRaNam,8.0
+8,AcaraNam,NP,karma,9.0
+9,acCam,,karmasamAnAXikaraNam,12.0
+10,na,AN,sambanXaH,12.0
+11,eva,INTF,sambanXaH,10.0
+12,amanyanwa,INTF,,
+13,iwi,AUD,sambanXaH,12.0

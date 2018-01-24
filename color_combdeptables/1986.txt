@@ -1,0 +1,6 @@
+wordorder,word,POS,dep,head
+1,purA,NP,aXikaraNam,2.0
+2,vafgaxeSe,,aXikaraNam,8.0
+3,navaxvIpe,,aXikaraNam,8.0
+4,nyAyaSAswrasya,,RaRTIsambanXaH,
+5,ekaH,SMKY,,

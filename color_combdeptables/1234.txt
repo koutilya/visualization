@@ -1,0 +1,14 @@
+wordorder,word,POS,dep,head
+1,sahEva,,kriyAviSeRaNam,4.0
+2,ixam,SN,karma,4.0
+3,api,AVK,sambanXaH,2.0
+4,sUciwavawI,KN,,
+5,yaw,A,sambanXaH,4.0
+6,saH,SSN,karwA,8.0
+7,yAvaw,AVK,sambanXaH,8.0
+8,yAciRyawe,AVK,,
+9,wawaH,A,apAxAnam,10.0
+10,xviguNiwam,,karma,13.0
+11,wasya,SN,RaRTIsambanXaH,12.0
+12,prawiveSI,NP,karwA,13.0
+13,prApsyawi,KP,,

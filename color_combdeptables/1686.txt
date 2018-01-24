@@ -1,0 +1,9 @@
+wordorder,word,POS,dep,head
+1,mAwApiwarO,NP,karwA,3.0
+2,gawvA,KKS,pUrvakAlaH,3.0
+3,xqRtavanwO,KN,prawiyogI,4.0
+4,yaw,A,anuyogI,8.0
+5,wayoH,SN,RaRTIsambanXaH,6.0
+6,puwraH,NP,karwA,8.0
+7,sakuSalaH,,karwqsamAnAXikaraNam,8.0
+8,aswi,KP,,

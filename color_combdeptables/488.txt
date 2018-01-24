@@ -1,0 +1,5 @@
+wordorder,word,POS,dep,head
+1,aBivyakwAyAm,,viSeRaNam,2.0
+2,canxrikAyAm,,sambanXaH,3.0
+3,kim,DV,,
+4,xIpikApOnarukwyena,,sambanXaH,3.0

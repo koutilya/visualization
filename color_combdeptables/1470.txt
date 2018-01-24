@@ -1,0 +1,9 @@
+wordorder,word,POS,dep,head
+1,wawra,A,kAlAXikaraNam,8.0
+2,mayA,SN,karwA,8.0
+3,paryatawA,NV,viSeRaNam,2.0
+4,ekasya,SMKY,viSeRaNam,5.0
+5,SavAcCAxanAxyAxisAmagrIvikrewuH,,RaRTIsambanXaH,6.0
+6,vipaNyAm,NP,aXikaraNam,7.0
+7,liKiwam,KN,karma,8.0
+8,xqRtam,KN,,

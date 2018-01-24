@@ -1,0 +1,13 @@
+wordorder,word,POS,dep,head
+1,kinwu,AVK,,
+2,wasya,SN,viSeRaNam,3.0
+3,mAwApiwroH,NP,RaRTIsambanXaH,4.0
+4,pariciwena,,karwA,12.0
+5,wasmE,SN,sampraxAnam,8.0
+6,svakIyAm,SN,viSeRaNam,7.0
+7,kanyAm,NP,karma,8.0
+8,xawwvA,KKS,pUrvakAlaH,12.0
+9,kaScana,SNV,viSeRaNam,11.0
+10,ASAyAH,NP,RaRTIsambanXaH,11.0
+11,saFcAraH,NP,karma,12.0
+12,kqwaH,KN,,

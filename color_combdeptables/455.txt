@@ -1,0 +1,6 @@
+wordorder,word,POS,dep,head
+1,wawkim,,sambanXaH,5.0
+2,ujjihAnajIviwAm,,viSeRaNam,3.0
+3,varAkIm,NP,karma,5.0
+4,na,AN,sambanXaH,5.0
+5,anukAmyase,AN,,

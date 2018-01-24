@@ -1,0 +1,7 @@
+wordorder,word,POS,dep,head
+1,ixam,SN,karma,2.0
+2,xqRtvA,KN,pUrvakAlaH,6.0
+3,vaFcakaH,NP,viSeRaNam,4.0
+4,vyAXaH,NP,karwA,6.0
+5,sAXuveRam,,karma,6.0
+6,XqwavAn,KN,,

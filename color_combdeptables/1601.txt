@@ -1,0 +1,12 @@
+wordorder,word,POS,dep,head
+1,viXAnasaBAyAH,,RaRTIsambanXaH,2.0
+2,aXiveSane,,aXikaraNam,11.0
+3,wasmin,SN,viSeRaNam,4.0
+4,xine,NP,aXikaraNam,11.0
+5,saxasyAnAm,,RaRTIsambanXaH,6.0
+6,BARaNe,NP,aXikaraNam,11.0
+7,apekRAwaH,,apAxAnam,11.0
+8,aXikA,NV,viSeRaNam,10.0
+9,eva,INTF,sambanXaH,8.0
+10,ugrawA,,karwA,11.0
+11,AsIw,KP,,

@@ -1,0 +1,7 @@
+wordorder,word,POS,dep,head
+1,vaFcanam,,karwA,6.0
+2,hi,A,sambanXaH,1.0
+3,mahApApam,,samucciwam,5.0
+4,mahArOravapAwakam,,samucciwam,5.0
+5,ca,APY,karwqsamAnAXikaraNam,6.0
+6,Bavawi,KP,,

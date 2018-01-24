@@ -1,0 +1,5 @@
+wordorder,word,POS,dep,head
+1,kena,SN,viSeRaNam,2.0
+2,upAyena,NP,karaNam,3.0
+3,svarakRAm,,karma,4.0
+4,kariRyAmi,KP,,

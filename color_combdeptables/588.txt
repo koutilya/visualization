@@ -1,0 +1,6 @@
+wordorder,word,POS,dep,head
+1,kRewragAminA,,viSeRaNam,2.0
+2,varwmanA,,karaNam,3.0
+3,gacCanwam,AB,samAnakAlaH,5.0
+4,yAwrikam,,karma,5.0
+5,apaSyaw,KP,,

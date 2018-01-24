@@ -1,0 +1,12 @@
+wordorder,word,POS,dep,head
+1,rAjA,NP,karwA,4.0
+2,janawAyAm,,aXikaraNam,4.0
+3,GoRaNAm,NP,karma,4.0
+4,akArayaw,KP,prawiyogI,5.0
+5,yaw,A,anuyogI,6.0
+6,rAjFi,NP,aXikaraNam,7.0
+7,avaguNaxarSakaH,,karwA,11.0
+8,rAjawaH,,apAxAnam,11.0
+9,BUyAMsam,,viSeRaNam,10.0
+10,puraskAram,,karma,11.0
+11,prApsyawi,KP,,

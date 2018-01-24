@@ -1,0 +1,5 @@
+wordorder,word,POS,dep,head
+1,varRAkAle,NP,aXikaraNam,4.0
+2,naBaH,NP,karwA,4.0
+3,meGAcCannaH,,karwqsamAnAXikaraNam,4.0
+4,Bavawi,KP,,

@@ -1,0 +1,6 @@
+wordorder,word,POS,dep,head
+1,mama,SN,RaRTIsambanXaH,3.0
+2,SIGrAwiSIGram,KV,kriyAviSeRaNam,3.0
+3,gamanam,KN,karwA,5.0
+4,awyAvaSyakam,,kriyAviSeRaNam,3.0
+5,aswi,KP,,

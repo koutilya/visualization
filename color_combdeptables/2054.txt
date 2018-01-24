@@ -1,0 +1,12 @@
+wordorder,word,POS,dep,head
+1,wawra,A,aXikaraNam,3.0
+2,saH,SSN,karwA,11.0
+3,nivAsinO,,viSeRaNam,6.0
+4,vqxXO,,viSeRaNam,6.0
+5,kuRTinO,,viSeRaNam,6.0
+6,xampawI,NP,karma,8.0
+7,wElAByafgasnAnAxinA,,karaNam,8.0
+8,viSoXya,KKS,pUrvakAlaH,11.0
+9,Bojanam,NP,karma,10.0
+10,pakwvA,,pUrvakAlaH,11.0
+11,BojiwavAn,NP,,

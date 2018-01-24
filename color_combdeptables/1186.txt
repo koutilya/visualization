@@ -1,0 +1,7 @@
+wordorder,word,POS,dep,head
+1,wam,SNV,karma,2.0
+2,prasAxayiwum,KKS,prayojanam,6.0
+3,eva,INTF,sambanXaH,2.0
+4,aham,SN,karwA,6.0
+5,ixam,SN,karma,6.0
+6,vIjayAmi,SN,,

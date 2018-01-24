@@ -1,0 +1,6 @@
+wordorder,word,POS,dep,head
+1,BArawIyasanyAsI,,karwA,5.0
+2,vixeSe,NP,viSeRaNam,3.0
+3,SmaSAne,NP,xeSAXikaraNam,4.0
+4,kim,AP,karma,5.0
+5,apaSyaw,KP,,

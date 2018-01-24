@@ -1,0 +1,6 @@
+wordorder,word,POS,dep,head
+1,maXyasWA,NP,viSeRaNam,2.0
+2,BavawI,KP,karwA,5.0
+3,nO,SN,karma,5.0
+4,guNaxoRawaH,,kriyAviSeRaNam,5.0
+5,paricewumarhawi,SN,,

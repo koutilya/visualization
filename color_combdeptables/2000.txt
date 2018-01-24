@@ -1,0 +1,13 @@
+wordorder,word,POS,dep,head
+1,XanopArjanArWam,,prayojanam,3.0
+2,xeSAnwaram,,karma,3.0
+3,gacCawoH,,viSeRaNam,5.0
+4,xvayoH,SMK,viSeRaNam,5.0
+5,miwrayoH,,RaRTIsambanXaH,6.0
+6,haswe,NP,aXikaraNam,15.0
+7,nagarasamIpe,,viSeRaNam,9.0
+8,eva,INTF,sambanXaH,9.0
+9,vane,NP,aXikaraNam,15.0
+10,BUmO,NP,aXikaraNam,11.0
+11,surakRiwaH,KN,pUrvakAlaH,15.0
+12,ekaH,SMKY,,

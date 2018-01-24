@@ -1,0 +1,10 @@
+wordorder,word,POS,dep,head
+1,vayasya,NP,samboXyaH,9.0
+2,kim,DV,sambanXaH,9.0
+3,paramArWawaH,NP,kriyAviSeRaNam,9.0
+4,eva,INTF,sambanXaH,3.0
+5,xevyAH,NV,RaRTIsambanXaH,8.0
+6,vrawanimiwwaH,,viSeRaNam,8.0
+7,ayam,SN,viSeRaNam,8.0
+8,AramBaH,KN,karwA,9.0
+9,syAw,KP,,

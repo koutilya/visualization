@@ -1,0 +1,7 @@
+wordorder,word,POS,dep,head
+1,sarvajFasya,,RaRTIsambanXaH,4.0
+2,api,AVK,sambanXaH,1.0
+3,ekAkinaH,,viSeRaNam,1.0
+4,nirNayAByupagamaH,,karwA,6.0
+5,xoRAya,NP,prayojanam,6.0
+6,kalpawesampaxyaweBavawi,NP,,

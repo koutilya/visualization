@@ -1,0 +1,11 @@
+wordorder,word,POS,dep,head
+1,param,AVK,sambanXaH,10.0
+2,paScAw,A,kAlAXikaraNam,10.0
+3,kenaciw,SNV,viSeRaNam,4.0
+4,kAraNena,NP,karaNam,10.0
+5,waw,SN,viSeRaNam,7.0
+6,eva,INTF,sambanXaH,5.0
+7,prema,NP,karwA,10.0
+8,GoraSawruwAyAm,,aXikaraNam,9.0
+9,parivarwiwam,KN,karwqsamAnAXikaraNam,10.0
+10,aBavaw,KP,,

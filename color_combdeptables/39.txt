@@ -1,0 +1,13 @@
+wordorder,word,POS,dep,head
+1,saH,SSN,,
+2,eva,INTF,sambanXaH,1.0
+3,vAswavikaH,NV,viSeRaNam,7.0
+4,sanyAsI,NP,samucciwam,7.0
+5,mahAwmA,NP,samucciwam,7.0
+6,rARtranewA,,samucciwam,7.0
+7,vA,AVK,viSeRaNam,1.0
+8,yaH,SN,,
+9,nirXanAn,,karma,12.0
+10,sevawe,KP,anyawaraH,12.0
+11,Bajawe,KP,anyawaraH,12.0
+12,vA,AVK,prawiyogI,1.0

@@ -1,0 +1,8 @@
+wordorder,word,POS,dep,head
+1,evameva,INTF,kriyAviSeRaNam,8.0
+2,janawAyAH,NP,RaRTIsambanXaH,4.0
+3,vyakwiH,,karwA,8.0
+4,AwmIyAn,,viSeRaNam,6.0
+5,aBAvABiyogAn,,muKyakarma,8.0
+6,janaprawiniXim,,gONakarma,8.0
+7,SrAvayawi,KP,,

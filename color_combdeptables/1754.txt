@@ -1,0 +1,10 @@
+wordorder,word,POS,dep,head
+1,SreRTI,NS,karwA,9.0
+2,api,AVK,sambanXaH,1.0
+3,svakIyam,NV,viSeRaNam,4.0
+4,paFcaSawarUpyakANAm,,RaRTIsambanXaH,5.0
+5,pAriwoRikam,NP,karma,7.0
+6,viwwAXikAriwaH,,apAxAnam,7.0
+7,grahIwum,KN,prayojanam,9.0
+8,gAyakam,,karma,9.0
+9,akaWayaw,KP,,

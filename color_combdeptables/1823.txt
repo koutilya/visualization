@@ -1,0 +1,4 @@
+wordorder,word,POS,dep,head
+1,grAmasImAwaH,,apAxAnam,2.0
+2,bahiH,AUP,xeSAXikaraNam,5.0
+3,ekaH,SMKY,,

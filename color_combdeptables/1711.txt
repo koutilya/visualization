@@ -1,0 +1,8 @@
+wordorder,word,POS,dep,head
+1,ekaxA,A,xeSAXikaraNam,7.0
+2,kenaciw,SNV,viSeRaNam,4.0
+3,bqhawA,,viSeRaNam,4.0
+4,aparAXena,NP,karaNam,7.0
+5,wAByAm,SN,wAxarWyam,6.0
+6,mqwyuxaNdaH,NP,karwA,7.0
+7,uxGoRiwaH,KN,,

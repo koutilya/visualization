@@ -1,0 +1,11 @@
+wordorder,word,POS,dep,head
+1,magaXarAjaH,,karwA,10.0
+2,prakRINasakalasEnyamaNdalam,,viSeRaNam,3.0
+3,mAlavarAjam,,karma,5.0
+4,jIvagrAham,,kriyAviSeRaNam,5.0
+5,aBigqhya,,pUrvakAlaH,10.0
+6,xayAluwayA,NP,hewuH,10.0
+7,punaH,A,kriyAviSeRaNam,10.0
+8,api,AVK,sambanXaH,7.0
+9,svarAjye,NP,viRayAXikaraNam,10.0
+10,prawisWApayAmAsa,NP,,

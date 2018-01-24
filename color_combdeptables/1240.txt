@@ -1,0 +1,9 @@
+wordorder,word,POS,dep,head
+1,anyasya,SNV,RaRTIsambanXaH,2.0
+2,aniRtam,NP,karma,3.0
+3,karwum,KKS,karma,5.0
+4,icCukaH,NV,viSeRaNam,5.0
+5,janaH,NP,karwA,8.0
+6,kasya,SN,RaRTIsambanXaH,7.0
+7,upekRAm,NP,karma,8.0
+8,karowi,KP,,

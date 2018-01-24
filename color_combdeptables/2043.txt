@@ -1,0 +1,8 @@
+wordorder,word,POS,dep,head
+1,ekaxA,A,aXikaraNam,7.0
+2,maharRiramaNam,,karma,3.0
+3,parIkRiwum,KN,prayojanam,7.0
+4,eva,INTF,sambanXaH,3.0
+5,kecana,SN,viSeRaNam,6.0
+6,girijAgqhasvAminaH,,karwA,7.0
+7,pqRtavanwaH,KNV,,

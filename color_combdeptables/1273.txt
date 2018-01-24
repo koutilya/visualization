@@ -1,0 +1,9 @@
+wordorder,word,POS,dep,head
+1,mama,SN,RaRTIsambanXaH,2.0
+2,AvAsaparisare,,xeSAXikaraNam,8.0
+3,ekamiRtAnnavyavasAyI,,karwA,8.0
+4,prAyaH,A,sambanXaH,8.0
+5,varReByaH,,apAxAnam,8.0
+6,AvAsinAm,,RaRTIsambanXaH,7.0
+7,AvaSyakawAH,,karma,8.0
+8,pUrayawi,KP,,

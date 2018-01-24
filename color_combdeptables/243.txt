@@ -1,0 +1,7 @@
+wordorder,word,POS,dep,head
+1,vAyunA,NP,karaNam,6.0
+2,warUNAm,NP,RaRTIsambanXaH,3.0
+3,PalAni,NP,karwA,6.0
+4,sarovarasya,,RaRTIsambanXaH,5.0
+5,jale,NP,aXikaraNam,6.0
+6,pawiRyanwi,KP,,

@@ -1,0 +1,4 @@
+wordorder,word,POS,dep,head
+1,BArawamAwA,NS,karwA,3.0
+2,pArawanwryapASawaH,,apAxAnam,3.0
+3,vimukwA,KP,,

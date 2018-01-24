@@ -1,0 +1,13 @@
+wordorder,word,POS,dep,head
+1,aham,SN,karwA,11.0
+2,evam,AUD,kriyAviSeRaNam,8.0
+3,AjIvanam,NP,karma,8.0
+4,BavawIm,SN,samucciwam,7.0
+5,BavaxIyam,,viSeRaNam,6.0
+6,xeSam,,samucciwam,7.0
+7,ca,APY,karma,8.0
+8,seviwum,,prayojanam,11.0
+9,pUrNam,NV,viSeRaNam,10.0
+10,avasaram,NP,karma,11.0
+11,prApsyAmi,KP,,
+12,iwi,AUD,sambanXaH,11.0

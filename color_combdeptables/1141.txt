@@ -1,0 +1,9 @@
+wordorder,word,POS,dep,head
+1,yaH,SN,karwA,3.0
+2,yasmAw,SN,apAxAnam,3.0
+3,jAyawe,KP,,
+4,saH,SSN,karwA,8.0
+5,api,AVK,sambanXaH,4.0
+6,svapiwA,,prawiyogI,7.0
+7,iva,ASD,anuyogI,4.0
+8,buBURawi,ASD,,

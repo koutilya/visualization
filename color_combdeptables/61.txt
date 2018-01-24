@@ -1,0 +1,9 @@
+wordorder,word,POS,dep,head
+1,viSvAmiwrasya,NS,RaRTIsambanXaH,2.0
+2,ASramAw,NP,apAxAnam,8.0
+3,rAmaH,NS,samucciwam,6.0
+4,ca,APY,sambanXaH,8.0
+5,lakRmaNaH,NS,samucciwam,6.0
+6,ca,APY,karwA,8.0
+7,miWilAm,,karma,8.0
+8,AgacCawAm,,,

@@ -1,0 +1,11 @@
+wordorder,word,POS,dep,head
+1,Awmavaw,ASD,kriyAviSeRaNam,8.0
+2,sarvajIveRu,,samucciwam,4.0
+3,jadajafgamavaswuRu,,samucciwam,4.0
+4,ca,APY,aXikaraNam,8.0
+5,vyavaharwA,,viSeRaNam,6.0
+6,janaH,NP,karwA,8.0
+7,jAwu,KP,aXikaraNam,8.0
+8,wuxawe,KP,,
+9,nEva,AN,sambanXaH,8.0
+10,kaFcana,A,viSeRaNam,6.0

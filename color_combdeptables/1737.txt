@@ -1,0 +1,7 @@
+wordorder,word,POS,dep,head
+1,kaxAciw,A,kAlAXikaraNam,6.0
+2,imO,SN,karwA,6.0
+3,mAm,SN,karma,6.0
+4,BarawIyam,,karmasamAnAXikaraNam,5.0
+5,mawvA,KKS,pUrvakAlaH,6.0
+6,apamAnayawaH,KKS,,

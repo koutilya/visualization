@@ -1,0 +1,6 @@
+wordorder,word,POS,dep,head
+1,purA,NP,kAlAXikaraNam,4.0
+2,vixvawwAparIkRaNam,,karwA,4.0
+3,kaWam,AP,kriyAviSeRaNam,4.0
+4,Bavawi,KP,,
+5,sma,A,sambanXaH,4.0
