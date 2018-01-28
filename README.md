@@ -158,3 +158,14 @@
 ##24/1/2018
 -reading the basics .
 
+#25/1/2018
+-lemma distrubution , added 100 lines to phase3 from phase2 
+
+#26/1/2018
+-lappy problem slowed down,learned to extract data from http://scl.samsaadhanii.in/ ,
+
+#27/1/2018
+-completed  400 lines to phase 3  by using the new site(http://scl.samsaadhanii.in/) provided
+
+#28/1/2018
+-updating sheets
