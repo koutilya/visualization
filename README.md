@@ -168,4 +168,8 @@
 -completed  400 lines to phase 3  by using the new site(http://scl.samsaadhanii.in/) provided
 
 #28/1/2018
--updating sheets
+-updating sheets,correcteced changes in 367 files
+
+#29/1/2018
+-find conflicts,validating
+
