@@ -1,4 +1,4 @@
-# main file is dataframe_towork,conflicts_towork.
+# main file is dataframe_towork.csv,conflicts_towork.csv,input_line.txt,dependency.txt,original_line.text
 # In conflicts_towork 
   note conflicts for 2 ids in dataframe_towork
   take 'id' column as index .
