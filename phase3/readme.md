@@ -1,4 +1,5 @@
-# main file is dataframe_towork.csv,conflicts_towork.csv,input_line.txt,dependency.txt,original_line.text
+# main files are dataframe_towork.csv,conflicts_towork.csv,Graph_towork.graphml,input_line.txt,dependency.txt,original_line.text
+
 # In conflicts_towork 
   note conflicts for 2 ids in dataframe_towork
   take 'id' column as index .
@@ -12,3 +13,10 @@
   
   
   
+# Graph_towork.graphml
+  Here we take every row in Dataframe_towork as node with attributes .
+  Here every edge represent two nodes(i.e rows in Dataframe_towork) which are not conflicted .
+  
+  
+# folder 999 
+  Is sample of all my files in phase3.zip and phase3_graphML.zip .
