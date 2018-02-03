@@ -1,0 +1,7 @@
+filename : kAraka_viBakwi_sents_GOLD_simple.txt
+lineno : 2648
+SENT: xevasya prasAxena jIvAmi
+ANALYSIS:
+1	xevasya	NP	RaRTIsambanXaH,2
+2	prasAxena	NP	hewuH,3
+3	jIvAmi	KP	

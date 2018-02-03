@@ -1,0 +1,3 @@
+input line : xevasya prasAxena jIvAmi
+converted line : devasya prasādena jīvāmi 
+converted line char :d,e,v,a,s,y,a, ,p,r,a,s,ā,d,e,n,a, ,j,ī,v,ā,m,i, 

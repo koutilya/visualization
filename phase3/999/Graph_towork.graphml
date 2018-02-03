@@ -1,0 +1,105 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key attr.name="wordorder" attr.type="string" for="node" id="d16"/>
+<key attr.name="word_wx" attr.type="string" for="node" id="d15"/>
+<key attr.name="sandhi_words" attr.type="string" for="node" id="d14"/>
+<key attr.name="sandhi_indexs" attr.type="string" for="node" id="d13"/>
+<key attr.name="word_slp1" attr.type="string" for="node" id="d12"/>
+<key attr.name="aux_inf" attr.type="string" for="node" id="d11"/>
+<key attr.name="wordlenth" attr.type="long" for="node" id="d10"/>
+<key attr.name="colspan" attr.type="long" for="node" id="d9"/>
+<key attr.name="morph" attr.type="string" for="node" id="d8"/>
+<key attr.name="pre_verb" attr.type="string" for="node" id="d7"/>
+<key attr.name="lemma" attr.type="string" for="node" id="d6"/>
+<key attr.name="word" attr.type="string" for="node" id="d5"/>
+<key attr.name="chunk_no" attr.type="long" for="node" id="d4"/>
+<key attr.name="position" attr.type="long" for="node" id="d3"/>
+<key attr.name="color_class" attr.type="string" for="node" id="d2"/>
+<key attr.name="level" attr.type="long" for="node" id="d1"/>
+<key attr.name="id" attr.type="long" for="node" id="d0"/>
+<graph edgedefault="directed"><node id="0">
+  <data key="d0">0</data>
+  <data key="d1">1</data>
+  <data key="d2">deep_sky_back</data>
+  <data key="d3">0</data>
+  <data key="d4">1</data>
+  <data key="d5">devasya</data>
+  <data key="d6">deva</data>
+  <data key="d7"></data>
+  <data key="d8">g. sg. m.</data>
+  <data key="d9">7</data>
+  <data key="d10">7</data>
+  <data key="d11"></data>
+  <data key="d12">devasya</data>
+  <data key="d13"></data>
+  <data key="d14"></data>
+  <data key="d15">xevasya</data>
+  <data key="d16">1</data>
+</node>
+<node id="1">
+  <data key="d0">1</data>
+  <data key="d1">1</data>
+  <data key="d2">deep_sky_back</data>
+  <data key="d3">0</data>
+  <data key="d4">1</data>
+  <data key="d5">devasya</data>
+  <data key="d6">deva</data>
+  <data key="d7"></data>
+  <data key="d8">g. sg. n.</data>
+  <data key="d9">7</data>
+  <data key="d10">7</data>
+  <data key="d11"></data>
+  <data key="d12">devasya</data>
+  <data key="d13"></data>
+  <data key="d14"></data>
+  <data key="d15">xevasya</data>
+  <data key="d16">1</data>
+</node>
+<node id="2">
+  <data key="d0">2</data>
+  <data key="d1">1</data>
+  <data key="d2">deep_sky_back</data>
+  <data key="d3">8</data>
+  <data key="d4">2</data>
+  <data key="d5">prasādena</data>
+  <data key="d6">prasāda</data>
+  <data key="d7"></data>
+  <data key="d8">i. sg. m.</data>
+  <data key="d9">9</data>
+  <data key="d10">9</data>
+  <data key="d11"></data>
+  <data key="d12">prasAdena</data>
+  <data key="d13"></data>
+  <data key="d14"></data>
+  <data key="d15">prasAxena</data>
+  <data key="d16">2</data>
+</node>
+<node id="3">
+  <data key="d0">3</data>
+  <data key="d1">1</data>
+  <data key="d2">carmin_back</data>
+  <data key="d3">18</data>
+  <data key="d4">3</data>
+  <data key="d5">jīvāmi</data>
+  <data key="d6">jīv</data>
+  <data key="d7"></data>
+  <data key="d8">pr. [1] ac. sg. 1</data>
+  <data key="d9">6</data>
+  <data key="d10">6</data>
+  <data key="d11"></data>
+  <data key="d12">jIvAmi</data>
+  <data key="d13"></data>
+  <data key="d14"></data>
+  <data key="d15">jIvAmi</data>
+  <data key="d16">3</data>
+</node>
+<edge source="0" target="2"/>
+<edge source="0" target="3"/>
+<edge source="1" target="2"/>
+<edge source="1" target="3"/>
+<edge source="2" target="0"/>
+<edge source="2" target="1"/>
+<edge source="2" target="3"/>
+<edge source="3" target="0"/>
+<edge source="3" target="1"/>
+<edge source="3" target="2"/>
+</graph></graphml>

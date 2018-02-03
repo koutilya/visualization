@@ -1,0 +1,4 @@
+wordorder,word,POS,dep,head
+1,xevasya,NP,RaRTIsambanXaH,2
+2,prasAxena,NP,hewuH,3
+3,jIvAmi,KP,,

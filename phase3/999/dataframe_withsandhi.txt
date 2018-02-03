@@ -1,0 +1,10 @@
+id,level,color_class,position,chunk_no,word,lemma,pre_verb,morph,colspan,wordlenth,aux_inf,word_slp1,sandhi_indexs,sandhi_words
+0,1,deep_sky_back,0,1,devasya,deva,,g. sg. m.,7,7,,devasya,,
+1,1,deep_sky_back,0,1,devasya,deva,,g. sg. n.,7,7,,devasya,,
+2,1,deep_sky_back,8,2,prasādena,prasāda,,i. sg. m.,9,9,,prasAdena,,
+3,1,carmin_back,18,3,jīvāmi,jīv,,pr. [1] ac. sg. 1,6,6,,jIvAmi,,
+4,2,yellow_back,8,2,prasāda,prasāda,,iic.,7,7,,prasAda,"7, 8, ","ina(ina), ina(ina), "
+5,2,mauve_back,15,2,na,na,,part.,2,2,,na,,
+6,3,deep_sky_back,8,2,prasāde,prasāda,,loc. sg. m.,7,7,,prasAde,,
+7,4,lawngreen_back,14,2,ina,ina,,voc. sg. m.,3,3,,ina,,
+8,4,lawngreen_back,14,2,ina,ina,,voc. sg. n.,3,3,,ina,,
