@@ -173,3 +173,12 @@
 #29/1/2018
 -find conflicts,validating
 
+#30-31/1/2018
+-rest
+
+#1-2/2/2018
+-thinking of what to do for analasys
+
+#3/2/2018
+-learn to draw graph using networkx . get graph from dataframe ,conflicts 
+
