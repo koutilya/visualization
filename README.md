@@ -182,3 +182,5 @@
 #3/2/2018
 -learn to draw graph using networkx . get graph from dataframe ,conflicts 
 
+#4/2/2018
+-only wrote code for line to get dataframe from sanskrit reader , conflicts, graphML
