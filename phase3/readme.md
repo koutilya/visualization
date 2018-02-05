@@ -19,4 +19,4 @@
   
   
 # folder 999 
-  Is sample of all my files in phase3.zip and phase3_graphML.zip .
+  Is sample of all my files in phase3.zip  .
